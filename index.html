@@ -208,9 +208,18 @@
               nested folders.
             </p>
             <div class="actions">
-              <a class="button button-primary" id="open-atlas" href="resources/maths/tmua/site/index.html">Open study atlas</a>
-              <a class="button" id="open-library" href="resources/maths/tmua/site/library.html">Open library</a>
-              <a class="button" id="open-readme" href="resources/maths/tmua/README.md">Open TMUA README</a>
+              <a
+                class="button button-primary"
+                href="https://html-preview.github.io/?url=https://raw.githubusercontent.com/kwr14/Tmua-aid/main/resources/maths/tmua/site/index.html"
+              >Open study atlas</a>
+              <a
+                class="button"
+                href="https://html-preview.github.io/?url=https://raw.githubusercontent.com/kwr14/Tmua-aid/main/resources/maths/tmua/site/library.html"
+              >Open library</a>
+              <a
+                class="button"
+                href="https://github.com/kwr14/Tmua-aid/blob/main/resources/maths/tmua/README.md"
+              >Open TMUA README</a>
             </div>
           </div>
 
@@ -223,9 +232,10 @@
               </p>
             </article>
             <article class="card">
-              <strong>Local-friendly</strong>
+              <strong>Preview-first routing</strong>
               <p>
-                When opened locally, the same buttons stay as plain relative links so local preview keeps working.
+                Every HTML button on this entry page routes through <code>html-preview.github.io</code>,
+                even when you open this file locally.
               </p>
             </article>
             <article class="card">
@@ -258,35 +268,5 @@
       </p>
     </main>
 
-    <script>
-      (function () {
-        const previewBase = "https://html-preview.github.io/";
-        const siteRawBase = "https://raw.githubusercontent.com/kwr14/Tmua-aid/main/";
-        const repoBlobBase = "https://github.com/kwr14/Tmua-aid/blob/main/";
-
-        function isLocalRuntime() {
-          const host = window.location.hostname;
-          return window.location.protocol === "file:" || host === "127.0.0.1" || host === "localhost";
-        }
-
-        function previewHref(path) {
-          if (isLocalRuntime()) {
-            return path;
-          }
-          return previewBase + "?url=" + encodeURIComponent(siteRawBase + path);
-        }
-
-        function blobHref(path) {
-          if (isLocalRuntime()) {
-            return path;
-          }
-          return repoBlobBase + path;
-        }
-
-        document.getElementById("open-atlas").href = previewHref("resources/maths/tmua/site/index.html");
-        document.getElementById("open-library").href = previewHref("resources/maths/tmua/site/library.html");
-        document.getElementById("open-readme").href = blobHref("resources/maths/tmua/README.md");
-      })();
-    </script>
   </body>
 </html>

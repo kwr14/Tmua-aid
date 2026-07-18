@@ -24,11 +24,6 @@ function el(tag, className, html) {
   return node;
 }
 
-function isLocalRuntime() {
-  const host = window.location.hostname;
-  return window.location.protocol === "file:" || host === "127.0.0.1" || host === "localhost";
-}
-
 function parseRoute(route) {
   const [pathWithQuery, hash = ""] = route.split("#");
   const [path, query = ""] = pathWithQuery.split("?");
@@ -37,10 +32,6 @@ function parseRoute(route) {
 
 function resolveSiteHref(route) {
   if (!route) {
-    return route;
-  }
-
-  if (isLocalRuntime()) {
     return route;
   }
 
@@ -59,10 +50,6 @@ function resolveSiteHref(route) {
 
 function resolveRepoHref(path) {
   if (!path) {
-    return path;
-  }
-
-  if (isLocalRuntime()) {
     return path;
   }
 
@@ -140,7 +127,7 @@ function renderFooter() {
 
   footer.innerHTML = `
     <span>Built from the TMUA study pack already in this repository.</span>
-    <span>Designed for local browsing and GitHub HTML preview.</span>
+    <span>All HTML navigation routes through html-preview.github.io.</span>
   `;
 }
 
