@@ -1,4 +1,9 @@
 const data = window.tmuaSiteData;
+const PREVIEW_BASE = "https://html-preview.github.io/";
+const SITE_RAW_BASE = "https://raw.githubusercontent.com/kwr14/Tmua-aid/main/resources/maths/tmua/site/";
+const REPO_BLOB_BASE = "https://github.com/kwr14/Tmua-aid/blob/main/resources/maths/tmua/";
+const REPO_RAW_BASE = "https://raw.githubusercontent.com/kwr14/Tmua-aid/main/resources/maths/tmua/";
+const SITE_PAGE_PATTERN = /^(?:\.\/)?(?:index|library|reader|question-map|papers)\.html(?:[?#].*)?$/;
 
 function $(selector, scope = document) {
   return scope.querySelector(selector);
@@ -19,6 +24,80 @@ function el(tag, className, html) {
   return node;
 }
 
+function isLocalRuntime() {
+  const host = window.location.hostname;
+  return window.location.protocol === "file:" || host === "127.0.0.1" || host === "localhost";
+}
+
+function parseRoute(route) {
+  const [pathWithQuery, hash = ""] = route.split("#");
+  const [path, query = ""] = pathWithQuery.split("?");
+  return { path, query, hash };
+}
+
+function resolveSiteHref(route) {
+  if (!route) {
+    return route;
+  }
+
+  if (isLocalRuntime()) {
+    return route;
+  }
+
+  const { path, query, hash } = parseRoute(route);
+  const routeParams = new URLSearchParams(query);
+  const previewParams = new URLSearchParams();
+  previewParams.set("url", `${SITE_RAW_BASE}${path}`);
+
+  routeParams.forEach((value, key) => {
+    previewParams.set(key, value);
+  });
+
+  const href = `${PREVIEW_BASE}?${previewParams.toString()}`;
+  return hash ? `${href}#${hash}` : href;
+}
+
+function resolveRepoHref(path) {
+  if (!path) {
+    return path;
+  }
+
+  if (isLocalRuntime()) {
+    return path;
+  }
+
+  const cleanPath = path.replace(/^\.\.\//, "");
+  if (cleanPath.endsWith(".md") || cleanPath.includes(".md#")) {
+    return `${REPO_BLOB_BASE}${cleanPath}`;
+  }
+
+  return `${REPO_RAW_BASE}${cleanPath}`;
+}
+
+function getRouteParams() {
+  const params = new URLSearchParams(window.location.search);
+  params.delete("url");
+  return params;
+}
+
+function rewriteStaticSiteLinks() {
+  $all("a[href]").forEach((link) => {
+    const href = link.getAttribute("href");
+    if (!href || href.startsWith("#") || href.startsWith("http://") || href.startsWith("https://") || href.startsWith("mailto:")) {
+      return;
+    }
+
+    if (SITE_PAGE_PATTERN.test(href)) {
+      link.href = resolveSiteHref(href);
+      return;
+    }
+
+    if (href.startsWith("../")) {
+      link.href = resolveRepoHref(href);
+    }
+  });
+}
+
 function setActiveNav() {
   const page = document.body.dataset.page;
   $all(".nav-links a").forEach((link) => {
@@ -36,7 +115,7 @@ function renderTopbar() {
 
   header.innerHTML = `
     <div class="topbar-inner">
-      <a class="brand" href="index.html">
+      <a class="brand" href="${resolveSiteHref("index.html")}">
         <span class="brand-mark">T</span>
         <span class="brand-copy">
           <strong>${data.site.title}</strong>
@@ -44,10 +123,10 @@ function renderTopbar() {
         </span>
       </a>
       <nav class="nav-links" aria-label="Primary">
-        <a data-page="home" href="index.html">Home</a>
-        <a data-page="library" href="library.html">Library</a>
-        <a data-page="question-map" href="question-map.html">Question Map</a>
-        <a data-page="papers" href="papers.html">Papers</a>
+        <a data-page="home" href="${resolveSiteHref("index.html")}">Home</a>
+        <a data-page="library" href="${resolveSiteHref("library.html")}">Library</a>
+        <a data-page="question-map" href="${resolveSiteHref("question-map.html")}">Question Map</a>
+        <a data-page="papers" href="${resolveSiteHref("papers.html")}">Papers</a>
       </nav>
     </div>
   `;
@@ -89,7 +168,7 @@ function renderHome() {
   pathways.innerHTML = data.home.pathways
     .map(
       (item) => `
-        <a class="mini-card" href="${item.href}">
+        <a class="mini-card" href="${resolveSiteHref(item.href)}">
           <span class="kicker">Study mode</span>
           <h3>${item.title}</h3>
           <p>${item.description}</p>
@@ -115,7 +194,7 @@ function renderHome() {
 }
 
 function resourceCard(resource) {
-  const href = resource.readerHref || resource.source;
+  const href = resource.readerHref ? resolveSiteHref(resource.readerHref) : resolveRepoHref(resource.source);
   const primaryLabel = resource.kind === "map" ? "Open interactive view" : "Read in atlas";
   return `
     <article class="resource-card">
@@ -132,7 +211,7 @@ function resourceCard(resource) {
       </div>
       <div class="card-actions">
         <a class="button button-primary" href="${href}">${primaryLabel}</a>
-        <a class="button" href="${resource.source}" target="_blank" rel="noopener noreferrer">Open markdown source</a>
+        <a class="button" href="${resolveRepoHref(resource.source)}" target="_blank" rel="noopener noreferrer">Open markdown source</a>
       </div>
     </article>
   `;
@@ -150,7 +229,7 @@ function topicCard(topic) {
       </div>
       <p>${topic.description}</p>
       <div class="topic-links" style="margin-top:16px;">
-        <a class="button button-primary" href="${topic.bestPaper.href}" target="_blank" rel="noopener noreferrer">Open ${topic.bestPaper.title} worked note</a>
+        <a class="button button-primary" href="${resolveRepoHref(topic.bestPaper.href)}" target="_blank" rel="noopener noreferrer">Open ${topic.bestPaper.title} worked note</a>
       </div>
     </article>
   `;
@@ -168,8 +247,8 @@ function paperCard(item) {
       </div>
       <p>Open the worked note, original paper, official worked solution, or answer key.</p>
       <div class="paper-links" style="margin-top:16px;">
-        <a class="button button-primary" href="${item.worked}" target="_blank" rel="noopener noreferrer">Open worked note</a>
-        <a class="button" href="${item.paper}" target="_blank" rel="noopener noreferrer">Open paper PDF</a>
+        <a class="button button-primary" href="${resolveRepoHref(item.worked)}" target="_blank" rel="noopener noreferrer">Open worked note</a>
+        <a class="button" href="${resolveRepoHref(item.paper)}" target="_blank" rel="noopener noreferrer">Open paper PDF</a>
       </div>
     </article>
   `;
@@ -184,7 +263,7 @@ function renderLibrary() {
     return;
   }
 
-  const params = new URLSearchParams(window.location.search);
+  const params = getRouteParams();
   const initialFilter = params.get("filter");
   if (initialFilter) {
     category.value = initialFilter;
@@ -229,7 +308,7 @@ function renderReader() {
     return;
   }
 
-  const params = new URLSearchParams(window.location.search);
+  const params = getRouteParams();
   const noteId = params.get("note") || "conceptual-refresh";
   const note = data.resources.find((item) => item.id === noteId);
 
@@ -242,8 +321,8 @@ function renderReader() {
   title.textContent = note.title;
   summary.textContent = note.description;
   actions.innerHTML = `
-    <a class="button button-primary" href="${note.source}" target="_blank" rel="noopener noreferrer">Open markdown source</a>
-    ${note.id === "question-map-note" ? `<a class="button" href="question-map.html">Open Interactive Map</a>` : ""}
+    <a class="button button-primary" href="${resolveRepoHref(note.source)}" target="_blank" rel="noopener noreferrer">Open markdown source</a>
+    ${note.id === "question-map-note" ? `<a class="button" href="${resolveSiteHref("question-map.html")}">Open interactive map</a>` : ""}
   `;
   article.innerHTML = note.body;
 
@@ -333,16 +412,16 @@ function renderQuestionMap() {
                 </div>
                 <p>${topic.description}</p>
                 <div class="callout" style="margin-top:18px;">
-                  <p><strong>Best paper:</strong> <a href="${topic.bestPaper.href}" target="_blank" rel="noopener noreferrer">${topic.bestPaper.title}</a></p>
+                  <p><strong>Best paper:</strong> <a href="${resolveRepoHref(topic.bestPaper.href)}" target="_blank" rel="noopener noreferrer">${topic.bestPaper.title}</a></p>
                   <p style="margin-bottom:0;">Question links below open the exact worked-note anchors in a new tab so you keep your place in the atlas.</p>
                 </div>
                 <h4 style="margin-bottom:10px;">Best Starting Set</h4>
                 <ul>
-                  ${topic.bestStartingSet.map((item) => `<li><a href="${item.href}" target="_blank" rel="noopener noreferrer">${item.title}</a> — ${item.note}</li>`).join("")}
+                  ${topic.bestStartingSet.map((item) => `<li><a href="${resolveRepoHref(item.href)}" target="_blank" rel="noopener noreferrer">${item.title}</a> — ${item.note}</li>`).join("")}
                 </ul>
                 <h4 style="margin-bottom:10px;">Stretch</h4>
                 <ul>
-                  ${topic.stretch.map((item) => `<li><a href="${item.href}" target="_blank" rel="noopener noreferrer">${item.title}</a> — ${item.note}</li>`).join("")}
+                  ${topic.stretch.map((item) => `<li><a href="${resolveRepoHref(item.href)}" target="_blank" rel="noopener noreferrer">${item.title}</a> — ${item.note}</li>`).join("")}
                 </ul>
               </article>
             `
@@ -390,10 +469,10 @@ function renderPapers() {
                 </div>
                 <p class="card-description">Direct access to the worked note, original paper, official worked solution, and answer key.</p>
                 <div class="paper-links" style="margin-top:16px;">
-                  <a class="button button-primary" href="${paper.worked}" target="_blank" rel="noopener noreferrer">Open worked note</a>
-                  <a class="button" href="${paper.paper}" target="_blank" rel="noopener noreferrer">Paper PDF</a>
-                  <a class="button" href="${paper.workedPdf}" target="_blank" rel="noopener noreferrer">Worked-solution PDF</a>
-                  <a class="button" href="${paper.answerKey}" target="_blank" rel="noopener noreferrer">Answer key PDF</a>
+                  <a class="button button-primary" href="${resolveRepoHref(paper.worked)}" target="_blank" rel="noopener noreferrer">Open worked note</a>
+                  <a class="button" href="${resolveRepoHref(paper.paper)}" target="_blank" rel="noopener noreferrer">Paper PDF</a>
+                  <a class="button" href="${resolveRepoHref(paper.workedPdf)}" target="_blank" rel="noopener noreferrer">Worked-solution PDF</a>
+                  <a class="button" href="${resolveRepoHref(paper.answerKey)}" target="_blank" rel="noopener noreferrer">Answer key PDF</a>
                 </div>
               </article>
             `
@@ -454,6 +533,7 @@ function init() {
   renderQuestionMap();
   renderPapers();
   renderTimetablePreview();
+  rewriteStaticSiteLinks();
 }
 
 document.addEventListener("DOMContentLoaded", init);

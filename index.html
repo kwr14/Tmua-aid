@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tmua-aid</title>
+    <meta
+      name="description"
+      content="Top-level entry for the TMUA study atlas and revision materials."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #0f1520;
+        --panel: rgba(18, 27, 40, 0.88);
+        --panel-soft: rgba(247, 239, 226, 0.05);
+        --text: #f8f2e7;
+        --muted: #cdbfae;
+        --soft: #9ea5af;
+        --accent: #d8b877;
+        --accent-strong: #f3cd87;
+        --border: rgba(216, 184, 119, 0.18);
+        --shadow: 0 30px 80px rgba(0, 0, 0, 0.3);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        padding: 28px;
+        color: var(--text);
+        font-family: "Newsreader", Georgia, serif;
+        background:
+          radial-gradient(circle at 18% 18%, rgba(216, 184, 119, 0.18), transparent 24%),
+          radial-gradient(circle at 82% 14%, rgba(120, 148, 188, 0.14), transparent 22%),
+          linear-gradient(135deg, #0a1018 0%, var(--bg) 55%, #182131 100%);
+      }
+
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        background-image:
+          linear-gradient(rgba(255, 255, 255, 0.015), rgba(255, 255, 255, 0.015)),
+          radial-gradient(rgba(255, 255, 255, 0.03) 0.6px, transparent 0.6px);
+        background-size: 100% 100%, 18px 18px;
+        mix-blend-mode: soft-light;
+      }
+
+      .shell {
+        position: relative;
+        z-index: 1;
+        width: min(980px, 100%);
+        display: grid;
+        gap: 24px;
+      }
+
+      .hero {
+        background: var(--panel);
+        border: 1px solid var(--border);
+        border-radius: 30px;
+        box-shadow: var(--shadow);
+        overflow: hidden;
+      }
+
+      .hero-inner {
+        padding: 42px;
+        display: grid;
+        grid-template-columns: 1.3fr 0.9fr;
+        gap: 28px;
+      }
+
+      .eyebrow {
+        display: inline-flex;
+        padding: 8px 12px;
+        border-radius: 999px;
+        background: rgba(216, 184, 119, 0.12);
+        border: 1px solid rgba(216, 184, 119, 0.16);
+        color: var(--accent-strong);
+        font-size: 0.74rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        margin: 20px 0 12px;
+        font-family: "Fraunces", Georgia, serif;
+        font-size: clamp(3rem, 7vw, 5.6rem);
+        line-height: 0.94;
+        letter-spacing: -0.05em;
+        max-width: 8ch;
+      }
+
+      p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 1.08rem;
+        line-height: 1.65;
+      }
+
+      .actions,
+      .link-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+
+      .actions {
+        margin-top: 28px;
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 13px 18px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        background: rgba(247, 239, 226, 0.05);
+        color: var(--text);
+        text-decoration: none;
+        transition: 180ms ease;
+      }
+
+      .button:hover {
+        transform: translateY(-2px);
+        background: rgba(247, 239, 226, 0.1);
+      }
+
+      .button-primary {
+        background: linear-gradient(135deg, rgba(216, 184, 119, 0.96), rgba(243, 205, 135, 0.86));
+        color: #121722;
+        font-weight: 700;
+      }
+
+      .mini-stack {
+        display: grid;
+        gap: 14px;
+      }
+
+      .card {
+        background: var(--panel-soft);
+        border: 1px solid rgba(247, 239, 226, 0.08);
+        border-radius: 22px;
+        padding: 18px;
+      }
+
+      .card strong {
+        display: block;
+        margin-bottom: 6px;
+        font-family: "Fraunces", Georgia, serif;
+        color: var(--accent-strong);
+        font-size: 1.12rem;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 18px;
+      }
+
+      .footer-note {
+        color: var(--soft);
+        font-size: 0.95rem;
+      }
+
+      code {
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 0.92em;
+        padding: 0.12em 0.4em;
+        border-radius: 6px;
+        background: rgba(247, 239, 226, 0.08);
+      }
+
+      @media (max-width: 860px) {
+        .hero-inner,
+        .grid {
+          grid-template-columns: 1fr;
+        }
+
+        .hero-inner {
+          padding: 28px 22px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div class="hero-inner">
+          <div>
+            <span class="eyebrow">Top-level entry</span>
+            <h1>TMUA Study Atlas</h1>
+            <p>
+              This repository now has a proper front door. Use it to open the full TMUA study site,
+              jump into the paper library, or browse the source notes directly without hunting through
+              nested folders.
+            </p>
+            <div class="actions">
+              <a class="button button-primary" id="open-atlas" href="resources/maths/tmua/site/index.html">Open study atlas</a>
+              <a class="button" id="open-library" href="resources/maths/tmua/site/library.html">Open library</a>
+              <a class="button" id="open-readme" href="resources/maths/tmua/README.md">Open TMUA README</a>
+            </div>
+          </div>
+
+          <div class="mini-stack">
+            <article class="card">
+              <strong>Preview-friendly</strong>
+              <p>
+                When opened through <code>html-preview.github.io</code>, the links on this page route
+                into the rendered HTML site rather than showing raw source.
+              </p>
+            </article>
+            <article class="card">
+              <strong>Local-friendly</strong>
+              <p>
+                When opened locally, the same buttons stay as plain relative links so local preview keeps working.
+              </p>
+            </article>
+            <article class="card">
+              <strong>Study-first structure</strong>
+              <p>
+                The atlas organizes the revision notes, question map, timetable, and paper library into one navigable UI.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="grid">
+        <article class="card">
+          <strong>Refresh</strong>
+          <p>Conceptual refresh, cheat sheet, and core mathematical habits.</p>
+        </article>
+        <article class="card">
+          <strong>Target</strong>
+          <p>Question map by topic so you can go straight to the right paper and question set.</p>
+        </article>
+        <article class="card">
+          <strong>Simulate</strong>
+          <p>Drill plan, 4-week timetable, and full paper routes for realistic preparation.</p>
+        </article>
+      </section>
+
+      <p class="footer-note">
+        Main nested site path: <code>resources/maths/tmua/site/index.html</code>
+      </p>
+    </main>
+
+    <script>
+      (function () {
+        const previewBase = "https://html-preview.github.io/";
+        const siteRawBase = "https://raw.githubusercontent.com/kwr14/Tmua-aid/main/";
+        const repoBlobBase = "https://github.com/kwr14/Tmua-aid/blob/main/";
+
+        function isLocalRuntime() {
+          const host = window.location.hostname;
+          return window.location.protocol === "file:" || host === "127.0.0.1" || host === "localhost";
+        }
+
+        function previewHref(path) {
+          if (isLocalRuntime()) {
+            return path;
+          }
+          return previewBase + "?url=" + encodeURIComponent(siteRawBase + path);
+        }
+
+        function blobHref(path) {
+          if (isLocalRuntime()) {
+            return path;
+          }
+          return repoBlobBase + path;
+        }
+
+        document.getElementById("open-atlas").href = previewHref("resources/maths/tmua/site/index.html");
+        document.getElementById("open-library").href = previewHref("resources/maths/tmua/site/library.html");
+        document.getElementById("open-readme").href = blobHref("resources/maths/tmua/README.md");
+      })();
+    </script>
+  </body>
+</html>
