@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TMUA Study Atlas</title>
+    <meta
+      name="description"
+      content="A beautiful static interface for the TMUA study pack: concepts, papers, question map, and revision timetable."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="home">
+    <div class="site-shell">
+      <header class="topbar" id="topbar"></header>
+
+      <main class="page">
+        <section class="hero">
+          <article class="panel hero-main">
+            <span class="eyebrow">Scholarly editorial UI</span>
+            <h1 class="display">TMUA Study Atlas</h1>
+            <p>
+              A calmer, more beautiful way to move through the full TMUA study pack: concepts,
+              papers, question targeting, revision planning, and worked notes.
+            </p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="reader.html?note=conceptual-refresh">Start With Concepts</a>
+              <a class="button" href="question-map.html">Target A Weak Topic</a>
+              <a class="button" href="papers.html">Open Paper Library</a>
+            </div>
+          </article>
+
+          <aside class="panel hero-side">
+            <div class="stats-grid" id="hero-stats"></div>
+            <div class="mini-card">
+              <span class="kicker">Designed for flow</span>
+              <h3 style="margin-top: 8px;">Built for revision, not file hunting</h3>
+              <p>
+                Every page is aimed at helping you move from “what should I do next?” to “open the exact
+                thing I need”.
+              </p>
+            </div>
+          </aside>
+        </section>
+
+        <section class="section">
+          <div class="section-head">
+            <div>
+              <h2>Choose Your Route</h2>
+              <p>Enter by intention: refresh, target, practise, or simulate.</p>
+            </div>
+          </div>
+          <div class="pathways-grid" id="pathway-grid"></div>
+        </section>
+
+        <section class="split-section">
+          <article class="panel" style="padding: 28px;">
+            <div class="section-head">
+              <div>
+                <h2>Featured Study Notes</h2>
+                <p>Start with the most useful notes in the pack.</p>
+              </div>
+              <a class="button" href="library.html">Full Library</a>
+            </div>
+            <div class="resource-grid" id="featured-grid"></div>
+          </article>
+
+          <article class="panel" style="padding: 28px;">
+            <div class="section-head">
+              <div>
+                <h2>Question Map Preview</h2>
+                <p>Topic-first entry points into the paper set.</p>
+              </div>
+              <a class="button" href="question-map.html">Open Full Map</a>
+            </div>
+            <div class="topic-grid" id="topic-preview"></div>
+          </article>
+        </section>
+
+        <section class="split-section">
+          <article class="panel" style="padding: 28px;">
+            <div class="section-head">
+              <div>
+                <h2>Paper Library</h2>
+                <p>All TMUA papers, with worked notes and source PDFs.</p>
+              </div>
+              <a class="button" href="papers.html">Browse Papers</a>
+            </div>
+            <div class="paper-grid" id="paper-preview"></div>
+          </article>
+
+          <article class="panel" style="padding: 28px;">
+            <div class="section-head">
+              <div>
+                <h2>Revision Arc</h2>
+                <p>Four weeks from rebuild to simulation.</p>
+              </div>
+              <a class="button" href="reader.html?note=4-week-timetable">Open Timetable</a>
+            </div>
+            <div class="timeline" id="timeline-preview"></div>
+          </article>
+        </section>
+
+        <footer class="footer-note" id="footer-note"></footer>
+      </main>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

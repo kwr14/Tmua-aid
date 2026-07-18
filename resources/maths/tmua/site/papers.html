@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TMUA Study Atlas · Papers</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="papers">
+    <div class="site-shell">
+      <header class="topbar" id="topbar"></header>
+
+      <main class="page">
+        <section class="panel" style="padding: 32px;">
+          <span class="eyebrow">Full paper directory</span>
+          <div class="section-head" style="margin-top: 12px;">
+            <div>
+              <h2>TMUA Paper Library</h2>
+              <p>Browse Practice, Specimen, and yearly papers, each with worked notes and source files.</p>
+            </div>
+          </div>
+
+          <div class="filter-shell">
+            <input id="paper-search" type="search" placeholder="Search by year or paper number" />
+            <select id="paper-year" aria-label="Filter papers by year">
+              <option value="">All years</option>
+              <option value="practice">Practice</option>
+              <option value="specimen">Specimen</option>
+              <option value="2023">2023</option>
+              <option value="2022">2022</option>
+              <option value="2021">2021</option>
+              <option value="2020">2020</option>
+              <option value="2019">2019</option>
+              <option value="2018">2018</option>
+              <option value="2017">2017</option>
+            </select>
+            <div class="mini-card">
+              <span class="kicker">Tip</span>
+              <p style="margin: 8px 0 0;">Start with Practice and Specimen papers, then move into recent real papers.</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="paper-grid" id="papers-grid"></div>
+        </section>
+
+        <footer class="footer-note" id="footer-note"></footer>
+      </main>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

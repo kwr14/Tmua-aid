@@ -9,6 +9,14 @@
 - `worked/`: cleaned markdown notes for each paper
 - `manifest.json`: machine-readable metadata for the full set
 
+## Study Notes
+- [Conceptual Refresh](conceptual-refresh.md)
+- [One-Page Cheat Sheet](cheat-sheet.md)
+- [4-Week Revision Timetable](4-week-timetable.md)
+- [Topic Drill Plan](drill-plan.md)
+- [Question Map](question-map.md)
+- [Common Mistakes](common-mistakes.md)
+
 ## Papers
 
 ### 2023

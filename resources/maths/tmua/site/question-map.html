@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TMUA Study Atlas · Question Map</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="question-map">
+    <div class="site-shell">
+      <header class="topbar" id="topbar"></header>
+
+      <main class="page">
+        <section class="panel" style="padding: 32px;">
+          <span class="eyebrow">Topic-first practice</span>
+          <div class="section-head" style="margin-top: 12px;">
+            <div>
+              <h2>Interactive Question Map</h2>
+              <p>Jump from a weak topic straight to the best paper, the best starting set, and a stretch question.</p>
+            </div>
+            <a class="button" href="../question-map.md">Markdown Source</a>
+          </div>
+          <div class="filter-shell" style="grid-template-columns: 1fr;">
+            <input id="topic-filter" type="search" placeholder="Search topics, methods, or question descriptions" />
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="topic-grid" id="topic-grid"></div>
+        </section>
+
+        <footer class="footer-note" id="footer-note"></footer>
+      </main>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

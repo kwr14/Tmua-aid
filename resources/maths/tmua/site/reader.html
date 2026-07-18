@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TMUA Study Atlas · Reader</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="library">
+    <div class="site-shell">
+      <header class="topbar" id="topbar"></header>
+
+      <main class="page reader-layout">
+        <aside class="panel sticky-panel">
+          <span class="eyebrow">Reader navigation</span>
+          <h2 style="margin-bottom: 10px;">On this page</h2>
+          <nav class="toc" id="reader-toc" aria-label="Table of contents"></nav>
+        </aside>
+
+        <section class="panel reader-panel" id="reader-panel">
+          <div class="reader-meta">
+            <div>
+              <span class="eyebrow">Study note</span>
+              <h1 id="reader-title"></h1>
+              <p class="reader-summary" id="reader-summary"></p>
+            </div>
+            <div class="reader-actions" id="reader-actions"></div>
+          </div>
+          <div class="progress-track">
+            <div class="progress-fill" id="progress-fill"></div>
+          </div>
+          <article class="reader-article" id="reader-article"></article>
+        </section>
+      </main>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
