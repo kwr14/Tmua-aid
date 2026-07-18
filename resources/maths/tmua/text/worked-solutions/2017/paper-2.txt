@@ -1,0 +1,1023 @@
+Test of Mathematics for University Admission
+Paper 2 2017 worked answers
+             Test of Mathematics for University Admission
+                           2017 Paper 2
+                          Worked Solutions
+
+
+                                     Version 1.0, April 2019
+
+
+
+Contents
+
+  Introduction for students . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       2
+  Question 1    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    3
+  Question 2    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    4
+  Question 3    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    5
+  Question 4    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    6
+  Question 5    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    7
+  Question 6    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    8
+  Question 7    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    9
+  Question 8    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+  Question 9    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11
+  Question 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     12
+  Question 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     13
+  Question 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     14
+  Question 13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     15
+  Question 14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     16
+  Question 15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     17
+  Question 16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     18
+  Question 17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     19
+  Question 18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     20
+  Question 19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     22
+  Question 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     23
+
+
+
+
+                                                                                           © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Introduction for students
+
+These solutions are designed to support you as you prepare to take the Test of Mathematics for
+University Admission. They are intended to help you understand how to answer the questions,
+and therefore you are strongly encouraged to attempt the questions first before looking at
+these worked solutions. For this reason, each solution starts on a new page, so that you can
+avoid looking ahead.
+The solutions contain much more detail and explanation than you would need to write in the
+test itself – after all, the test is multiple choice, so no written solutions are needed, and you may
+be very fluent at some of the steps spelled out here. Nevertheless, doing too much in your head
+might lead to making unnecessary mistakes, so a healthy balance is a good target!
+There may be alternative ways to correctly answer these questions; these are not meant to be
+‘definitive’ solutions.
+The questions themselves are available on the ‘Preparing for the test’ section on the Admissions
+Testing website.
+
+Paper 2 uses ideas from mathematical logic. These are explained in detail in the ‘Notes on Logic
+and Proof’ on the above webpage.
+
+
+
+
+Version 1.0, April 2019                                                                       Page 2
+
+                                                                                        © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 1
+
+We first expand the brackets and split up the fraction:
+
+                                           (1 − 3x)2
+                                    y=              3
+                                              2x 2
+                                           1 − 6x + 9x2
+                                       =                3
+                                             2x 2
+                                             − 32  1        1
+                                       = 2 x − 3x− 2 + 92 x 2
+                                         1
+
+
+and we can now differentiate this to get
+                           dy                5              3              1
+                              = 21 (− 32 )x− 2 − 3(− 12 )x− 2 + 92 × 21 x− 2
+                           dx
+                                          5       3         1
+                              = − 43 x− 2 + 32 x− 2 + 49 x− 2
+
+and so the correct answer is A.
+
+
+
+
+Version 1.0, April 2019                                                             Page 3
+
+                                                                               © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 2
+
+A quick sketch (not drawn to scale) may help us here.
+
+                                y
+                                    Q(1, 8)
+
+
+                     P (0, 6)
+
+
+
+
+                                                                                  x
+                                0                                       R(r, 0)
+
+                                                                    S
+
+                 √          √
+P Q has length    12 + 22 = 5 by Pythagoras’s theorem.
+                        8−6
+The gradient of P Q is        = 2, so QR has gradient − 21
+                        1−0
+We could now find the coordinates of R by finding the equation of the line QR and substituting
+in y = 0 to find the x-coordinate of R.
+
+
+Alternatively, if we set the coordinates of R to be (r, 0), we can just use the known gradient of
+QR to find r:
+                                            0−8       1
+                                                 =−
+                                            r−1       2
+    8
+so r−1 = 12 giving r − 1 = 16, hence r = 17
+Therefore the length QR is
+                     p                    p            p           √
+                        (r − 1)2 + (−8)2 = 162 + 82 = 8 22 + 12 = 8 5
+                                   √     √
+which gives the area of P QRS as 5 × 8 5 = 40, and the answer is E.
+Interestingly, it turns out that we only actually needed r − 1; we did not need to know the actual
+coordinates of R.
+
+
+
+
+Version 1.0, April 2019                                                                    Page 4
+
+                                                                                      © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 3
+                       √                                                          √
+The first term is a = 2 3 and the common ratio is r. So the fourth term is ar3 = 2 3 r3 = 94
+and hence                                     √        √
+                                  3   9      9 3      3 3
+                                 r = √ =           =
+                                     8 3    8×3        8
+by rationalising the denominator.
+
+               √     √        3
+We can write 3 3 as 27 or 3 2 (since we want to take the cube root of this expression), and so
+we have                                 3            1    √
+                                  3    32          32       3
+                                 r =       =⇒ r =      =      .
+                                       8            2      2
+(There is a unique real cube root of any real number, unlike the case for square roots.)
+We can now find the sum to infinity of the geometric progression:
+                       a
+              S∞ =
+                     1−r
+                       √
+                      2 3
+              S∞ =        √
+                    1 − 23
+                       √
+                      4 3                                  2
+                  =     √                 multiplying by
+                    2− 3                                   2
+                        √      √
+                       4 3(2 + 3)
+                  =      √       √        rationalising the denominator
+                    (2 − 3)(2 + 3)
+                        √
+                    4(2 3 + 3)
+                  =                       paying attention to the options offered
+                        √1
+                  = 4(2 3 + 3)
+
+and the correct answer is G.
+
+
+
+
+Version 1.0, April 2019                                                                  Page 5
+
+                                                                                    © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 4
+
+Let’s run through every step of the argument with care.
+                          √
+The first step is ‘tan x = 3 so x = 60◦ ’. We should first check that x = 60◦√is a solution: using
+our knowledge of trigonometry and special angles, we know that tan 60◦ = 3, so it is.
+But we also know
+            √    that tan is periodic with period
+                                            √     180◦ : there are multiple values of x which
+have tan x = 3, and all solutions to tan x = 3 are therefore of the form x = 60◦ + 180n◦ for
+n ∈ Z.
+So there is unquestionably an error in the student’s answer, but we do not yet know whether
+there is more than one possible value of sin 2x.
+It follows from x = 60◦ + 180n◦ that 2x = 120◦ + 360n◦
+                                           √
+It is certainly the case that sin 120◦ =    3
+                                           2 .   But since sin is periodic with period 360◦ , we see
+                            √
+that sin(120◦ + 360n◦ ) =    3
+                            2 for every n ∈ Z.
+So there is only one possible value
+                                √ of sin 2x, but the student should have considered other possible
+values of x for which tan x = 3; this is option B.
+
+
+
+
+Version 1.0, April 2019                                                                      Page 6
+
+                                                                                        © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 5
+
+We note from the context of the statements that 91 = 7 × 13 shows that 91 is not prime. It also
+shows that 91 is a multiple of 7 and a multiple of 13.
+We use a counterexample when we are trying to disprove a statement of the form ‘if A then B’;
+the counterexample will be a case where A is true but B is false. We can also use counterexamples
+to disprove statements of the form ‘for all x, A is true’: a single example of an x for which A is
+false shows that the statement is false.
+We first rewrite each of the statements given into an explicit ‘if . . . then’ statement or an explicit
+‘for all’ statement.
+(With experience, this is not actually necessary; once you have seen enough statements, it
+becomes clear what a counterexample ‘looks like’. But for the purposes of reaching this point,
+it can be useful to go through these formal steps.)
+
+1 The word ‘when’ in this context has the same logical meaning as ‘if’, so the statement can be
+  rewritten as ‘if p is an odd prime, then 10p2 + 1 and 10p2 − 1 are both prime’.
+  So if 91 = 7 × 13 is to provide a counterexample, we need an odd prime p with 10p2 + 1 = 91
+  or 10p2 − 1 = 91, since in that case, ‘10p2 + 1 and 10p2 − 1 are both prime’ will be false. It is
+  clear that p = 3 achieves this, for then 10p2 + 1 = 91.
+
+2 We can write this statement as an explicit ‘for all’ statement, as ‘Every prime. . . ’ suggests
+  this meaning. The statement becomes: ‘For all primes p where p > 5, p = 6n + 1 for some
+  integer n’.
+  So a counterexample would be a prime p with p > 5 but for which p = 6n+1 is false. However,
+  91 is not prime, so 91 = 7 × 13 does not provide a counterexample. The fact that 91 = 6n + 1
+  for n = 15 is immaterial, and the fact that the statement is false (as 11 = 6 × 2 − 1) does not
+  help either.
+
+3 We can again write this as an explicit ‘for all’ statement; the English is better with the
+  equivalent ‘for each’, though: ‘For each n which is a multiple of 7 greater than 7, n is not
+  prime.’
+  If we now look at 91 = 7 × 13, we see that 91 is a multiple of 7 greater than 7. However,
+  91 is not prime, so 91 is an example of where the statement does hold, rather than being a
+  counterexample. In fact, the given statement is true, so there cannot be any counterexamples,
+  and we need not have looked at 91 = 7 × 13 at all.
+
+So the answer is B.
+
+
+
+
+Version 1.0, April 2019                                                                        Page 7
+
+                                                                                          © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 6
+
+We calculate the first few values of un in the hope that this will show a clear pattern.
+We have
+
+                                        u0 = 1
+                                             Z 1
+                                        u1 =     4x.1 dx
+                                               0
+                                                  1
+                                           = 2x2 0
+                                             
+
+                                           =2
+                                             Z 1
+                                        u2 =     4x.2 dx
+                                               0
+                                                  1
+                                           = 4x2 0
+                                             
+
+                                           =4
+                                             Z 1
+                                        u3 =     4x.4 dx
+                                               0
+                                                  1
+                                           = 8x2 0
+                                             
+
+                                           =8
+
+The pattern is now apparent: un = 2n , and so the answer is A.
+If we wanted to prove this to be true, we could use induction. The result is clearly true when
+n = 0, so assume that it is true when n = k. Then
+                                             Z 1
+                                      uk+1 =     4x.2k dx
+                                              0
+                                              k 2 1
+                                           = 2.2 x 0
+                                            = 2.2k
+                                            = 2k+1
+
+and so the result holds for n = k + 1. Hence by induction, un = 2n for all n ⩾ 0.
+
+
+
+
+Version 1.0, April 2019                                                                    Page 8
+
+                                                                                     © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 7
+
+The graph of y = f(x) looks like an exponential graph, so all of the four given statements
+certainly seem plausible.
+One approach to this question is to think about the shapes of different exponential graphs.
+Another is to consider a specific value of x, and see what happens.
+If we take x = 1, ax = a, and f(1) > a. We can now substitute x = 1 into the two expressions
+for f(x) offered: f(x) = bx gives f(1) = b, so we would need b > a. Similarly, f(x) = akx gives
+f(1) = ak . But it is clear from the solid line that a > 1 (as a0 = 1 and a1 = a > 1), so ak > a
+requires k > 1.
+So both statements 1 and 3 could be true, but not 2 or 4.
+We can be even more careful and show that we cannot have just one of 1 and 3 being true. If
+statement 3 is true, we have f(x) = akx = (ak )x , so writing b = ak > a shows that statement 1
+is true; likewise, if statement 1 is true, we have f(x) = bx = (aloga b )x = a(loga b)x and loga b > 1,
+so statement 3 is also true.
+Hence the correct answer is E.
+
+
+
+
+Version 1.0, April 2019                                                                        Page 9
+
+                                                                                          © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 8
+
+We can start by estimating or calculating the values.
+
+A 2 < log2 7 < 3, since log2 4 = 2 and log2 8 = 3
+
+B (2−3 + 2−2 )−1 = ( 18 + 41 )−1 = ( 38 )−1 = 38 which again lies between 2 and 3
+
+C π/3 is just a little greater than 1, so 2π/3 is a little greater than 2
+               √
+D We expand ( 2 − 1)3 using the binomial theorem to get
+                     √         √        √            √           √        √
+                    ( 2)3 − 3( 2)2 + 3 2 − 1 = 2 2 − 6 + 3 2 − 1 = 5 2 − 7
+
+   Thus                                              √              √
+                           1            1           5 2+7          5 2+7
+                         √        =    √       =     √           =
+                       4( 2 − 1)3   4(5 2 − 7)   4((5 2)2 − 72 )      4
+  This is greater than 5+7    4 = 3, so is certainly not the smallest in value.
+                                            2
+E sin( π4 ) = √12 , so 4 sin2 ( π4 ) = 4 √12 = 4 × 21 = 2
+
+
+Since A, B and C are each greater than 2, the correct answer is E.
+
+
+
+
+Version 1.0, April 2019                                                                 Page 10
+
+                                                                                    © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 9
+
+
+      Commentary: This is Fermat’s Last Theorem for the case n = 3; it was first proven by
+      Euler in the 18th century. The attempted proof here, though, is deeply flawed, as we will
+      see.
+
+Line I is fine: this is a simple rearrangement.
+Line II is fine: this is a standard algebraic identity which is easy to check.
+Line III is problematic. It is certainly true that a ⩽ a2 and c − b < c + b ⩽ c2 + b2 < c2 + cb + b2 .
+It is therefore plausible that a = c − b and a2 = c2 + cb + b2 , but it is far from necessary. Of
+course we cannot give an explicit example to show this, as there are no sets of positive integers
+a, b and c with a3 + b3 = c3 . But we can observe that if c − b = 1, we must have a3 = c2 + bc + b3 ,
+and this possibility has not been considered; alternatively, we could consider a case where a is
+not prime such as a = 6; then we can write a3 = 63 = 3 × 72, and we could have c − b = 3 and
+c2 + cb + b2 = 72. Either way, it does not necessarily follow that a = c − b and a2 = c2 + cb + b2 ,
+so this step is wrong.
+The correct answer is D.
+
+
+
+
+Version 1.0, April 2019                                                                      Page 11
+
+                                                                                         © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 10
+
+RTo3 show that a condition is sufficient, we need to show that if the condition is satisfied, then
+  1 f(x) dx = 0
+                                                                                   R3
+ Note that it is not enough for us to find an example of a function which satisfies 1 f(x) dx = 0
+ and then to check whether the function satisfies the suggested conditions, as this would be
+ checking whether the conditions are necessary, not whether they are sufficient.
+
+A Knowing the value of f(x) at a single value of x cannot hope to force the integral to be 0;
+  consider, for example, the quadratic f(x) = (x − 2)2
+
+B Likewise, knowing the value of f(x) at the endpoints is not sufficient; consider, for example,
+  the quadratic f(x) = (x − 1)(x − 3)
+
+C This says that the function is odd: the values of f(x) for negative values of x match those for
+  positive values of x. But it gives no control over the values of f(x) between x = 1 and x = 3,
+  R 3 it cannot be a sufficient condition. For example, f(x) = x satisfies f(−x) = −f(x), but
+  so
+   1 x dx > 0
+
+
+So it is one of D and E, both of which look complicated. E looks marginally easier to deal
+with, as x − 2 = −(2 − x). But that means that if we write y = 2 − x, condition E becomes
+f(−y) = −f(y), which is exactly the same as condition C. So condition E is not sufficient.
+By elimination, therefore, the correct answer must be condition D.
+Let us show that D is, indeed, sufficient. It would help to see what is going on if we write x + 2
+as 2 + x, so the condition becomes f(2 + x) = −f(2 − x). If we take 0 < x ⩽ 1, this shows that
+there is rotational symmetry about the point (2, 0):
+
+
+
+                                                               x
+                                  2−a          2        2+a
+
+
+
+And when x = 0, we get f(2) = −f(2) so f(2) = 0
+So the graph of y = f(x) itself might look like this:
+
+
+
+                                                               x
+                                               2
+
+
+                                                                                  R2
+Since the graph of y = f(x) has rotational symmetry about (2, 0), the integrals 1 f(x) dx and
+R3                                                                             R3
+ 2 f(x) dx will be negative of each other, and so condition D is sufficient for 1 f(x) dx = 0.
+
+
+
+
+Version 1.0, April 2019                                                                   Page 12
+
+                                                                                     © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 11
+
+We can approach this question algebraically or graphically.
+We start with an algebraic approach. We first note that f(x) ⩾ 0 for all x > 0 as f(x) is
+increasing. So the region described first, with area R, lies entirely above (or on) the x-axis, and
+                                                          Z b
+                                                R=              f(x) dx
+                                                           a
+
+We note that g(x) = f(x) + 2f(b) ⩾ 0 for x > 0 as f(x) ⩾ 0 and f(b) ⩾ 0. Then the area required
+under the graph g(x) is given by
+                                 Z b                Z b
+                                       g(x) dx =          f(x) + 2f(b) dx
+                                  a                  a
+                                                    Z b                     Z b
+                                                =         f(x) dx + 2f(b)          1 dx
+                                                     a                         a
+                                                = R + 2f(b)(b − a)
+
+On the second line we have split the integral into a sum of two integrals, and taken out the
+constant factor of 2f(b) from the second integral. Thus the answer is option B.
+We could also work graphically. We can sketch the graphs of f(x) and g(x), making up a suitable
+increasing shape for f(x):
+
+                             y
+                                                                    y = g(x) = f(x) + 2f(b)
+
+
+                     2f(b)
+
+                                                                    y = f(x)
+                      f(b)
+
+                                                    R
+                                                                      x
+                             0              a                   b
+
+
+It is clear from this sketch that the area under the graph of y = g(x) is formed of a rectangle
+which is (b − a) by 2f(b) in size, and the area under the original graph, R, so that the required
+area is R + (b − a) × 2f(b).
+
+
+
+
+Version 1.0, April 2019                                                                           Page 13
+
+                                                                                              © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 12
+
+We clearly need to sketch the graph of y = tan x onto the given sketch.
+This graph has asymptotes at x = ± π2 , and passes through the points ( π4 , 1) and (− π4 , −1).
+Since the function is increasing as it passes through these points, it must lie below the graph of
+y = sin 2x between 0 and π4 , and above it between − π4 and 0.
+This results in the following graph:
+
+                                                    y
+
+
+                                              1.5
+
+
+
+                                                1
+
+
+
+                                              0.5
+
+
+
+                                                                                           x
+               π                 π                  0            π                 π
+           −                 −
+               2                 4                               4                 2
+
+                                             −0.5
+
+
+
+                                              −1
+
+
+
+                                             −1.5
+
+
+
+We now pick various values for x and see which order the functions lie in. For example, when
+x is close to − π2 , we have tan x < cos 2x < sin 2x. Here are some cases as we move from x = − π2
+to x = π2 , each together with the option it eliminates:
+
+                     x value                  Function order            Option
+                     x close to − π2          tan x < cos 2x < sin 2x     F
+                     x just less than − π4    tan x < sin 2x < cos 2x     E
+                     x just more than − π4    sin 2x < tan x < cos 2x     D
+                     x just more than 0       tan x < sin 2x < cos 2x     E
+                     x just more than π8      tan x < cos 2x < sin 2x     F
+                     x just less than π4      cos 2x < tan x < sin 2x     B
+                     x just more than π4      cos 2x < sin 2x < tan x     A
+
+The only option which is not eliminated is C: sin 2x < cos 2x < tan x for some real number x
+with − π2 < x < π2
+It is also clear from the graph that this is impossible: the only time that tan x is greater than
+both sin 2x and cos 2x is when π4 < x < π2 , and in the whole of that range, cos 2x < sin 2x
+
+
+Version 1.0, April 2019                                                                    Page 14
+
+                                                                                       © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 13
+
+One way to think about this is to write it as a column addition. If we write a × 10−3 as
+0.00a1 a2 . . . , where a = a1 .a2 a3 . . . (as a decimal expansion), and similarly for the other num-
+bers, the sum becomes:
+                                                0 . 0 0 a1 a2 . . .
+                                             + 0 . 0 b1 b2 b3 . . .
+                                                0 . c1 c2 c3 c4 . . .
+
+We see that, as c1 ⩾ 1, there must be a carry from the hundredths column to the tenths column,
+and hence b1 = 9, so b ⩾ 9. If b = 9 exactly, then there cannot be a carry; we would just get a
+sum of 0.09a1 a2 . . . in that case. So we must have b > 9, and II must be true.
+There is no need to have a1 = 9; we could, for example, have a1 = 8 and b2 = 3 and still have a
+carry. So I is not necessary true.
+Comparing a and b to c, we know that 1 ⩽ c < 2, as c1 = 1. We saw that a1 = 8 is possible, so
+a > 8 is possible, and a < c (statement III) is not necessarily true.
+We have already shown that b > 9, so since c < 2, b > c (statement IV) is never true.
+So the answer is B.
+
+
+
+
+Version 1.0, April 2019                                                                      Page 15
+
+                                                                                         © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 14
+
+We can complete the square for the original quadratic:
+
+                                      x2 − 2bx + c = (x − b)2 − b2 + c
+
+so the vertex P is at (b, c − b2 ).
+The graph given shows that b > 0 and c − b2 > 0.
+The new quadratic is
+                                 x2 − 2Bx + c = (x − B)2 − B 2 + c
+so the new vertex is at (B, c − B 2 ).
+Now B > b, so the new vertex is to the right of P . As B > b > 0, B 2 > b2 so c − B 2 < c − b2 ,
+and the new vertex is below P .
+Therefore the correct answer is F.
+
+
+
+
+Version 1.0, April 2019                                                                 Page 16
+
+                                                                                    © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 15
+
+From the question, it seems that we are expected to work out the first few values of the functions
+f(n) and g(n), and to look for a pattern.
+
+                                           n f(n) g(n)
+                                           1 5     3
+                                           2 16    8
+                                           3 8     4
+                                           4 4     2
+                                           5 2     1
+                                           6 1     6
+                                           7 4     3
+                                           8 2     8
+                                           9 1     4
+                                          10 4     2
+                                          11 2     1
+                                          12 1     6
+
+So after the first three terms, f(n) repeats every 3 terms: for k ⩾ 1, f(3k + 1) = 4, f(3k + 2) = 2,
+f(3k+3) = 1, while g(n) repeats every 6 terms, and we can write similar expressions for g(6k+r).
+We could either calculate f(n) − g(n) for all of these terms, and find the repeating pattern there,
+or find f(1000) and g(1000) separately. The latter approach seems like less effort, so we will go
+for that.
+Note that 1000 = 3 × 333 + 1 = 6 × 166 + 4. So f(1000) = 4, g(1000) = 2.
+Thus f(1000) − g(1000) = 4 − 2 = 2 and the answer is D.
+
+
+
+
+Version 1.0, April 2019                                                                     Page 17
+
+                                                                                       © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 16
+
+For a function to be a counterexample to (∗), it must be the case that f(x) is an integer for every
+integer x, but for which f 0 (x) is not an integer for every integer x.
+We can start by substituting in x = 0 and x = 1 into the given functions to see whether f(x) is
+even potentially an integer for every integer x:
+
+A f(0) = 14 . This cannot be a counterexample.
+
+B f(0) = 0, f(1) = 32 . This cannot be a counterexample.
+
+C f(0) = 0, f(1) = 2. This could potentially be a counterexample.
+
+D f(0) = 0, f(1) = 1. This could potentially be a counterexample.
+
+So we now only need to consider C and D.
+Our next step is to differentiate them and then substitute x = 0 and x = 1 into the derivatives.
+
+              4x3 + 3x2 + 2x + 1 0
+C f 0 (x) =                     , f (0) = 12 , so this is potentially a counterexample.
+                      2
+              4x3 + 6x2 + 2x 0
+D f 0 (x) =                 , f (0) = 0, f 0 (1) = 4.
+                     4
+
+It therefore seems most likely that C is a counterexample and D is not. To prove this, we need
+to show that for C, f(x) is an integer for every integer x, and that for D, either f(x) is not an
+integer for some integer x or that f 0 (x) is an integer for every integer x.
+For the purposes of the test, it probably makes most sense at this point to choose the answer C
+and move on, but we will go on here to complete the solution.
+For C, we have
+                                     x(x3 + x2 + x + 1)   x(x + 1)(x2 + 1)
+                            f(x) =                      =
+                                             2                   2
+We see that x(x + 1) is even if x is even and also if x is odd, so x(x + 1)(x2 + 1) is even for every
+integer x, hence f(x) is an integer for every integer x. Therefore C is a counterexample.
+For D, we have
+                                          x2 (x2 + 2x + 1)   x2 (x + 1)2
+                                 f(x) =                    =
+                                                  4               4
+Since x(x + 1) is even for every integer x, as we just showed, x2 (x + 1)2 is a multiple of 4 for
+every integer x, and thus f(x) is an integer for every integer x.
+For the derivative,
+                                  x(2x2 + 3x + 1)     x(x + 1)(2x + 1)
+                             f 0 (x) =             =
+                                         2                    2
+                                                 0
+and as before, the numerator is always even, so f (x) is an integer for every integer x. Therefore
+D is not a counterexample.
+
+
+
+
+Version 1.0, April 2019                                                                       Page 18
+
+                                                                                          © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 17
+
+We begin with the original statement with S replaced by T :
+
+      T is stapled if and only if for every whole number a which is in T , there exists
+      a prime factor of a which divides at least one other number in T .
+
+Therefore, negating this:
+
+      T is not stapled if and only if it is not the case that for every whole number a
+      which is in T , there exists a prime factor of a which divides at least one other
+      number in T .
+
+We can negate the outer ‘for every’ to get ‘there exists . . . such that it is not the case
+that . . . ’:
+
+      T is not stapled if and only if there exists a whole number a which is in T such
+      that it is not the case that there exists a prime factor of a which divides at least
+      one other number in T .
+
+So the answer is one of E, F, G, H.
+Our current phrasing is ‘it is not the case that there exists’; we could convert this into ‘for
+every . . . , it is not the case that . . . ’, but none of these options use this wording. Instead, E,
+F and G use the wording ‘there is no prime factor’, which is the same as ‘there does not exist a
+prime factor’, which in turn is the same as ‘it is not the case that there exists a prime factor’.
+So we can rewrite the previous statement as:
+
+      T is not stapled if and only if there exists a whole number a which is in T such
+      that there is no prime factor of a which divides at least one other number in T .
+
+Hence the correct answer is F.
+
+
+
+
+Version 1.0, April 2019                                                                      Page 19
+
+                                                                                         © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 18
+
+We could first check to see whether
+                                   the answer makes sense. If we substitute n = 1 into the
+                                1 10
+original equation, we get 41 < 32    , which is clearly nonsense, so there has to be a mistake
+somewhere in the argument.
+There are two straightforward approaches to finding the mistake: one is to check that the logic
+of each step works, the other is to try a value of n which either does or does not solve the original
+inequality, and check that each step works for this value of n. Since we know that the solution
+is wrong, it must fail somewhere, at least when n = 1.
+
+Approach 1: checking the logic
+Clearly step (V) is correct, so the mistake must be earlier.
+Step (I) applies the same function to both sides of an inequality, so it looks fine.
+Step (II) is just a simplification of the logarithm expressions using the power rule. The powers
+are positive integers, and both 14 and 321
+                                            are positive, so this step is fine.
+Starting from the other end, step (IV) is just a calculation, and we can check quite easily that
+it is correct.
+Step (III) looks like it is probably wrong, as we are performing a division with an inequality.
+However, with more care, we can calculate log 1 41 = 2 (as we need to do to check step (IV)
+                                                     
+                                                 2
+anyway), so step (III) is just dividing by 2, and is actually fine.
+Unfortunately, though, every step looks fine.
+Working through them once more, steps (IV) and (V) are certainly fine, as is step (III). We
+have argued that step (II) is correct, so by elimination it must be step (I) which is wrong.
+It is helpful to sketch a graph of y = log 1 x to understand why step (I) is wrong. We have
+                                                2
+log 1 ( 12 ) = 1, log 1 1 = 0, log 1 2 = −1, so the graph looks like this:
+   2              2            2
+
+
+
+                                   y
+
+
+
+
+                                                                             x
+                                   0   1
+
+
+
+
+So log 1 x is a decreasing function: if x < y, then log 1 x > log 1 y; in other words, log 1 reverses
+       2                                                2         2                        2
+the direction of an inequality. Therefore step (I) is incorrect: the inequality should have been
+reversed in this step.
+The correct answer is therefore B.
+
+
+
+
+Version 1.0, April 2019                                                                     Page 20
+
+                                                                                        © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Approach 2: substituting a value of n
+We have already shown that n = 1 does not satisfy the original inequality, yet it is given as
+a solution at the end of step (V). So we use this value of n to find at least one error in the
+argument.
+Note that this approach is not guaranteed to work: there may be other errors in the argument
+that will escape detection by this method, but given that the options tell us that only one step
+is invalid, it will be sufficient for our purposes.
+It will help us with our calculations if we write everything in terms of powers of 21 .
+The original inequality can be written as
+                                           2n  50
+                                           1     1
+                                               <
+                                           2     2
+
+Substituting n = 1 gives
+                                            2  50
+                                            1    1
+                                               <
+                                            2    2
+which is not true.
+After step (I), the inequality reads
+                                           2n          50
+                                           1             1
+                                    log 1       < log 1
+                                        2  2          2  2
+
+Substituting n = 1 gives
+                                              2          50
+                                              1            1
+                                       log 1      < log 1
+                                           2  2         2  2
+which we can simplify to
+                                               2 < 50
+which is true.
+So something has gone wrong in step (I), and this is where the error lies.
+
+      Commentary: There is a slightly subtle question about whether the student intended
+      each of the steps in this argument to be reversible. For example, if a student started with
+      the statement x + 5 = 8 and deduced x > 0, they have made a correct deduction (though
+      not ‘solved the equation’), but the argument is not reversible: x > 0 does not imply that
+      x + 5 = 8. So we will assume that in this case they intend to say that 1 ⩽ n ⩽ 24 are all
+      solutions to the original equation.
+      It follows that step (I) is where the mistake lies, as n = 1 satisfies the inequality after
+      step (I) but not the inequality before it.
+      If we did not make this assumption about the student’s intentions, we could repeat the
+      argument above with a value of n which does satisfy the original inequality, such as
+      n = 100; then the first inequality is true but the second inequality, obtained after step (I),
+      is false, so the proposed implication is false.
+
+
+
+
+Version 1.0, April 2019                                                                       Page 21
+
+                                                                                          © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 19
+
+We recall that a ‘sufficient condition’ means that if the condition holds, then the equation has
+exactly one real root.
+We can start by sketching the graph of the cubic y = x3 − 3x2 + a, noting that the impact of
+changing a is just to translate the graph vertically.
+                                                 dy                dy
+We differentiate to find the stationary points: dx  = 3x2 − 6x, so dx = 0 when x = 0 and x = 2,
+so the stationary points are at (0, a) and (2, a − 4).
+So the graph looks like this:
+
+                                         y
+
+
+
+
+                                     a
+
+
+
+                                              (2, a − 4)              x
+                                         0
+
+
+
+
+There will be one real root for the equation x3 − 3x2 + a = 0 if either the local maximum lies
+below the x-axis or if the local minimum lies above the x-axis, as in the case sketched.
+The first occurs when a < 0, the second when a − 4 > 0 or equivalently, when a > 4.
+So a necessary and sufficient condition is a < 0 or a > 4. This does not, however, appear as
+one of the options, so we need to go through them to see which one is sufficient. (Recall from
+earlier that sufficient means that if this condition holds, then the equation has exactly one real
+root, but not necessarily the other way round.)
+
+A This includes a = 1, which gives more than one real root.
+B This includes a = 0, which gives more than one real root (as the minimum lies on the x-axis).
+C This includes a = 4, which gives more than one real root (as the maximum lies on the x-axis).
+D This includes a = 1 again.
+E This is a > 4 or a < −4, both of which are part of the valid range, so this is a sufficient
+  condition.
+F This includes a = 1 again.
+G This gives more than one real root.
+H a = 32 gives more than one real root.
+
+So the correct answer is E.
+
+
+Version 1.0, April 2019                                                                   Page 22
+
+                                                                                     © UCLES 2019
+Test of Mathematics for University Admission, 2017 Paper 2 Solutions
+
+
+Question 20
+
+We can write this out in a grid to see what the current state of knowledge is.
+
+                                                  Position
+                                              1   2 3 4       5
+                                   Tried      a   b c d       e
+                                              c   d b e       a
+                                              e   a d b       c
+                                   Possible   b   c a a       b
+                                              d   e e c       d
+
+So positions 1 and 5 contain b and d in some order, while positions 2, 3, 4 contain either cea or
+eac in that order.
+We certainly do not know the correct password yet.
+We could sensibly try bcead as our next attempt. What might we be told in response?
+If we have the b and d in the correct order, these 2 letters will be correct, otherwise neither is
+correct.
+If we have the middle three letters cea in the correct order, then these 3 letters will be correct,
+otherwise none of them is.
+So:
+
+•     if both are correct, the computer will tell us that 5 letters are correct, and we are done;
+
+•     if the outer pair are correct but the middle ones are not, the computer will tell us that
+      2 letters are correct, and we can deduce that the correct password is beacd;
+
+•     if the outer pair are wrong but the middle ones are correct, the computer will tell us that
+      3 letters are correct, and we can deduce that the correct password is dceab;
+
+•     if both are wrong, the computer will tell us that 0 letters are correct, and we can deduce
+      that the correct password is deacb.
+
+Since the four cases give four distinct responses by the computer (0, 2, 3, 5 correct letters),
+we can distinguish between them, and therefore deduce the correct password with just this one
+further attempt.
+The correct answer is B.
+
+
+
+
+Version 1.0, April 2019                                                                    Page 23
+
+                                                                                      © UCLES 2019
+We are Cambridge Assessment Admissions Testing, part of the University of Cambridge.
+Our research-based tests provide a fair measure of skills and aptitude to help you make
+informed decisions. As a trusted partner, we work closely with universities, governments
+and employers to enhance their selection processes.
+
+
+
+Cambridge Assessment
+Admissions Testing
+The Triangle Building
+Shaftesbury Road
+Cambridge
+CB2 8EA
+United Kingdom
+
+
+
+Admissions tests support:
+admissionstesting.org/help

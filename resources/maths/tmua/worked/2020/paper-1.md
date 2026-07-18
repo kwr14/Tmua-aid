@@ -1,0 +1,221 @@
+# TMUA 2020 Paper 1 Worked Notes
+
+Sources:
+- Paper PDF: <https://cdn.prod.website-files.com/647b5b55f3f42fc50b2f6e4e/647b5b55f3f42fc50b2f7105_TMUA%202020%20Paper%201.pdf>
+- Official worked solutions PDF: <https://cdn.prod.website-files.com/647b5b55f3f42fc50b2f6e4e/647b5b55f3f42fc50b2f7106_TMUA%202020%20Paper%201%20Official%20Solutions.pdf>
+- Answer key PDF: <https://cdn.prod.website-files.com/647b5b55f3f42fc50b2f6e4e/647b5b55f3f42fc50b2f7107_TMUA%202020%20Answer%20Key.pdf>
+
+## Notes
+- These notes are generated from the official worked solutions and cleaned into markdown.
+- Each section keeps the official answer option and a cleaned version of the official reasoning.
+
+## Q1
+Answer: `C`
+
+Work:
+- We start by writing the expression as a sum of powers of x: 3 1 x3 - 5x2 x3 - 5x2 x 2 - 5x 2 3 1 sqrt = 3 = = 12 x 2 - 52 x 2 2x x 2x 2 2
+- We can now differentiate this expression to get 1 3 12 5 1 - 12 2 × 2x - 2 × 2x
+- We now need to convert this into the form given in the options, so we write it as 5 sqrt sqrt 4 3 x 5 3x 5 3x - 5 4 xsqrt = - sqrt = sqrt - sqrt = sqrt x 4 4 x 4 x 4 x 4 x
+- which is option C.
+
+## Q2
+Answer: `C`
+
+Work:
+- We can use the factor theorem here. If we write f(x) = 2x3 + px2 + q, then the question tells us that f(- 21 ) = 0 and f(2) = 0. Substituting these in gives
+- - 14 + 41 p + q = 0 16 + 4p + q = 0
+- We can subtract the first equation from the second to cancel the qs, giving 65 15 4 + 4 p=0
+- so p = - 65 13 48 52 4 15 = - 3 . Therefore q = -16 - 4p = - 3 + 3 = 3 . It follows that 2p + q = - 26 4 22 3 + 3 = - 3 , which is option C.
+
+## Q3
+Answer: `B`
+
+Work:
+- We first work on each inequality separately. Each one is a product of factors, so we consider when each factor is positive or negative. For the first inequality, (x + 4)(x + 3)(1 - x) > 0, we have the following table:
+- (x + 4) (x + 3) (1 - x) product x < -4 - - + + -4 < x < -3 + - + - -3 < x < 1 + + + + x>1 + + - -
+- Thus the first inequality holds when x < -4 and when -3 < x < 1. Likewise for the second inequality, (x + 2)(x - 2) < 0:
+- (x + 2) (x - 2) product x < -2 - - + -2 < x < 2 + - - x>2 + + +
+- Therefore the second inequality holds when -2 < x < 2. We can combine these by illustrating them on a number line:
+- -5 -4 -3 -2 -1 0 1 2 3 4 x
+- Combining these two conditions, they both hold when -2 < x < 1, which is option B.
+
+## Q4
+Answer: `D`
+
+Work:
+- Let the arithmetic progression have first term a and common difference d. Let the geometric progression have first term a (as the first term of the geometric progression is the same as the first term of the arithmetic progression) and common ratio r. Then the first three terms of the geometric progression are a, ar and ar2 , while the 1st, 4th and 6th terms of the arithmetic progression are a, a + 3d and a + 5d. Therefore ar = a + 3d and ar2 = a + 5d. The next piece of information we are given is that the sum to infinity of the geometric progression a is 12, so = 12, hence a = 12(1 - r). 1-r So we have three equations:
+- ar = a + 3d ar2 = a + 5d a = 12(1 - r)
+- There are several ways to work out the value of a (as required for this question) from these equations; here is one approach. We can eliminate d from the first two equations by finding 5 times the first equation minus 3 times the second equation; this gives
+- 5ar - 3ar2 = 2a
+- so dividing by a yields 5r -3r2 = 2, giving 3r2 -5r +2 = 0. This factorises as (3r -2)(r -1) = 0, so r = 1 or r = 23 . Since the geometric progression has a sum to infinity, we must have |r| < 1, so r = 32 . Then the final equation gives a = 4, which is option D.
+
+## Q5
+Answer: `A`
+
+Work:
+- The line of symmetry can be determined by completing the square of the right hand side of the given equation for S:
+- px2 + 6x - q = p(x2 + p6 x) - q  3 2 9 =p x+ - 2 -q p p 3 2 9 =p x+ - -q p p
+- so the line of symmetry is at x = - p3 . Therefore - p3 = - 41 , giving p = 12. The curve touches the x-axis at exactly one point, so we must also have - p9 - q = 0, giving q = - p9 = - 12 = - 34 . Therefore p + 8q = 12 - 6 = 6, which is option A.
+
+## Q6
+Answer: `C`
+
+Work:
+- The denominator is a quadratic in u = 5x , so we can write it as 1 1 = u2 - 4u + 7 (u - 2)2 + 3
+- The maximum value of this fraction is obtained when the denominator takes its minimum value, which is when u = 2, giving a value of 13 . We must also check that this value can be obtained; this is the case as 5x = 2 has a real solution. Therefore the correct answer is option C.
+
+## Q7
+Answer: `A`
+
+Work:
+- We write these two equations in powers of 2, giving:
+- 23x = 23y+9 24y+4 22x+2 = = 2(4y+4)-(3y+9) = 2y-5 23y+9
+- Therefore we have
+- 3x = 3y + 9 2x + 2 = y - 5
+- We can divide the first of these equations by 3 for simplicity, giving
+- x=y+3 2x + 2 = y - 5
+- We can now solve these simultaneous equations; subtracting the first from the seconds gives x + 2 = -8, so x = -10 and y = -13, so x + y = -23, which is option A.
+
+## Q8
+Answer: `D`
+
+Work:
+- We can find the maximum value of f(x) by completing the square or by differentiating. In both methods, we start by expanding the brackets to write f(x) = -x2 + (p - 2)x + 2p. We can then complete the square:
+- f(x) = -(x2 - (p - 2)x) + 2p = - (x - 12 (p - 2))2 - 41 (p - 2)2 +2p 
+- = -(x - 21 (p - 2))2 + 14 (p - 2)2 + 2p
+- so the maximum value occurs when x = 21 (p - 2) and the value at this point is 14 (p - 2)2 + 2p. Alternatively, we can differentiate to get
+- f 0 (x) = -2x + (p - 2)
+- so the stationary point is at x = 21 (p - 2); substituting this value into the function f(x) gives the same maximum value as before. A third approach is to note that the stationary point of a quadratic lies midway between its two roots, that is midway between p and -2, so at x = 12 (p - 2), and then substitute to find the minimum value.
+- We now require 1 2 4 (p - 2) + 2p < 4.
+- Multiplying by 4 and rearranging gives (p - 2)2 + 8p - 16 < 0; we next expand the brackets and simplify to give p2 + 4p - 12 < 0, so (p + 6)(p - 2) < 0. This quadratic inequality is satisfied exactly when -6 < p < 2, which is option D.
+
+## Q9
+Answer: `C`
+
+Work:
+- As x2 - 14x + 9 = (x - α)(x - β), the roots of the quadratic x2 - 14x + 9 = 0 are α and β. Approach 1: calculate α and β The most obvious approach to answering this question is to calculate α and β directly using the quadratic formula: sqrt sqrt 14 ± 142 - 4 × 1 × 9 14 ± 2 72 - 9 p sqrt sqrt α, β = = = 7 ± 72 - 9 = 7 ± 40 = 7 ± 2 10 2 2
+- But now sqrt we need to find the square root of these expressions. We can guess that it has the form p + q 10 for some integers p and q. Squaring this gives sqrt 2 sqrt p + q 10 = (p2 + 10q 2 ) + 2pq 10 We cannot make p2 + 10q 2 = 7,sqrtbut if we take sqrt p = 2 and q = ±1, we get 14 ± 4 10, which is 2α or 2β. So if we divide by 2, taking p = 2 and q = ± sqrt12 , we will obtain ±α and ±β. Therefore sqrt p sqrt sqrt α, β = ±( 2 ± 5) . However, we must take the positive values for α and β, so we must have sqrt p sqrt sqrt α, β = 5 ± 2) .
+- Therefore sqrt  p  sqrt p  sqrt p xα x - β = x2 - α+ β + α β sqrt sqrt  sqrt sqrt  sqrt sqrt  sqrt sqrt  = x2 - 5+ 2 + 52 x+ 5+ 2 52 = x2 - 2 5x + 3 = x2 - 20x + 3
+- which is option C.
+- Approach 2: use properties of α and β An alternative way of approaching this question is as follows. If we expand the two quadratics of interest, we have
+- (x - α)(x - β) = x2 - (α + β)x + αβ = x2 - 14x + 9 sqrt  p  sqrt p  sqrt p x - α x - β = x2 - α+ β x+ α β
+- sqrt sqrt sqrt sqrt Thus α + β = 14 and αβ = 9, and we need to determine α+ β and α β. We can take the sqrt sqrt square root of αβ = 9 to obtain α β = 3. Next, sqrt p 2 sqrt p β = α + β + 2 α β = 14 + 2 × 3 = 20 α+ sqrt sqrt sqrt using the values we have determined already, and so α + β = 20. Therefore the correct answer is option C, as before.
+
+## Q10
+Answer: `A`
+
+Work:
+- The most straightforward way to answer this question is by performing the transformations to the formula in the standard way. An alternative approach is to sketch the graphs, but then it is not immediately clear how we would determine the resulting formula. We start with y = 4x2 .
+- 1. Translating it right by 3 transforms the curve into y = 4(x - 3)2 . Then translating it down by 5 transforms it into y = 4(x - 3)2 - 5.
+- 2. Reflecting it in the x-axis (the horizontal axis!) replaces y by -y, or equivalently replaces y = f(x) by y = -f(x), giving y = -4(x - 3)2 + 5.
+- 3. Stretching it parallel to the x-axis with scale factor 2 replaces x by x2 , giving y = -4( x2 -3)2 +5.
+- We can now expand the resulting formula, to give y = -4( x4 - 3x + 9) + 5 = -x2 + 12x - 31, which is option A.
+
+## Q11
+Answer: `E`
+
+Work:
+- At first sight, it seems that there may not be enough information to answer the question, as we only know two points on the quadratic. But if we stretch the graph parallel to the y-axis, though we modify the quadratic, we will not change q, and the areas of R and S will remain equal. So let us proceed. For simplicity, we will write R and S for the areas of these regions. The quadratic has equation y = k(x - 2)(x - q). By the above comments, we may as well take k = 1; if we leave k in the equation, the areas will each be multiplied by k, and when we equate them, we can then divide by k. The area of R is Z 2 R= (x - 2)(x - q) dx Z 2 = x2 - (q + 2)x + 2q dx 2 = 31 x3 - 12 (q + 2)x2 + 2qx 0 
+- = 38 - 2(q + 2) + 4q = 2q - 43
+- The area of S is as follows; note that the integral is negative, so we have to negate the integral to obtain the area. Z q S=- (x - 2)(x - q) dx Z2 q =- x2 - (q + 2)x + 2q dx 2 q = - 31 x3 - 21 (q + 2)x2 + 2qx 2 = - 13 q 3 - 12 (q + 2)q 2 + 2q 2 + 83 - 2(q + 2) + 4q  
+- = - - 61 q 3 + q 2 + 2q - 34 ) 
+- = 16 q 3 - q 2 + 2q - 43
+- As R = S, we have 2q - 34 = 16 q 3 - q 2 + 2q - 43 and therefore 16 q 3 - q 2 = 0. As q > 2, we cannot have q = 0, so we can divide by q 2 to give
+- 6 q - 1 = 0. It follows that q = 6, which is option E.
+- You may have noticed that the value of the integral at x = 2 appeared in both expressions and then cancelled out when we equated them. Another way to think about this is that as the integral from 0 to 2 is positive and the integral from 2 to q is negative, then if the areas R and S are the same, we must have the integral from 0 to q equal to 0. So we could have calculated: Z q 0= (x - 2)(x - q) dx Z0 q = x2 - (q + 2)x + 2q dx 0 q = 31 x3 - 21 (q + 2)x2 + 2qx 0 = - 16 q 3 + q 2 giving q = 6 as before.
+
+## Q12
+Answer: `D`
+
+Work:
+- We can make some immediate observations about this equation:
+-  The left hand side takes values between -3 and +3.
+-  The right hand side is only defined for x ≥ 0 and is always non-negative, and when x > 9, x > 3.
+- Therefore we need only consider the region 0 ≤ x ≤ 9. Note that 3pi ≈ 9.5, so we have just less than 1.5 periods of the cosine function in this range, and 3 cos 9 < 0. We can therefore sketch the pair of graphs y = 3 cos x and y = x and observe how many times they intersect:
+- y
+- x 0 pi 2pi 3
+- -3
+- We see that there are 3 points of intersection, and hence 3 solutions to the equation, which is option D.
+
+## Q13
+Answer: `F`
+
+Work:
+- We have not learnt a “trinomial theorem” for expanding expressions like (1 + x + y 2 )7 , so instead we treat it as a binomial expression. If we write it as (1 + (x + y 2 ))7 , we will then have a series of complicated expressions like (x+y 2 )3 that we have to handle. But if we write it as (x+(1+y 2 ))7 , we will be separating the x’s and the y’s, which is much simpler for our needs. We have
+- (1 + x + y 2 )7 = (x + (1 + y 2 ))7     7 7 6 2 7 2 =x + x (1 + y ) + · · · + x (1 + y 2 )5 + · · · 1 5
+- so we need only consider the x2 term; note also that 75 = 72 = 7×6 2   2 = 21. So the x term is 2 2 5 21x (1 + y ) . We next want the y 4 term of (1 + y 2 )5 , so we expand this too using the binomial theorem:     2 5 5 2 5 4 (1 + y ) = 1 + y + y + ··· 1 2
+- so the y 4 term is 52 y 4 = 10y 4 . 
+- Therefore the x2 y 4 term is 21x2 × 10y 4 = 210x2 y 4 , and the coefficient is 210; this is option F.
+
+## Q14
+Answer: `E`
+
+Work:
+- We make a quick sketch of y = mx and y = x3 so that we can identify the area enclosed. Note that if m ≤ 0, then there is no area enclosed, so we must have m > 0.
+- y
+- x
+- The first thing we note is that there are two regions we need to consider: one with x > 0 and one with x < 0. By symmetry, their areas are equal, so it suffices to find m such that the area of the region with x > 0 is 3. To find the area enclosed for x > 0, we need to find where the line and cubic intersect; this is when x3 = mx, so at x = 0 and x = ± m. As we are interested in the point where x > 0, this is at s = m. The enclosed area can be calculated as the area below the line minus the area below the cubic. So as a single integral, this gives Z sqrtm sqrtm mx - x3 dx = 2 1 4 1 2 mx - 4 x 0 = 12 m2 - 14 m2 = 41 m2
+- (We could also have calculated the area under the line as the area of a triangle.) sqrt sqrt Since this area is 3, we have 14 m2 = 3, so m2 = 12 and m = 12 = 2 3. This is option E.
+
+## Q15
+Answer: `C`
+
+Work:
+- We can start by rewriting log2 x1 as - log2 x, so the equation simplifies to 
+- (log2 x)4 + 12(- log2 x)2 - 26 = 0,
+- which further simplifies to (log2 x)4 + 12(log2 x)2 - 26 = 0. Writing y = (log2 x)2 gives the quadratic
+- y 2 + 12y - 64 = 0.
+- This factorises as (y + 16)(y - 4) = 0, so y = (log2 x)2 = 4 (as this cannot be negative. Thus log2 x = 2 or log2 x = -2, giving x = 22 = 4 or x = 2-2 = 14 . The positive difference between these is 4 - 14 = 15 4 , which is option C.
+
+## Q16
+Answer: `C`
+
+Work:
+- It is helpful sqrt to sketch the situation before going any further. The sqrt circle C1 has centre (-2, 1) and radius 3, while circle C2 has centre (4, 1) and radius 3. A quick sketch shows the configuration:
+- y C1 C2
+- x
+- There are four straight lines which are tangent to both of these circles: two of these are horizontal, and the other two are not. We want the one with a positive gradient, so we sketch it on the graph along with the radii which meet it.
+- y C1 C2 D
+- E θ O1 O2 x
+- l
+- By joining the two circle centres, we see that the angle the line l makes with the x-axis, which is θ, is the same as the angle marked on this diagram. We have also labelled some of the points so that we can refer to them later. Since the radius at D meets the tangent l at right angles, we can work out the side lengths of the triangle O2 DE and hence tan θ. The distance between the circle centres sqrt is 4 - (-2) = 6, so the hypotenuse EO2 has length 3. The circle C2 has radiussqrtO2 D = 3, so by Pythagoras’s Theorem, DE 2 = (EO2 )2 - (DO2 )2 = 9 - 3 = 6. Thus DE = 6 and hence sqrt sqrt 3 1 2 tan θ = sqrt = sqrt = 6 2 2
+- and the correct answer is option C.
+
+## Q17
+Work:
+- A graph-based (exam-suitable) approach is as follows: Thinking about a sketch graph of y = x, any negative value of m will lead to a single point of intersection, so we must be restricted to m > 0. This excludes options D and F. When c ≤ 0, there can be at most one point of intersection. The only option which rejects all possible values of m when c < 0 is A, so that must be the correct option. (This option does not make sense when c = 0, but we ignore that.) An algebraic solution is as follows. The line and the graph intersect when mx + c = x, where x ≥ 0. If m = 0, there is at most one solution, so we cannot have m = 0. The equation rearranges to give a quadratic in x, namely mx - x + c = 0. For there to be two distinct non-negative solutions, we first require the discriminant to be positive, so 1 - 4mc > 0, or 4mc < 1. We can write the roots explicitly as sqrt sqrt 1 ± 1 - 4mc x= 2m and we require both of these to be non-negative. The midpoint of the two roots is 2m , so if m < 0, one or both of the roots is negative; we must thereforesqrt exclude this case. So we must have m > 0 and 4mc < 1. If c < 0, then 1 - 4mc > 1, so 12m 1-4mc < 0; this therefore gives only one non-negative root. We are thus left with two possibilities: m > 0 and c = 0, or m > 0 and 4mc < 1, which rearranges as 0 < m < 4c . The closest offered option is A.
+
+## Q18
+Answer: `A`
+
+Work:
+- Approach 1: graph sketching One way to start this question is to sketch the two graphs y = 1 - 2 cos2 x and y = |cos x|. It may not be obvious how to sketch the first of these graphs (unless you happen to know about double-angle formulae), but we can sketch something adequate for this question. We can sketch the graph of y = cos x, then use that to sketch both y = |cos x| and y = cos2 x, and then the latter one can be used to sketch y = 1 - 2 cos2 x. Squaring cos x gives a graph which is never negative, and is zero when cos x = 0. So the graphs look like this:
+- y = cos x y = |cos x| y y 1 1
+- x x 0 90 180 0 90 180
+- -1 -1
+- y = cos2 x y = 1 - 2 cos2 x y y 1 1
+- x x 0 90 180 0 90 180
+- -1 -1
+- Imagining overlaying the graphs of y = |cos x| and y = 1 - 2 cos2 x, we see that there are two points of intersection symmetrically placed around 90◦ , so their sum is 180◦ , which is option A. Approach 2: using algebra We solve the two equations 1 - 2 cos2 x = cos x when cos x ≥ 0 and 1 - 2 cos2 x = - cos x when cos x < 0. First, 1 - 2 cos2 x = cos x when cos x ≥ 0 gives 2 cos2 x + cos x - 1 = 0, which factorises as (2 cos x - 1)(cos x + 1) = 0. This has solutions cos x = 21 and cos x = -1. We must reject the second solution as we require cos x ≥ 0, so we have the solution x = 60◦ (in the range 0◦ ≤ x ≤ 180◦ ). Next, 1 - 2 cos2 x = - cos x when cos x < 0 gives 2 cos2 x - cos x - 1 = 0, which factorises as (2 cos x + 1)(cos x - 1) = 0. This has solutions cos x = - 21 and cos x = 1, of which only the first is valid. This gives the solution x = 120◦ . Therefore there are two solutions and their sum is 60◦ + 120◦ = 180◦ .
+
+## Q19
+Answer: `E`
+
+Work:
+- Let us write f(x) = x2 - 52x - 52. We first note that f(x) is a quadratic, and that f(0) = -52. We might notice that f(52) = 522 - 522 - 52 = -52, or we could complete the square to find that f(x) = (x - 26)2 - 262 - 52, so the line of symmetry is at x = 26, again giving f(52) = -52. It follows that f(x) < 0 when 0 ≤ x ≤ 52 (and other values of x just outside this range). We next check f(53). We have f(53) = 532 - 52 × 53 - 52 = 532 - 52 × 54. Now 52 × 54 = (53 - 1)(53 + 1) = 532 - 1, so f(53) = 532 - (532 - 1) = 1. Therefore 53 is the smallest integer for which f(x) > 0, and the correct answer is option E.
+
+## Q20
+Answer: `C`
+
+Work:
+- The equation has solutions x = a and x = 1± 21-4a . One case in which there are two distinct values is when 1 - 4a = 0 and a 6= 21 , which occurs when a = 14 . The other case in which there are two distinct values is when a is sqrtone of the solutions of the quadratic x2 - x + a = 0. We could find this by equating a = 1± 21-4a , but a much simpler approach is to substitute x = a into the quadratic, giving a2 - a + a = 0, hence a2 = 0 giving a = 0. Therefore there are two such values, a = 0 and a = 41 , which is option C.
+- This document was initially designed for print and as such does not reach accessibility standard WCAG 2.1 in a number of ways including missing text alternatives and missing document structure.
+- If you need this document in a different format please email admissionstesting@cambridgeassessment.org.uk telling us your name, email address and requirements and we will respond within 15 working days.
+- This document contains maths equations and symbols which at present we are not able to produce adequately for accessibility. We are working to improve this.
+- We are Cambridge Assessment Admissions Testing, part of the University of Cambridge. Our range of research-based admissions tests connects schools, universities, governments and employers to the most suitable applicants around the world.
+- Cambridge Assessment Admissions Testing The Triangle Building Shaftesbury Road Cambridge CB2 8EA United Kingdom
+- Admissions tests support: www.admissionstesting.org/help
+
+## Answer Summary
+
+`1C 2C 3B 4D 5A 6C 7A 8D 9C 10A 11E 12D 13F 14E 15C 16C 18A 19E 20C`

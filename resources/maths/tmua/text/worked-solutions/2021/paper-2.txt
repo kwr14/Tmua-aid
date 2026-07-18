@@ -1,0 +1,884 @@
+  Test of Mathematics for University Admission, 2021 Paper 2
+                       Worked Solutions
+
+
+                                    Version 1.0, March 2022
+
+
+
+Contents
+
+  Introduction for students . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       2
+  Question 1    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    3
+  Question 2    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    4
+  Question 3    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    5
+  Question 4    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    6
+  Question 5    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    7
+  Question 6    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    8
+  Question 7    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+  Question 8    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11
+  Question 9    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   12
+  Question 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     13
+  Question 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     14
+  Question 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     15
+  Question 13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     16
+  Question 14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     17
+  Question 15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     18
+  Question 16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     19
+  Question 17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     21
+  Question 18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     22
+  Question 19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     24
+  Question 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     25
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Introduction for students
+
+These solutions are designed to support you as you prepare to take the Test of Mathematics for
+University Admission. They are intended to help you understand how to answer the questions,
+and therefore you are strongly encouraged to attempt the questions first before looking at
+these worked solutions. For this reason, each solution starts on a new page, so that you can
+avoid looking ahead.
+The solutions contain much more detail and explanation than you would need to write in the
+test itself – after all, the test is multiple choice, so no written solutions are needed, and you may
+be very fluent at some of the steps spelled out here. Nevertheless, doing too much in your head
+might lead to making unnecessary mistakes, so a healthy balance is a good target!
+There may be alternative ways to correctly answer these questions; these are not meant to be
+‘definitive’ solutions.
+The questions themselves are available on the ‘Preparing for the test’ section on the Admissions
+Testing website.
+
+
+
+
+Version 1.0, March 2022                                                                       Page 2
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 1
+
+We write the integral as powers of x and then integrate:
+                    Z 4                  Z 4
+                          √     4                 1
+                         3 x + 2 dx =           3x 2 + 4x−2 dx
+                     1          x          1
+                                          " 3             #4
+                                           3x 2      4x−1
+                                       =           +
+                                            ( 32 )    −1
+                                                            1
+                                           3            4
+                                       = 2x 2 − 4x−1 1
+                                        = (2 × 8 − 4 × 41 ) − (2 × 1 − 4 × 1)
+                                        = 15 − (−2)
+                                        = 17
+
+
+
+
+Version 1.0, March 2022                                                         Page 3
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 2
+
+We can sketch the situation:
+
+                                y
+
+
+                                                   D
+
+
+                               A
+
+
+
+
+                                    0                    C              x
+
+                                        B
+
+
+
+
+We know that the two diagonals of the square bisect each other at right angles, so this question
+requires us to find the perpendicular bisector of AC.
+The midpoint of AC is 0+4     2+0
+                                  
+                           2 , 2    = (2, 1), which is the centre of the square.
+The gradient of AC is 0−2     1
+                      4−0 = − 2 , so the gradient of BD is 2.
+The equation of BD is therefore y − 1 = 2(x − 2), which rearranges to give y = 2x − 3, which is
+option E.
+
+
+
+
+Version 1.0, March 2022                                                                  Page 4
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 3
+
+The probability is given as a fraction in its lowest terms.
+The probability that a student does not wear glasses is 11
+                                                        15 , so the ratio of glasses to non-glasses
+is 4 : 11, in its lowest terms.
+Therefore the number of glasses/non-glasses wearers could be 4 and 11 (total 15), or 8 and 22
+(total 30), or . . .
+Necessary means that it follows as a consequence.
+Therefore I and III are not necessary (there could be 22 non-glasses wearers or the class could
+contain 15 students.
+The total must be a multiple of 15, and so the number of students is divisible by 3.
+The correct answer is therefore C.
+
+
+
+
+Version 1.0, March 2022                                                                     Page 5
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 4
+
+I    bc = 200, a is a factor of 200, a is a factor of b, so not a counterexample.
+
+II   bc = 16, a is a factor of 16, a is not a factor of b and a is not a factor of c, so this is a
+     counterexample.
+
+III bc = 84, a is a factor of 84, a is not a factor of b but a is a factor of c, so not a counterexample.
+
+The correct option is therefore C.
+
+
+
+
+Version 1.0, March 2022                                                                          Page 6
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 5
+
+Line A is a known identity, so this is fine.
+Line B rearranges the identity to get cos2 x = 1 − sin2 x and then takes the square root of both
+sides. However, when we take the square root, we always get the positive (or zero) root, but
+cos x is negative for some values of x. So this is where the error is introduced.
+Another way of seeing this is to start with the nonsensical 0 = 4 of line E, and substitute x = π
+in each line to find the first one which fails; it is, indeed, line B, as this gives −1 = 1.
+
+
+
+
+Version 1.0, March 2022                                                                   Page 7
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 6
+
+If f(x) = 0 has exactly three roots then there must be a stationary point between the first and
+second root, and another stationary point between the second and third roots, but there may be
+other stationary points. For example, here is a sketch of a degree 5 polynomial y = f(x) which
+has f(x) = 0 for three real values of x but f ′ (x) = 0 for five real values of x:
+
+                                         y
+
+
+
+
+                                                                  x
+                                     0
+
+
+
+
+A second example is f(x) = x4 − x2 . Here, the graph of y = f(x) touches the x-axis at x = 0,
+so f(x) = 0 has exactly three real roots x = −1, 0, and 1, but three stationary points x = ± √12
+and x = 0:
+
+                                                 y
+
+
+
+
+                                                                  x
+                                −1           0               1
+
+
+
+
+So P is not sufficient for Q.
+It is also not necessary, for example f (x) = x3 − x + 1 has exactly two stationary points but
+only one real root:
+
+
+
+
+Version 1.0, March 2022                                                                  Page 8
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+                                             y
+
+
+
+
+                                                            x
+                               −1        0           1
+
+
+
+
+So option D is correct.
+
+
+
+
+Version 1.0, March 2022                                                Page 9
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 7
+
+We start by drawing the square and the circle. Since the straight line bisects the area of each
+shape, it must pass through their centres, as shown.
+
+                              y
+
+
+
+
+                                  0                                  x
+
+
+
+
+This straight line therefore passes through the centre of the square at (0, 1) and the centre of
+the circle at (9, −2). The gradient of this line is then −2−1       1
+                                                          9−0 = − 3 , so the line has equation
+       1
+y = − 3 x + 1.
+The line meets the x-axis where y = 0, so 0 = − 31 x + 1, giving x = 3.
+Hence the correct answer is B.
+
+
+
+
+Version 1.0, March 2022                                                                 Page 10
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 8
+
+If p(a) = p(b) = c, say, then if the graph of y = p(x) (strictly) increases as it leaves (a, c) towards
+x = b, but then it must decrease again to get back to (b, c), so there must be a stationary point
+between x = a and x = b. Similarly, if the graph (strictly) decreases as it leaves (a, c), it must
+then increase again, which also results in a stationary point. The only other possibility is that
+the graph of y = p(x) is constant, in which case p′ (x) = 0 throughout. In all cases, (∗) holds,
+so p(a) = p(b) is sufficient for (∗).
+However, it is not necessary for (∗): if p(x) = x2 and a = −1, b = 2, then this satisfies (∗) (with
+c = 0) but p(a) ̸= p(b).
+Thus the correct option is C.
+
+
+
+
+Version 1.0, March 2022                                                                       Page 11
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 9
+
+I    Every cubic crosses the x-axis, so this condition is sufficient for f(x) = 0 to have a real root.
+     This also follows from III below if we take u to be a very large positive number and v to
+     be a very large negative number.
+
+II   Consider, for example, f(x) = x2 + 1. This quadratic has f ′ (x) = 2x so f ′ (0) = 0, but there
+     is no real x for which x2 + 1 = 0. So this condition is not sufficient.
+
+III As f(u) f(v) < 0, we must have f(u) < 0 and f(v) > 0 or the other way round; either way,
+    the graph of y = f(x) has values above and below the x-axis. Since f(x) is a polynomial,
+    it must therefore cross the x-axis, and so the equation f(x) = 0 has a real root. (If we did
+    not know that f(x) was a polynomial, this would not be sufficient; consider f(x) = x1 for
+    example.)
+
+The correct option is therefore C.
+
+
+
+
+Version 1.0, March 2022                                                                      Page 12
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 10
+
+To be a counterexample, we need the antecedent (the ‘if’ part) to be true but the consequent
+(the ‘then’ part) to be false.
+
+                            n   n is prime   an multiple of 3 or 5
+                            1      false               –
+                            2      true              true
+                            3      true              true
+                            4      false               –
+                            5      true             false
+                            6      false               –
+                            7      true             false
+
+Therefore n = 5 and n = 7 are both counterexamples, and the smallest counterexample is n = 5,
+which is option E.
+
+
+
+
+Version 1.0, March 2022                                                              Page 13
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 11
+
+We start by checking that each step works.
+Line (II) follows from line (I) by expanding the brackets.
+The algebraic expression in line (III) expands as x2 + 2xy + y 2 − 4xy, so it follows from line (II).
+Line (IV) follows from line (III) by multiplying by x2 y 2 . Since x2 y 2 ≥ 0, the inequality keeps
+the same direction, so this is a valid deduction.
+However, how does line (V) follow from line (IV)? It assumes that a = xy(x + y) and b = xy in
+order to make the deduction.
+This argument has therefore shown that if a = xy(x + y) and b = xy, then a2 − 4b3 ≥ 0, or
+even more explicitly: if there exist real numbers x and y such that a = xy(x + y) and b = xy,
+then a2 − 4b3 ≥ 0. However, the problem posed is the converse: ‘show that if a2 − 4b3 ≥ 0, then
+there exist real numbers x and y such that a = xy(x + y) and b = xy.
+So this attempt has proved the converse, though the argument would have been slightly better
+presented if the student had explicitly stated ‘assume that x and y are real numbers with
+a = xy(x + y) and b = xy’.
+The correct option is therefore C.
+
+
+
+
+Version 1.0, March 2022                                                                     Page 14
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 12
+                                 Rx
+I    We can think of the integral 0 f(t) dt as being the (signed) area under the graph of y = f(x)
+     from 0 to x. Since f(x) ≥ g(x) for all x ≥ 0, the area under the graph of y = f(x) will also
+     be greater than that under the graph of y = g(x), so this statement is true.
+     You might be concerned about values of x for which g(x) is negative. We could therefore
+     demonstrate this algebraically as well.
+     We have                  Z x               Z x               Z x
+                                    f(t) dt −         g(t) dt =         (f(t) − g(t)) dt.
+                               0                 0                 0
+     Since f(t) − g(t) ≥ 0 for all x ≥ 0, we are integrating a non-negative
+                                                                  Rx        function,
+                                                                              Rx      and so the
+     integral must be non-negative, that is to say, we must have 0 f(t) dt ≥ 0 g(t) dt.
+
+II   It is not clear why f(x) ≥ g(x) should imply that the gradient (derivative) of f(x) is greater
+     than that of g(x), and it is relatively straightforward to find a counterexample. Here is one:
+
+                                                         y
+                                                                   f(x) = (x − 1)2
+
+
+
+
+                                                                       g(x) = 0     x
+                                                     0
+
+
+     In this example, f(x) ≥ g(x) for all x, but f ′ (0) < 0 while g′ (x) = 0 for all x.
+
+III This is not necessarily true, as we could add a constant to g(x) without changing g′ (x). For
+    example, we could have f ′ (x) = g′ (x) = 1 for all x, but f(x) = x while g(x) = x + 1, so
+    f(x) < g(x) for all x.
+
+The correct option is therefore B.
+
+
+
+
+Version 1.0, March 2022                                                                     Page 15
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 13
+
+Manipulating inequalities algebraically requires care. For example, we cannot (in general) mul-
+tiply two inequalities together and obtain a valid inequality (which is what statement II has
+done). Neither can we subtract two inequalities (which is where statement I comes from).
+In this case, one approach is to sketch the region R described by the pair of inequalities and then
+determine whether the inequalities in statements I–III are satisfied in the whole of R. Another
+approach is to search for counterexamples for each statement, that is, values of x and y that do
+not satisfy the statement but do satisfy the original inequalities. This, however, might be harder
+to do, and if the inequalities are true, it may take a while to discover this. So let us sketch the
+given inequalities.
+The inequality y − x < 3 can be rearranged as y < x + 3, so it is the region below y = x + 3.
+Similarly, y − x2 < 1 can be rearranged as y < x2 + 1, so it is the region below the quadratic
+y = x2 + 1. The region R is therefore the shaded area shown here (excluding the boundaries):
+
+                                                  y
+
+
+
+
+                                              3
+
+                                              1
+                                                             x
+                                              0
+
+
+
+We can now consider the three statements.
+
+I    It is clear that this is not true in general, as the region R extends in all directions. For
+     example, the point (10, 0) lies in R (it is easy to check that this satisfies the original
+     inequalities: 0 − 10 < 3 and 0 − 102 < 1) but x = 10 does not satisfy −1 < x < 2.
+
+II   If we take x = 0, the inequality becomes y 2 < 3, but (0, −2) is in R and (−2)2 = 4. So this
+     statement is not true for all points in R.
+
+III We could take, for example, (6, 6) as a point in R with y ≥ 5, so this statement is not true
+    in general.
+
+The correct option is therefore A.
+
+
+
+
+Version 1.0, March 2022                                                                    Page 16
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 14
+
+Writing X = 2x and Y = log2 y gives the simultaneous equations
+
+                                          pX + Y = 2
+                                           X +Y =1
+                                                                   1
+Subtracting gives (p − 1)X = 1, so as long as p ̸= 1, we have X = p−1 and so Y = p−2
+                                                                                 p−1 .
+                              p−2
+Now the equation log2 y = p−1      gives a real value for y for any value of p ̸= 1 (specifically
+     (p−2)/(p−1)                            1                                  1
+y=2              ), but the equation 2x = p−1   has a solution if and only if p−1 > 0, which is if
+and only if p > 1.
+Therefore the original simultaneous equations have a real solution (x, y) if and only if p > 1,
+which is option C.
+
+
+
+
+Version 1.0, March 2022                                                                   Page 17
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 15
+
+Approach 1
+We start by completing the square to find the centre and radius of the circle:
+
+                             (x + 21 a)2 − ( 12 a)2 + (y + 12 b)2 − ( 12 b)2 + c = 0
+
+which gives
+                             (x + 12 a)2 + (y + 12 b)2 = ( 12 a)2 + ( 21 b)2 − c
+                                                     q
+so the circle has centre (− 21 a, − 21 b) and radius ( 21 a)2 + ( 12 b)2 − c.
+Now let us sketch a circle tangent to the y-axis:
+
+                                                    y
+
+
+
+
+                                                        0                     x
+
+
+
+
+We can see that the circle is tangent to the y-axis if and only if its radius is equal to the
+distance of its centre from the y-axis. This is not the same as saying the radius is equal to the
+x-coordinate of the centre, as the centre may have a negative x-coordinate. As an equation, this
+condition is then                  q
+                                     ( 12 a)2 + ( 12 b)2 − c = − 12 a
+which, on squaring, is equivalent to
+
+                                         ( 21 a)2 + ( 12 b)2 − c = ( 12 a)2
+
+(This is equivalent to the previous equation because both sides of the first equation are non-
+negative.)
+Subtracting ( 21 a)2 from both sides gives 14 b2 − c = 0 or b2 = 4c, so this condition is necessary
+and sufficient for the circle to be tangent to the y-axis, which is option B.
+
+Approach 2
+The circle is tangent to the y-axis, x = 0, if and only if the pair of simultaneous equations
+x2 + ax + y 2 + by + c = 0 and x = 0 has a repeated root.
+Substituting x = 0 into the circle equation gives y 2 + by + c = 0, which has discriminant b2 − 4c.
+So there is a repeated root if and only if b2 − 4c = 0, which is equivalent to option B.
+
+
+
+Version 1.0, March 2022                                                                    Page 18
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 16
+
+Approach 1: graph sketching
+We are looking for the intersections of the graphs of y = x |x| and y = px + q. The latter is just
+a straight line graph, while the former is y = x2 when x ≥ 0 and y = −x2 when x < 0:
+
+                                                   y
+
+
+
+
+                                                                     x
+                                               0
+
+
+
+
+This graph looks quite similar to the graph of y = x3 : it has a point of inflexion at the origin.
+Any straight line will meet this graph at least once: if q > 0, then it will meet it for some x > 0,
+and if q < 0, then it will meet it for some x < 0. A straight line can meet the graph twice if it
+is tangent to the curve somewhere, and it can meet it three times, for example y = x.
+But a straight line cannot meet the curve four times. It can meet the curve at most twice for
+x ≥ 0, and at most twice for x < 0 (as each half of the curve is a quadratic, and a straight line
+and quadratic can meet at most twice). But if a straight line meets the quadratic twice in the
+region x < 0, then it must have q > 0, for example:
+
+                                                   y
+
+
+
+
+                                                                     x
+                                               0
+
+
+
+
+It can then meet the curve only once in the region x > 0. The same applies if it meets the curve
+twice in the region x > 0. And if the line passes through the origin, then it can meet the curve
+in at most two other locations.
+So the correct answer is option E.
+
+Approach 2: algebraic
+
+
+
+Version 1.0, March 2022                                                                     Page 19
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+If x is a solution, then either x ≤ 0 and −x2 = px + q or x > 0 and x2 = px + q; we can rewrite
+these as x2 + px + q = 0 and x2 − px − q = 0 respectively.
+If q < 0, then the quadratic equations
+                               p        both have positive discriminant. The first quadratic
+                                  2
+has roots of opposite signs (as p − 4q > p), so there is exactly one negative solution. The
+second quadratic (corresponding to x > 0) may have 0, 1 or 2 positive solutions, giving 1, 2 or 3
+solutions in total.
+If q > 0, exactly the opposite is true, and we still end up with 1, 2 or 3 solutions.
+If q = 0, then x = 0 is a root of both quadratics, and there are 0, 1 or 2 other roots.
+Thus the possible values are 1, 2 and 3.
+Examples with these numbers are: p = q = 0; p = −1, q = 0, and p = −2, q = 1 respectively.
+
+
+
+
+Version 1.0, March 2022                                                                   Page 20
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 17
+
+The expressions for f(x) and g(x) look quite complicated, so we start by simplifying them using
+the laws of logarithms:
+                                                    √ 
+                                    f(x) = log2 log2 x
+                                          = log2 ( 21 log2 x)
+                                          = −1 + log2 (log2 x)
+                                                 p        
+                                     g(x) = log2   log2 x
+                                          = 12 log2 (log2 x)
+
+We now see that both f(x) and g(x) can be written as a function of log2 (log2 x). As x > 1,
+log2 x > 0 and log2 (log2 x) can take any real value.
+Let us write z = log2 (log2 x), so that we have f(x) = z − 1 and g(x) = 21 z. We can sketch a
+graph showing these two functions of z:
+
+
+
+
+                                                         f(x) = z − 1
+
+
+
+                                             1                      g(x) = 21 z
+
+
+                                                 0              2           z
+
+
+
+
+We can calculate the intersection of y = z − 1 and y = 12 z, obtaining z = 2, y = 1.
+We can then see from the graph that f(x) ≥ g(x) when both are at least 1, and f(x) ≤ g(x) when
+both are at most 1, so either f(x) ≥ g(x) ≥ 1 or f(x) ≤ g(x) ≤ 1 (or both), which is option F.
+(Note that the ‘or’ in the options is inclusive ‘or’, so we are allowed to have both of the inequal-
+ities being true.)
+
+
+
+
+Version 1.0, March 2022                                                                     Page 21
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 18
+
+Since we are only given a condition on sin A, the angle A could be acute or obtuse, and similarly
+for angle B.
+Let us write θ = sin−1 x and ϕ = sin−1 y for the acute angles; the respective obtuse angles are
+then 180◦ − θ and 180◦ − ϕ.
+As we are given x < y, we have θ < ϕ.
+We can now consider the four possible cases.
+
+•    Case 1: both A and B are acute. Then we have this situation:
+
+
+
+
+                                                            ϕ
+                                         θ
+                                A                 1                 B
+
+     We therefore know the three angles of the triangle ABC (as given two, we automati-
+     cally know the third) and one side, and this determines the triangle uniquely (regarding
+     congruent triangles as the same).
+     So we always obtain exactly one triangle from this case.
+•    Case 2: A is obtuse and B is acute. Then A = 180◦ − θ and we have this situation:
+
+
+
+
+                                                                         ϕ
+                                    θ
+                                             A               1                 B
+
+     Since θ < ϕ, the two lines (rays) from A and B shown in this diagram will never meet.
+     Alternatively, we could note that A + B = 180◦ − θ + ϕ, and since ϕ − θ > 0, this means
+     that the angles A and B sum to more than 180◦ .
+     Therefore this case can never produce a triangle.
+•    Case 3: A is acute and B is obtuse. Then B = 180◦ − ϕ and we have this situation:
+
+
+
+
+                                                                     ϕ
+                                 θ
+                          A               1                 B
+
+     Since θ < ϕ, the two lines (rays) from A and B shown will eventually meet, and so we get
+     a unique triangle. Alternatively, we have A + B = θ + 180◦ − ϕ = 180◦ − (ϕ − θ), and since
+     ϕ − θ > 0, this means that the angles A and B sum to less than 180◦ , so they can be two
+     angles of a triangle.
+     So we always obtain exactly one triangle from this case.
+
+
+Version 1.0, March 2022                                                                  Page 22
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+•    Case 4: A and B are both obtuse. This is impossible in a triangle.
+     Therefore this case can never produce a triangle.
+
+In summary, cases 1 and 3 always produce a unique triangle, and cases 2 and 4 never produce a
+triangle, so the student can always draw exactly two different triangles, regardless of the values
+of x and y.
+Therefore the correct answer is C.
+
+
+
+
+Version 1.0, March 2022                                                                   Page 23
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 19
+
+We can rewrite the given equation as
+                     p                              p
+                sin θ (1 + sin θ)(1 − sin θ) + cos θ (1 + cos θ)(1 − cos θ) = 0
+
+and then multiply out the brackets to give
+                                p                  p
+                           sin θ 1 − sin2 θ + cos θ 1 − cos2 θ = 0
+
+which simplifies to
+                                         √                    p
+                                 sin θ       cos2 θ + cos θ    sin2 θ = 0.
+                                                                 √
+It would be easy at this point to make the mistake of simplifying cos2 θ to cos θ, but this would
+only work in the case that cos θ ≥ 0 as square
+                                            √ roots are always positive. We can, though, write
+|cos θ| for this square root: we always have x2 = |x|. Therefore we can rewrite the equation as
+
+                                     sin θ |cos θ| + cos θ |sin θ| = 0.
+
+If both sin θ and cos θ are positive, then this becomes 2 sin θ cos θ = 0, which cannot be true.
+Likewise, if both sin θ and cos θ are negative, this becomes −2 sin θ cos θ = 0, which again cannot
+be true. However, if one is positive and one is negative, say sin θ > 0 and cos θ < 0, this becomes
+− sin θ cos θ + sin θ cos θ = 0, which is certainly true. The same holds if sin θ < 0 and cos θ > 0.
+Finally, if either sin θ = 0 or cos θ = 0, the equation is also satisfied.
+We therefore need to count the number of given angles for which sin θ and cos θ have opposite
+signs or one of them is zero. A quick sketch helps here:
+
+                                 y
+
+                             1
+
+
+
+                                                                                   x
+                             0            90          180        270         360
+
+
+
+                           −1
+
+
+
+We see that the relevant ranges are 90◦ ≤ θ ≤ 180◦ and 270◦ ≤ θ ≤ 360◦ ; x = 0◦ would also
+work, but is not one of the angles in the given list. There are 91 angles in each of the two ranges
+(remembering to include both endpoints), so there are 182 angles in total, which is option F.
+
+
+
+
+Version 1.0, March 2022                                                                     Page 24
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+Question 20
+
+It is helpful to get a feeling for what this sequence of functions looks like, so we will sketch the
+first few. We are only interested in the range from −1 to 1 (because that is what the integral
+asks for). The first function, f1 (x) = |x| is standard:
+
+                                                 y
+
+
+                                             1
+
+                                                             y = f1 (x)
+
+
+
+
+                                                                     x
+                               −1            0                 1
+
+
+
+Note that when x < 0, this is the graph of y = −x, and when x ≥ 0, this is the graph of y = x.
+We next have f2 (x) = |f1 (x) + x|. We can calculate this on the two regions x < 0 and x ≥ 0
+separately: when x < 0, we get f2 (x) = |−x+x| = 0, and when x > 0, we get f2 (x) = |x+x| = 2x,
+giving this graph:
+
+                                                 y
+
+
+                                             1
+
+                                                        y = f2 (x)
+
+
+
+
+                                                                     x
+                               −1            0                 1
+
+
+
+We can determine f3 (x) and f4 (x) in a similar way:
+
+
+
+
+Version 1.0, March 2022                                                                     Page 25
+Test of Mathematics for University Admission, 2021 Paper 2 Solutions
+
+
+                          y                                               y
+
+
+                     1                                                1
+
+                                y = f3 (x)                                       y = f4 (x)
+
+
+
+
+                                             x                                                 x
+       −1            0                1                 −1            0                1
+
+
+
+Here, the graphs for x ≥ 0 are y = 3x and y = 4x respectively.
+We can see a pattern forming: when n is odd, the graph of y = fn (x) looks like y = f3 (x), with
+y = −x for x < 0 and y = nx for x ≥ 0, and when n is even, it looks like y = f4 (x), with y = 0
+for x < 0 and y = nx for x ≥ 0.
+
+                                      R 1 like y = f3 (x): it is y = −x for x < 0 and y = 99x for
+We are interested in f99 (x), which looks
+x ≥ 0. We can calculate the integral −1 f99 (x) dx by finding the area under the graph, which is
+just the sum of two triangles.
+The area between x = −1 and x = 0 is 21 × 1 × 1 and the area between x = 0 and x = 1 is
+1                                  1       1        1
+2 × 1 × 99, so the integral equals 2 × 1 + 2 × 99 = 2 × 100 = 50; the correct option is therefore E.
+
+
+
+
+Version 1.0, March 2022                                                                       Page 26
+This document was initially designed for print and as such does not reach accessibility standard
+WCAG 2.1 in a number of ways including missing text alternatives and missing document structure.
+
+
+
+If you need this document in a different format please email
+admissionstesting@cambridgeassessment.org.uk telling us your name, email address and
+requirements and we will respond within 15 working days.
+
+
+
+This document contains maths equations and symbols which at present we are not able to produce
+adequately for accessibility. We are working to improve this.
+
+
+
+
+We are Cambridge Assessment Admissions Testing, part of the University of Cambridge.
+Our research-based tests provide a fair measure of skills and aptitude to help you make
+informed decisions. As a trusted partner, we work closely with universities, governments
+and employers to enhance their selection processes.
+
+
+
+Cambridge Assessment
+Admissions Testing
+The Triangle Building
+Shaftesbury Road
+Cambridge
+CB2 8EA
+United Kingdom
+
+
+
+Admissions tests support: admissionstesting.org/help

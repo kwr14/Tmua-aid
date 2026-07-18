@@ -1,0 +1,575 @@
+TEST OF MATHEMATICS
+FOR UNIVERSITY ADMISSION
+
+PAPER 1
+
+SPECIMEN                                                                Time: 75 minutes
+Additional Materials: Answer sheet
+
+
+INSTRUCTIONS TO CANDIDATES
+
+Please read these instructions carefully, but do not open the question paper until you
+are told that you may do so.
+
+A separate answer sheet is provided for this paper. Please check you have one.
+You also require a soft pencil and an eraser.
+
+This paper is the first of two papers.
+
+There are 20 questions on this paper. For each question, choose the one answer you
+consider correct and record your choice on the separate answer sheet. If you make a
+mistake, erase thoroughly and try again.
+
+There are no penalties for incorrect responses, only points for correct answers, so you should
+attempt all 20 questions. Each question is worth one mark.
+
+Any rough work should be done on this question paper. No extra paper is allowed.
+
+
+Please complete the answer sheet with your candidate number, centre number,
+date of birth, and full name.
+
+
+Calculators must NOT be used. There is no formulae booklet for this test.
+
+
+Please wait to be told you may begin before turning this page
+
+
+               This question paper consists of 12 printed pages and 4 blank pages
+
+
+
+
+© UCLES 2017
+                   2
+
+
+
+
+               BLANK PAGE
+
+
+
+
+© UCLES 2017
+                                                     3
+
+
+1.     The sum of the two values of         that satisfy the simultaneous equations
+
+               3       1     0 and 3    7     5 is
+
+
+
+       A               8.5
+
+       B               7.5
+
+       C               1.5
+
+       D           3.5
+
+       E           4.5
+
+       F           5
+
+
+
+
+2.     The number of solutions in the interval 0             4 of the equation
+        sin            3 cos     3 is
+
+
+
+       A           0
+
+       B           1
+
+       C           2
+
+       D           3
+
+       E           4
+
+       F           5
+
+       G           6
+
+
+
+
+© UCLES 2017                                                                          [Turn over
+                                                 4
+
+
+3.     The perpendicular bisector of the line segment joining the points 2, 6 and 5, 4 cuts
+       the ‐axis at the point with ‐coordinate
+
+
+
+
+       A
+
+
+       B
+
+
+       C
+
+
+       D
+
+
+       E
+
+
+
+
+4.     The complete set of values of for which       1      2    0 is
+
+
+
+
+       A            1, 1            2
+
+       B            1,          2
+
+       C       1           2
+
+       D           1,       2
+
+       E       1           1,       2
+
+
+
+
+© UCLES 2017
+                                                       5
+
+
+5.     Given that            log      1       for    1, find   in terms of .
+
+
+
+
+       A
+
+
+       B               1    log
+
+       C               1    log
+
+       D               1    10
+
+       E               10         1
+
+       F               10
+
+
+
+
+6.     It is given that           2 is a factor of    4              1     6.
+
+       The sum of the possible values of is
+
+
+
+       A           10
+
+       B           6
+
+       C       0
+
+       D       6
+
+       E       10
+
+
+
+
+© UCLES 2017                                                                    [Turn over
+                                                   6
+
+
+7.     A bag contains    red balls,   yellow balls, and   blue balls.
+
+       One ball is selected at random and not replaced.
+
+       A second ball is then selected at random and not replaced.
+
+       Each ball is equally likely to be chosen.
+
+       The probability that the two balls are not the same colour is
+
+
+
+       A
+
+
+       B
+
+
+       C
+
+
+       D
+
+
+       E
+
+
+       F
+
+
+
+
+© UCLES 2017
+                                              7
+
+
+8.     Given that             2, where , , and are positive real numbers, then
+
+
+
+       A       log
+
+       B
+
+       C
+
+       D
+
+       E       log
+
+       F
+
+       G
+
+       H
+
+
+
+
+9.     The roots of the equation 2   11           0 differ by 2. The value of is
+
+
+
+       A
+
+
+       B
+
+
+       C
+
+
+       D
+
+
+
+
+© UCLES 2017                                                                       [Turn over
+                                                      8
+
+
+10.    The curve         cos is reflected in the line         1 and the resulting curve is then
+       translated by         units in the positive ‐direction. The equation of this new curve is
+
+
+
+
+       A             2   cos
+
+
+       B             2   cos
+
+
+       C             2   cos
+
+
+       D             2   cos
+
+.
+
+
+
+
+11.    The sum of the roots of the equation 2             8   2     15   0 is
+
+
+
+
+       A       3
+
+       B       8
+
+       C       2 log     2
+
+       D       log
+
+
+       E
+
+
+
+
+© UCLES 2017
+                                                9
+
+
+12.    The cross‐section of a triangular prism is an equilateral triangle with side 2 cm.
+       The length of the prism is cm.
+
+       Let the total surface area of the prism be cm2. Given that the volume of the prism is
+       cm3, which one of the following is an expression for in terms of ?
+
+
+
+       A
+
+
+       B
+                       √
+
+
+       C
+                   √
+
+
+       D
+                   √
+
+
+       E
+                   √
+
+
+
+
+13.    How many real roots does the equation          4     4      10    0 have?
+
+
+
+
+       A       0
+
+       B       1
+
+       C       2
+
+       D       3
+
+       E       4
+
+
+
+
+© UCLES 2017                                                                       [Turn over
+                                                10
+
+
+14.        , , , and   are real and positive.
+
+           and are constants.
+
+           and   are related.
+
+       A graph of log against log is drawn.
+
+       For which one of the following relationships will this graph be a straight line?
+
+
+
+
+       A
+
+       B
+
+       C
+
+       D
+
+       E
+
+
+
+
+15.    The smallest possible value of                 as   varies is
+
+
+
+       A
+
+
+       B
+
+
+       C
+
+
+       D
+
+
+       E         2
+
+
+
+© UCLES 2017
+                                                11
+
+
+16.    Given that and      are non‐zero integers, the expression               is an integer if
+
+
+
+       A           0
+
+       B           0
+
+       C           0 and       0
+
+       D           0 and       0
+
+       E           0 and       0
+
+       F           0 and       0
+
+       G           0
+
+       H           0
+
+
+
+
+17.    For what values of the non‐zero real number     does the quadratic equation
+                  2      2 have real distinct roots?
+
+
+       A       All values of
+
+       B               2
+
+       C               2
+
+       D               2
+
+       E       No values of
+
+
+
+
+© UCLES 2017                                                                    [Turn over
+                                                12
+
+
+18.    The angle is measured in radians and is such that 0            .
+
+       The total length of any intervals for which      1   tan   1 and sin 2    0.5 is
+
+
+
+       A
+
+       B
+
+       C
+
+       D
+
+
+       E
+
+       F
+
+
+       G
+
+
+
+
+19.    A geometric series has first term 4 and common ratio , where 0           1.
+
+       The first, second, and fourth terms of this geometric series form three successive terms of
+       an arithmetic series.
+
+       The sum to infinity of the geometric series is
+
+
+
+       A        √5    1
+
+       B       2 3   √5
+
+       C       2 1   √5
+
+       D       2 3   √5
+
+
+
+
+© UCLES 2017
+                                             13
+
+
+20.    The coefficient of   in the expansion of 4    1   2   3   1    4      is
+
+
+
+       A       28
+
+       B       72
+
+       C       78
+
+       D       192
+
+       E       240
+
+       F       310
+
+       G       312
+
+
+
+
+                                       END OF TEST
+
+
+
+
+© UCLES 2017                                                         [Turn over
+                   14
+
+
+
+
+               BLANK PAGE
+
+
+
+
+© UCLES 2017
+                   15
+
+
+
+
+               BLANK PAGE
+
+
+
+
+© UCLES 2017
+                   16
+
+
+
+
+               BLANK PAGE
+
+
+
+
+© UCLES 2017

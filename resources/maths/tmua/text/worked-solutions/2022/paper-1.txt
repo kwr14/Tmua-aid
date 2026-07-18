@@ -1,0 +1,850 @@
+  Test of Mathematics for University Admission, 2022 Paper 1
+                      Worked Solutions
+
+
+                                     Version 1.0, July 2023
+
+
+
+Contents
+
+  Introduction for students . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       2
+  Question 1    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    3
+  Question 2    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    4
+  Question 3    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    5
+  Question 4    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    6
+  Question 5    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    7
+  Question 6    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    8
+  Question 7    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    9
+  Question 8    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+  Question 9    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11
+  Question 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     12
+  Question 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     13
+  Question 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     14
+  Question 13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     15
+  Question 14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     16
+  Question 15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     18
+  Question 16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     19
+  Question 17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     20
+  Question 18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     21
+  Question 19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     23
+  Question 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     24
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Introduction for students
+
+These solutions are designed to support you as you prepare to take the Test of Mathematics for
+University Admission. They are intended to help you understand how to answer the questions,
+and therefore you are strongly encouraged to attempt the questions first before looking at
+these worked solutions. For this reason, each solution starts on a new page, so that you can
+avoid looking ahead.
+The solutions contain much more detail and explanation than you would need to write in the
+test itself – after all, the test is multiple choice, so no written solutions are needed, and you may
+be very fluent at some of the steps spelled out here. Nevertheless, doing too much in your head
+might lead to making unnecessary mistakes, so a healthy balance is a good target!
+There may be alternative ways to correctly answer these questions; these are not meant to be
+‘definitive’ solutions.
+The questions themselves are available at the TMUA Preparation Materials
+
+
+
+
+Version 1.0, July 2023                                                                        Page 2
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 1
+
+This equation is a quadratic in cos2 θ, and it factorises as
+
+                                  (2 cos2 θ − 3)(cos2 θ − 1) = 0.
+
+Therefore 2 cos4 θ − 5 cos2 θ + 3 = 0 if and only if cos2 θ = 23 or cos2 θ = 1. The first equation
+has no real solutions, so the original equation holds if and only if cos2 θ = 1, or cos θ = ±1.
+cos θ = 1 has the solutions θ = 0 and θ = 2π in the interval 0 ≤ θ ≤ 2π, and cos θ = −1 has the
+solution θ = π in this interval.
+Therefore the original equation has three real solutions in the interval, and the correct option
+is C.
+
+
+
+
+Version 1.0, July 2023                                                                     Page 3
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 2
+
+We rewrite the equation in completed square form: starting from
+
+                             x2 − 2px + y 2 − 6y − p2 + 8p + 9 = 0,
+
+completing the square for x and y gives
+
+                         (x − p)2 − p2 + (y − 3)2 − 9 − p2 + 8p + 9 = 0,
+
+which simplifies to
+                               (x − p)2 + (y − 3)2 − 2p2 + 8p = 0
+or
+                                 (x − p)2 + (y − 3)2 = 2p2 − 8p.
+This is a circle with squared radius 2p2 − 8p, as long as this is positive. So the complete set of
+values of p for which the original equation describes a circle in the xy-plane are those for which
+2p2 − 8p > 0, or p2 − 4p > 0.
+This factorises as p(p − 4) > 0, which has roots p = 0, p = 4, so the complete set of values in
+which the inequality holds is p < 0 or p > 4, which is option D.
+
+
+
+
+Version 1.0, July 2023                                                                     Page 4
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 3
+
+Using the first statement, f 00 (x) = a for all x, we can integrate to get f 0 (x) = ax + b for some
+constant b, and a further integration gives f(x) = 21 ax2 + bx + c for some constant c.
+The second statement then yields f(0) = c = 1 and f(1) = 12 a + b + 1 = 2, so a + 2b = 2.
+Finally, we can now use the third statement:
+                               Z 1
+                                                                1
+                                   f(x) dx = 16 ax3 + 12 bx2 + x 0
+                                            
+                                  0
+                                            = 16 a + 12 b + 1
+                                            =1
+
+so that a + 3b = 0.
+Combining the simultaneous equations
+
+                                            a + 2b = 2
+                                            a + 3b = 0
+
+gives b = −2 and a = 6, so the correct answer is option F.
+
+
+
+
+Version 1.0, July 2023                                                                       Page 5
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 4
+
+Suppose that the angle of the sector is θ (in radians). Then the arc length of the smaller sector
+is rθ and the area is 12 r2 θ.
+For the smaller sector, this gives rθ = 6, so θ = 6/r. Therefore the area is 12 r2 (6/r) = 3r.
+Likewise, since the larger sector has the same angle as the smaller one, its arc length is (r+3)(6/r)
+and its area is 21 (r + 3)2 (6/r) = 3(r + 3)2 /r.
+We are told the difference between the areas, so we have
+
+                                       3(r + 3)2
+                                                 − 3r = 21.
+                                           r
+Multiplying this by r and rearranging gives
+
+                                     3(r + 3)2 − 3r2 − 21r = 0
+
+which we can expand and simplify to give
+
+                                           −3r + 27 = 0,
+
+so r = 9.
+We can now calculate the arc length of the larger sector; it is (r + 3)(6/r) = 8.
+Therefore, the perimeter of the first sector is 2r + 6 = 24 and the perimeter of the second sector
+is 2(r + 3) + 8 = 32. The positive difference is 8, which is option C.
+
+
+
+
+Version 1.0, July 2023                                                                        Page 6
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 5
+
+We write out the formulae for x2 , x3 and x4 in terms of p and q, using the values x1 = 3, x2 = 5
+and x3 = 7:
+
+
+                                                        3+p
+                                     n=1:         5=
+                                                        3+q
+                                                        5+p
+                                     n=2:         7=
+                                                        5+q
+                                                        7+p
+                                     n=3:        x4 =
+                                                        7+q
+
+Multiplying the first equation by 3 + q and the second by 5 + q gives
+
+                                        15 + 5q = 3 + p
+                                        35 + 7q = 5 + p
+
+These are simultaneous equations for p and q; subtracting gives 20 + 2q = 2 so q = −9 and
+therefore p = −33.
+Substituting these into the expression for x4 gives
+                                              7 − 33
+                                       x4 =          = 13
+                                               7−9
+so the answer is option H.
+
+
+
+
+Version 1.0, July 2023                                                                    Page 7
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 6
+
+We calculate the integral and use the laws of logarithms; we obtain
+                         Z log2 20
+                                               1 2 log2 20
+                                     x dx =     2 x log 5
+                                                        2
+                          log2 5
+                                         = 12 (log2 20)2 − 12 (log2 5)2
+                                         = 12 (log2 20)2 − (log2 5)2
+                                                                       
+
+                                         = 21 (log2 4 + log2 5)2 − (log2 5)2
+                                                                               
+
+                                         = 21 (2 + log2 5)2 − (log2 5)2
+                                                                        
+
+                                         = 12 4 + 4 log2 5 + (log2 5)2 − (log2 5)2
+                                                                                     
+
+                                         = 12 (4 + 4 log2 5)
+                                         = 2 + 2 log2 5
+                                         = log2 4 + log2 25
+                                         = log2 100
+
+so the answer is option F.
+
+
+
+
+Version 1.0, July 2023                                                                   Page 8
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 7
+
+The line y = 0 is the x-axis; the curve y = x2 − 4|x| − 12 is y = x2 − 4x − 12 when x ≥ 0 and
+y = x2 + 4x − 12 when x < 0, so we sketch these two graphs.
+The curve y = x2 − 4x − 12 = (x − 6)(x + 2) intersects the x-axis at x = 6 and x = −2 and
+has a minimum half way between them, at x = 2. Since we are only considering x ≥ 0, we only
+observe one point of intersection with the x-axis.
+Similarly, the curve y = x2 + 4x − 12 = (x + 6)(x − 2) intersects the x-axis at x = −6 and x = 2
+and has a minimum half way between them, at x = −2. Since we are only considering x < 0,
+we only observe one point of intersection with the x-axis.
+We can now sketch the graph, where we have shown the parts of the quadratics we are not using
+as dashed lines:
+
+
+
+
+                                   −6    −2         2       6
+
+
+The finite area enclosed between the x-axis and the graph y = x2 − 4|x| − 12 is therefore between
+x = −6 and x = 6. We could calculate the integrals of the two quadratics, one between x = −6
+and x = 0 and the other between x = 0 and x = 6. But we could also notice that the graph is
+symmetrical about the y-axis, so we only need to find one of these and double the answer.
+We have
+                         Z 6                  3            6
+                               2              x      2
+                            x − 4x − 12 dx =     − 2x − 12x
+                          0                    3             0
+                                                63
+                                              =    − 2 × 62 − 12 × 6 − 0
+                                                3
+                                              = −72
+     R6  2
+so   −6 x − 4|x| − 12 dx = −144 and the (unsigned) area required is 144, which is option E.
+
+
+
+
+Version 1.0, July 2023                                                                    Page 9
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 8
+
+                          a(rn − 1)
+We use the formula Sn =             and substitute into the given equation:
+                            r−1
+
+                             a(r30 − 1) a(r20 − 1)    a(r10 − 1)
+                                       −           =k            .
+                               r−1        r−1           r−1
+We can multiply this by r − 1 and divide by a to get
+
+                               (r30 − 1) − (r20 − 1) = k(r10 − 1),
+
+which simplifies to
+                                     r30 − r20 = k(r10 − 1).
+Factorising the left hand side then gives
+
+                                   r20 (r10 − 1) = k(r10 − 1);
+
+as r > 1, we can divide by r10 − 1 6= 0 to obtain
+
+                                            r20 = k.
+
+Therefore k is a 20th power, and the smallest possible value is 220 , which is option B.
+
+
+
+
+Version 1.0, July 2023                                                                     Page 10
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 9
+
+It may well require reading this question a couple of times to understand what it is asking! It
+seems like we need to find all possible functions f(x) and g(x), then for each one, to find the
+minimum value that f(x) takes, and then to find the minimum of all the minima. There might,
+of course, be some shortcuts!
+
+Let us try to solve the equations to find f(x). The first equation rearranges to give g(x) =
+f(x) − 2 sin x, so we can substitute this into the second equation to give
+
+                                  f(x)(f(x) − 2 sin x) = cos2 x.
+
+This is a quadratic in f(x), so we can rearrange it into the standard form and use the quadratic
+formula:
+                                (f(x))2 − (2 sin x)f(x) − cos2 x = 0,
+hence
+                                               p
+                                     2 sin x ±  4 sin2 x + 4 cos2 x
+                              f(x) =
+                                                   2
+                                   = sin x ± 1.
+
+So there are two possible functions f(x), namely f(x) = sin x + 1 and f(x) = sin x − 1. The
+minimum value taken by these for any x is 0 for the first function and −2 for the second, so the
+minimum possible value is −2, which is option E.
+
+
+
+
+Version 1.0, July 2023                                                                  Page 11
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 10
+
+Any sequence of translations is equivalent to a translation in the x-direction followed by a
+translation in the y-direction (where the translations could be zero).
+Translating y = x3 by a in the x-direction gives the graph
+
+                            y = (x − a)3 = x3 − 3ax2 + 3a2 x − a3 .
+
+Then translating by b in the y-direction gives the graph
+
+                                y = x3 − 3ax2 + 3a2 x − a3 + b.
+
+Now considering the three graphs:
+
+I    The x2 term is −3x2 , which means we require a = 1. Substituting this into the above
+     general equation gives y = x3 − 3x2 + 3x − 1 + b, which does not match the given equation.
+     So this is not a translation of y = x3 .
+
+II   The x2 term is −9x2 , so we require a = 3. Substituting gives y = x3 − 9x2 + 27x − 27 + b,
+     which matches the equation with b = 24, so this is a translation of y = x3 .
+
+III The x3 term does not match here, so this is not a translation of y = x3 .
+
+Therefore the answer is option C, II only.
+
+
+
+
+Version 1.0, July 2023                                                                 Page 12
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 11
+
+We have log10 (31−n ) = (1 − n) log10 3, so the sum becomes
+                            100
+                            X                       100
+                                                    X
+                                  log10 (31−n ) =         (1 − n) log10 3
+                            n=1                     n=1
+                                                               100
+                                                               X
+                                               = (log10 3)           (1 − n).
+                                                               n=1
+
+
+Now the sum is actually an arithmetic series: expanding it gives
+                         100
+                         X
+                               (1 − n) = 0 + (−1) + (−2) + · · · + (−99)
+                         n=1
+                                      = −(0 + 1 + 2 + · · · + 99)
+                                      = − 12 × 100(0 + 99 × 1)
+                                      = −4950
+
+using the formula Sn = 12 n(2a + (n − 1)d). (Alternatively, we could have used the formula for
+the nth triangular number.)
+Therefore the original sum evaluates to −4950 log10 3, which is option A.
+
+
+
+
+Version 1.0, July 2023                                                                Page 13
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 12
+
+The formula for yk is given in completed square form. The minimum of the graph y = a(x−b)2 +c,
+where a > 0, is at x = b, and the minimum value is c. Therefore the minimum of yk is at
+         2
+( k2 , k2 + 4k + 3).
+                                                                           2
+The minimum of the minimum y-coordinates is therefore the minimum of k2 + 4k + 3. We can
+find this minimum either by completing the square or by differentiating this with respect to k.
+Let us use the latter method here as it seems simpler. We have
+
+                                  d k2
+                                                  
+                                           + 4k + 3 = k + 4
+                                  dk 2
+
+so the minimum occurs at k = −4, giving
+
+                                k k2
+                                             
+                                  ,   + 4k + 3 = (−2, −5)
+                                2 2
+
+so that a + b = −7, which is option D.
+
+
+
+
+Version 1.0, July 2023                                                                 Page 14
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 13
+
+Expanding the brackets gives
+                                                   4            √
+                                    2 − a3 b3 +           −2=       2
+                                                  a3 b3
+so
+                                         4        3 3
+                                                        √
+                                              − a  b  =   2.
+                                        a3 b3
+We are interested in the least possible value of ab, so we can find the least possible value    3 3
+                                                                          3 3    4
+                                                                                          √ of a b
+and take the cube root. Let us simplify the notation by writing x = a b , so x − x = 2.
+                                               √                                       √
+Multiplying by x gives a quadratic: 4 − x2 = 2 x, which we can rearrange to x2 + 2 x − 4 = 0
+and then solve using the quadratic formula:
+                             √     √              √      √
+                           − 2 ± 2 + 16        − 2±3 2            √       √
+                      x=                    =                = −2 2 or 2.
+                                  2                   2
+                                                                            √        3
+Since we want the least possible value of x, we take    √ x = a3 b3 = −2 2 = −2 2 , and so the
+                                      3 1       1
+minimum possible value of ab is (−2 2 ) 3 = −2 2 = − 2, which is option A.
+
+
+
+
+Version 1.0, July 2023                                                                     Page 15
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 14
+
+Let us start by drawing the triangle P OQ in the circle:
+
+
+
+
+                                                O
+                                          6            6
+                                                2θ
+                                  P                           Q
+
+
+
+
+(We have called the angle 2θ as we will shortly want to consider half of the angle.)
+                                        √
+We are told that the area of P OQ is 9 3, so we can use the formula for the area of a triangle
+given two sides and the included angle to determine 2θ: the area formula is A = 12 ab sin C, which
+in this case gives                                        √
+                                   1
+                                   2 ×  6 × 6 × sin 2θ = 9 3
+              √
+               3             π                     2          ◦
+so sin 2θ =   2 . Since 2θ ≥ 2 , we must have 2θ = 3 π (or 120 ).
+We can now work out the length P Q by dropping a perpendicular from O to P Q:
+
+                                                O
+                                           6          6
+                                               θ θ
+                                      P                       Q
+                                                S
+
+                                           √             √
+We have P S = SQ = 6 sin θ = 6 sin 31 π = 3 3, so P Q = 6 3, and we also have OS = 6 cos θ =
+6 cos 31 π = 3.
+We can now work out the maximum possible area of the triangle P QR. The triangle P QR looks
+like this:
+
+                                                          R
+
+
+
+
+                                                O
+
+
+                                      P         √             Q
+                                               6 3
+
+
+Fixing P Q and allowing R to move, we see that the largest possible area of P QR occurs when
+R is as far as possible from P Q, as the area of the triangle is 12 × base × height. When R is at
+the top of the circle (in our diagram), we have this configuration:
+
+
+Version 1.0, July 2023                                                                    Page 16
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+                                              R
+
+
+
+
+                                              O
+
+                                             S
+                                P           √           Q
+                                           6 3
+
+
+
+We have RS = RO + OS. Now RO = 6 (it is a radius of the circle) and OS = 3 as we calculated
+earlier, so RS = 9. Therefore the maximum possible area of P QR is
+                            1              1
+                                                √            √
+                            2 × P Q × RS = 2 × 6 3 × 9 = 27 3,
+
+which is option D.
+
+
+
+
+Version 1.0, July 2023                                                             Page 17
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 15
+
+We start by sketching the two curves to understand what is happening.
+They are both quadratics. The graph of p has a maximum at (0, 8) and the graph of q has a
+minimum at (0, −2). They are both symmetrical about x = 0 (the y-axis). It might
+                                                                           p     be helpful
+to work out where they intersect: 8 − 2x2 = x2 − 2 implies 3x2 = 10, so x = 10/3, which is
+between 1.5 and 2.
+The graph of these therefore looks like this, where we have also sketched a possible rectangle.
+For the rectangle to have the maximum possible area, it must meet the graphs at all four of its
+vertices.
+
+
+
+
+                                                                                     p
+Let us suppose that the vertices of the rectangle are at x = ±a, with 0 < a < 10/3. Then
+the width of the rectangle is 2a and the height is (8 − 2a2 ) − (a2 − 2) = 10 − 3a2 . Therefore the
+area is A = 2a(10 − 3a2 ) = 20a − 6a3 .
+To maximise this area, we differentiate with respect to a to find the stationary points. We have
+                                         dA
+                                            = 20 − 18a2
+                                         da
+                                                                                    √
+so there is a stationary point when this is zero, at a = ± 20/18 = ± 10/9 = ± 13 10. We are
+                                                           p         p
+                                                             p
+only interested in the positive value, and this is less than 10/3, so it is a valid value for our
+problem. We therefore obtain the maximum possible area: it is
+
+                                     A = 2a(10 − 3a2 )
+                                           √
+                                       = 32 10(10 − 31 × 10)
+                                           √
+                                       = 23 10 × 23 × 10
+                                            √
+                                          40 10
+                                       =
+                                            9
+which is option H.
+
+
+
+
+Version 1.0, July 2023                                                                     Page 18
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 16
+
+The given quartic can be thought of as a quadratic in x2 , and as such it has roots
+                                         √                 √
+                                2    6 ± 62 − 28      3± 2
+                               x =                 =          .
+                                          14              7
+Since the roots of the quartic are ± cos θ and ± cos β, these x2 values are the values of cos2 θ
+and cos2 β (in some order).
+Now sin2 θ = 1 − cos2 θ and sin2 β = 1 − cos2 β, so
+                                                   √      √
+                                2       2       3± 2   4∓ 2
+                             sin θ, sin β = 1 −      =      .
+                                                  7      7
+                                    √                 √
+Therefore the equations x2 − 4+7 2 = 0 and x2 − 4−7 2 = 0 have solutions ± sin θ and ± sin β
+(again, in some order, and x is not the same as earlier). It follows that the product of these two
+equations will have the four solutions ± sin θ and ± sin β; this equation is
+                                         √ !              √ !
+                                 2   4+ 2         2   4− 2
+                               x −               x −              = 0.
+                                        7                7
+
+To obtain the form given in the question, we first expand the brackets:
+                                √         √ !            √        √
+                      4     4 +   2   4 −   2     2   4+ 2 4− 2
+                    x −             +           x +          ·        =0
+                               7         7              7        7
+
+then perform the surd calculations to give
+                                            8    2
+                                        x4 − x2 + = 0.
+                                            7    7
+Finally, multiplying by 7 gives 7x2 − 8x + 2 = 0, which is option B.
+
+
+
+
+Version 1.0, July 2023                                                                    Page 19
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 17
+
+We first require that the lengths shown are both positive; x − 1 > 0 if and only if x > 1, and
+−x2 + 6x − 5 = −(x − 5)(x − 1) > 0 if and only if 1 < x < 5. Therefore we require 1 < x < 5 to
+ensure both lengths are positive.
+There are two non-congruent triangles when the side marked x − 1 can be drawn in two config-
+urations:
+
+
+
+                                x−1                       −x2 + 6x − 5
+
+
+                                                                        30◦
+
+
+
+
+This is possible when the following conditions are satisfied:
+
+•     x − 1 < −x2 + 6x − 5 (otherwise one of the possibilities will lie to the right of the 30◦ angle
+      in the above diagram)
+
+•     x − 1 > (−x2 + 6x − 5) sin 30◦ (so that the distance from the end of the −x2 + 6x − 5 side
+      to the base is at least x − 1, making it possible to form a triangle; if there is equality here,
+      then the dashed circle will be tangent to the base of the triangle, and there will only be
+      one possibility)
+
+The first inequality rearranges as x2 − 5x + 4 < 0, which factorises as (x − 1)(x − 4) < 0, giving
+1 < x < 4.
+The second equality, using sin 30◦ = 21 , becomes 2x − 2 > −x2 + 6x − 5, so x2 − 4x + 3 > 0. This
+factorises as (x − 1)(x − 3) > 0, so x < 1 or x > 3.
+Requiring both of these inequalities to hold thus gives 3 < x < 4; this also satifies the positivity
+requirement we started with (1 < x < 5), and so the answer is option D.
+
+
+
+
+Version 1.0, July 2023                                                                       Page 20
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 18
+
+The equation f(x) = g(x) is a polynomial equation with degree 5, so has at most 5 distinct real
+solutions; we wish there to be 5 such solutions for all values of p.
+We would have fewer than 5 distinct real solutions if we either have a square factor of the form
+(x − a)2 for some a, or if the graph of y = f(x) − g(x) has fewer than four turning (stationary)
+points, or if this graph has a minimum point above the x-axis or a maximum point below it, for
+then it would not cross the x-axis 5 times.
+Let us write
+                   h(x) = f(x) − g(x) = x2 (x − 1)2 (x − 2) + p(x − q)2 (x − r)2
+
+We can try expanding and differentiating this, but that looks horrible. Let us think about the
+above description, though, remembering that there need to be 5 distinct real solutions for all
+values of p.
+The graph of y = f(x) = x2 (x − 1)2 (x − 2) intersects the x-axis at x = 0 (where it is tangent to
+the axis, because it is a double root), x = 1 (likewise) and x = 2, and it is positive when x > 2
+and negative or zero when x < 2, so the graph looks like this:
+
+
+
+
+                                               1    2
+
+
+The graph of y = g(x) = −p(x − q)2 (x − r)2 has two points of intersection with the x-axis, one
+at x = q and one at x = r, and at both of these points, the graph is tangent to the axis. (In
+the case q = r, there is just one point of tangency.) The graph is entirely below or touching the
+x-axis as we are given that p > 0. It looks like this:
+
+
+
+
+                                           q        r
+
+
+If r > 2, then the graph of y = g(x) will entirely miss one of the “valleys” of y = f(x) if p is
+large, as it will if r < 1; in this case, there would be at most three points of intersection for
+
+
+Version 1.0, July 2023                                                                    Page 21
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+large p. So we must have 1 < r < 2. If 1 < q < r, then it will miss the left valley for large
+enough p, so we must have 0 < q < 1 and 1 < r < 2. In this case, the graph of y = g(x) must
+intersect both valleys twice as g(1) < 0:
+
+
+
+
+This sketch shows four points of intersection, and we are looking for five. But the graph of
+y = f(x) tends to −∞ as x tends to −∞ far faster that y = g(x), regardless of the value of p,
+as y = f(x) is a quintic but y = g(x) is only a quartic. So there will always be another point of
+intersection with x < 0.
+Hence the correct answer is option B.
+
+Note that there is actually a small simplification in the above argument. We showed that we
+cannot have 1 < q < r and deduced that we must have 0 < q < 1. But what about the possibility
+q = 1? In that case, there would be a double root at x = 1, and so there would not be five distinct
+roots, hence we cannot have q = 1. But what about r? We showed that we cannot have r > 2 or
+r < 1. If r = 1, we have the same problem, but what about r = 2 and 0 < q < 1? In this case,
+it is still true that the equation has five distinct real solutions for all positive p, as x = 2 is only
+a single root of f(x) = 0. So the full set is actually q < 1 and 1 < r ≤ 2.
+
+
+
+
+Version 1.0, July 2023                                                                         Page 22
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 19
+
+Note first that the region where the centre of C2 may lie is entirely within the circle C1 , as
+22 + 32 = 13 < 25.
+As the radius of C1 is 5, the circle C2 will intersect C1 if and only if the centre of C2 is at least
+a distance of 1 from the origin (the centre of C1 ). This is because in this case, a line from the
+centre of C1 passing through the centre of C2 will reach the circle C1 before (or as) it reaches
+the circle C2 , but a line from the centre of C1 in the opposite direction will reach C2 first. If,
+though, the centre of C2 is at a distance of less than 1 from the origin, the furthest point on C2
+from the origin will be at a distance of less than 1 + 4 = 5 from the origin, so C2 lies entirely
+inside C1 .
+The area of the allowed (a, b) region is 4 × 6 = 24. The (a, b) region where the circles do not
+intersect is a circle of radius 1, with area π, lying entirely within the allowed region, so the
+region where the circles do intersect has area 24 − π.
+                                        24 − π
+Thus the probability of intersection is        , which is option F.
+                                          24
+
+
+
+
+Version 1.0, July 2023                                                                      Page 23
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+Question 20
+
+The graph y = |x2 − a2 | intersects the x-axis at ±a. The graph y = a2 |x − 1| intersects the
+x-axis at x = 1. Replacing a with −a does not change the equations, so we may as well assume
+that a ≥ 0.
+Here is a sketch of the graphs with a = 2; we note that the graphs always intersect at x = 0
+(and y = a2 there):
+
+
+
+
+                                         −2         1 2
+
+
+We immediately see that when a > 1, there will be 4 points of intersection: the graph y = a2 |x−1|
+is below the “hill” at (1, 0), so intersects it twice as x moves away from x = 1, and then intersects
+the quadratic y = x2 − a2 for some x < −a and some x > a as the quadratic grows faster than
+the linear y = −a2 (x − 1) or y = a2 (x − 1) in these regions.
+What happens when a = 1? In this case, the equations become y = |x2 − 1| and y = x − 1. The
+derivative of the quadratic y = x2 − 1 is 2x, so the gradient is just over 2 when x is just over 1.
+(There is no gradient at the point x = 1.) Therefore the graph looks like this:
+
+
+
+
+                                           −1        1
+
+
+We see that we have lost one point of intersection: there are now only three points of intersection.
+What happens if 0 < a < 1? Now the vertex of y = a2 |x − 1| will be to the right of x = a, where
+the quadratic meets the axis, and so there will be no points of intersection there – the quadratic
+grows too quickly to meet the linear function for x > 1. (To be more precise: the gradient of
+the quadratic to the right of x = a is 2x > 2a > a2 , so the quadratic will be growing faster than
+the linear function.)
+On the left of x = a, we have one point of intersection to the left of x = −a as before. There
+is also a point of intersection at (0, a2 ). Since this is the vertex of the quadratic, the linear
+
+
+Version 1.0, July 2023                                                                      Page 24
+Test of Mathematics for University Admission, 2022 Paper 1 Solutions
+
+
+function must go below the “hill”, giving another two points of intersection, yielding four points
+of intersection in total:
+
+
+
+
+                                       −1           1
+
+
+There is one remaining case to consider: a = 0. In this case, the graphs become y = |x2 | = x2
+and y = 0, and these graphs have a single point of intersection at the origin.
+Therefore the possible numbers of points of intersection are 1, 3 and 4, and the smallest number
+not possible is n = 2, option B.
+
+
+
+
+Version 1.0, July 2023                                                                    Page 25

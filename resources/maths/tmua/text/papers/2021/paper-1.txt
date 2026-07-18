@@ -1,0 +1,735 @@
+                                                                    
+
+                      
+
+                                                                                                                    
+                  
+                         7(672)0$7+(0$7,&6                                                         '
+                          )2581,9(56,7<$'0,66,21
+                                                                             
+                         3$3(5                                             
+                                                                             
+                         1RYHPEHU                                                            PLQXWHV
+                  
+
+
+
+
+
+
+
+
+
+ 
+                          $GGLWLRQDOPDWHULDOV$QVZHUVKHHW
+  
+  
+
+
+
+
+                          
+    
+    
+
+
+
+
+                          
+     
+     
+     
+
+
+
+
+                          ,16758&7,21672&$1','$7(6
+       
+
+
+
+
+                          
+                          3OHDVHUHDGWKHVHLQVWUXFWLRQVFDUHIXOO\EXWGRQRWRSHQWKHTXHVWLRQSDSHUXQWLO
+          
+           
+
+
+
+
+                          \RXDUHWROGWKDW\RXPD\GRVR
+            
+
+
+
+
+                          
+                          $VHSDUDWHDQVZHUVKHHWLVSURYLGHGIRUWKLVSDSHU3OHDVHFKHFN\RXKDYHRQH
+                          <RXDOVRUHTXLUHDVRIWSHQFLODQGDQHUDVHU
+                          
+                          3OHDVHFRPSOHWHWKHDQVZHUVKHHWZLWK\RXUFDQGLGDWHQXPEHUFHQWUHQXPEHU
+                          GDWHRIELUWKDQGIXOOQDPH
+                          
+                          7KLVSDSHULVWKHILUVWRIWZRSDSHUV
+                          
+                          7KHUHDUHTXHVWLRQVRQWKLVSDSHU)RUHDFKTXHVWLRQFKRRVHWKHRQHDQVZHU\RX
+                          FRQVLGHUFRUUHFWDQGUHFRUG\RXUFKRLFHRQWKHVHSDUDWHDQVZHUVKHHW,I\RXPDNHD
+                          PLVWDNHHUDVHWKRURXJKO\DQGWU\DJDLQ
+                          
+                          7KHUHDUHQRSHQDOWLHVIRULQFRUUHFWUHVSRQVHVRQO\PDUNVIRUFRUUHFWDQVZHUVVR\RX
+                          VKRXOGDWWHPSWDOOTXHVWLRQV(DFKTXHVWLRQLVZRUWKRQHPDUN
+                          
+                          <RXFDQXVHWKHTXHVWLRQSDSHUIRUURXJKZRUNLQJRUQRWHVEXWQRH[WUDSDSHULV
+                          DOORZHG
+                          
+                          <RXPXVWFRPSOHWHWKHDQVZHUVKHHWZLWKLQWKHWLPHOLPLW
+                          
+                          &DOFXODWRUVDQGGLFWLRQDULHVDUH127SHUPLWWHG
+                          
+                          7KHUHLVQRIRUPXODHERRNOHWIRUWKLVWHVW
+                          
+                          
+                          
+                          3OHDVHZDLWWREHWROG\RXPD\EHJLQEHIRUHWXUQLQJWKLVSDJH
+                          
+                          
+                          
+
+                                                                                                                 39
+
+
+
+
+                  &RS\ULJKW8&/(6
+BLANK PAGE
+
+
+
+
+    
+1   Two circles have the same radius.
+
+    The centre of one circle is (–2, 1).
+
+    The centre of the other circle is (3, –2).
+
+    The circles intersect at two distinct points.
+
+    What is the equation of the straight line through the two points at which the circles
+    intersect?
+
+    A 3x − 5y = 4
+
+    B 3x + 5y = −1
+
+    C 5x − 3y = −4
+
+    D 5x − 3y = −1
+
+    E 5x − 3y = 1
+
+    F 5x − 3y = 4
+
+    G 5x + 3y = 1
+
+
+
+
+                                                 
+2   The curve y = x3 − 6x + 3 has turning points at x = α and x = β, where β > α.
+
+    Find                            β
+                                         x3 − 6x + 3 dx
+                                     α
+
+        √
+    A −8 2
+
+    B −10
+             √
+    C −10 + 6 2
+
+    D      0
+                 √
+    E      12 − 8 2
+            √
+    F      6 2
+
+    G      12
+
+
+
+
+                                           
+3   An arithmetic progression and a convergent geometric progression each
+                   1
+    have ﬁrst term
+                   2
+                                                                1
+    The sum of the second terms of the two progressions is
+                                                                2
+                                                            1
+    The sum of the third terms of the two progressions is
+                                                            8
+    What is the sum to inﬁnity of the geometric progression?
+
+    A −2
+
+    B −1
+          1
+    C −
+          2
+          1
+    D −
+          3
+          1
+    E
+          3
+          1
+    F
+          2
+    G     1
+
+    H     2
+
+
+
+
+                                           
+4   Find the minimum value of the function
+
+
+                                     22x − 2x+3 + 4
+
+    A −16
+
+    B −12
+
+    C −8
+
+    D    0
+
+    E    4
+
+    F    20
+
+
+
+
+                                             
+5   The function f is such that
+
+                                  
+                                      f(m)f(n) if mn is a multiple of 3
+                      f(mn) =
+                                      mn       if mn is not a multiple of 3
+
+    for all positive integers m and n.
+
+    Given that f(9) + f(16) − f(24) = 0, what is the value of f(3)?
+
+      8
+    A
+      3
+       √
+    B 2 2
+
+    C 3
+      16
+    D
+       5
+       √
+    E 3 2
+
+    F 4
+
+
+
+
+                                                 
+6   The function f is given by
+
+                                               cos x + 3
+                                 f(x) =
+                                          7 + 5 cos x − sin2 x
+
+    Find the positive diﬀerence between the maximum and the minimum values of f(x).
+
+    A 0
+        1
+    B
+        3
+        1
+    C
+        2
+        2
+    D
+        3
+    E 1
+
+    F 2
+
+
+
+
+                                             
+7   The function f is such that f(0) = 0, and xf(x) > 0 for all non-zero values of x.
+
+    It is given that
+
+                                         2
+                                              f(x) dx = 4
+                                         −2
+
+
+    and
+
+                                        2
+                                              |f(x)| dx = 8
+                                        −2
+
+
+    Evaluate
+
+                                          0
+                                                  f(|x|) dx
+                                             −2
+
+
+    A −8
+
+    B −6
+
+    C −4
+
+    D −2
+
+    E     2
+
+    F     4
+
+    G     6
+
+    H     8
+
+
+
+
+                                                  
+8   The line y = 2x + 3 meets the curve y = x2 + bx + c at exactly one point.
+
+    The line y = 4x − 2 also meets the curve y = x2 + bx + c at exactly one point.
+
+    What is the value of b − c ?
+
+    A −9
+
+    B −5.5
+
+    C −1
+
+    D    5
+
+    E    6
+
+    F    14
+
+
+
+
+                                           
+9   Find the area enclosed by the graph of
+
+                                       |x| + |y| = 1
+
+        1
+    A
+        2
+    B 1
+
+    C 2
+
+    D 4
+      1√
+    E     2
+      2
+      √
+    F   2
+       √
+    G 2 2
+
+
+
+
+                                             
+10   Use the trapezium rule with 3 strips to estimate
+                                         2
+                                            2 log10 x dx
+                                          1
+                                          2
+
+
+               √
+                  6
+     A log10
+                 2
+
+               3
+     B log10
+               2
+
+               9
+     C log10
+               4
+
+     D log10 3
+
+               81
+     E log10
+               16
+
+               √
+                   23
+     F log10
+                   2
+
+
+
+
+                                              
+11   The function f is given by
+
+                                              1
+                                     f(x) = x 7 (x2 − x + 1)
+
+
+     Find the fraction of the interval 0 < x < 1 for which f(x) is decreasing.
+
+          2
+     A
+         15
+
+         1
+     B
+         5
+
+         1
+     C
+         3
+
+         1
+     D
+         2
+
+         2
+     E
+         3
+
+         4
+     F
+         5
+
+         13
+     G
+         15
+
+
+
+
+                                             
+12   The minimum value of the function x4 − p2 x2 is −9
+
+     p is a real number.
+
+     Find the minimum value of the function x2 − px + 6
+
+     A −3
+           √
+          3 2
+     B 6−
+           2
+         3
+     C
+         2
+     D 3
+         9
+     E
+         2
+           √
+          3 2
+     F 6+
+           2
+
+
+
+
+                                          
+13   The function f is such that, for every integer n
+
+                                      n+1
+                                             f(x) dx = n + 1
+                                       n
+
+
+     Evaluate
+
+                                       8  r
+                                                            
+                                                   f(x) dx
+                                       r=1     0
+
+
+
+     A 36
+
+     B 84
+
+     C 120
+
+     D 165
+
+     E 204
+
+     F 288
+
+
+
+
+                                              
+14   This question uses radians.
+
+     Find the number of distinct values of x that satisfy the equation
+
+
+                               (x + 1)(3 − x) = 2(1 − cos(πx))
+
+     A 2
+
+     B 3
+
+     C 4
+
+     D 5
+
+     E 6
+
+     F 7
+
+
+
+
+                                            
+15   The diagram shows the graph of y = f(x).
+
+      y
+
+
+     1
+
+
+
+     0                                                                x
+          0          1       2          3                 4
+
+     The graph consists of alternating straight-line segments of gradient 1 and −1 and
+     continues in this way for all values of x.
+
+     The function g is deﬁned as
+
+
+                                                 
+                                                 10
+                                                                  
+                                     g(x) =            f 2r−1 x
+                                                 r=1
+
+
+     Find the value of
+
+                                             1
+                                                  g(x) dx
+                                             0
+
+
+              1023
+     A
+              1024
+              1023
+     B
+               512
+     C 5
+
+     D 10
+              55
+     E
+               2
+     F 55
+
+
+
+
+                                                 
+16   Consider the expansion of
+                                         (a + bx)n
+
+     The third term, in ascending powers of x, is 105x2
+
+     The fourth term, in ascending powers of x, is 210x3
+
+     The fourth term, in descending powers of x, is 210x3
+                         a 2
+     Find the value of
+                         b
+
+         1
+     A
+         4
+
+         4
+     B
+         9
+
+         25
+     C
+         36
+
+         5
+     D
+         6
+
+     E 1
+
+
+
+
+                                           
+17   Which of the following sketches shows the graph of
+
+                                                         1
+                                      sin(x2 + y 2 ) =
+                                                         2
+
+     where x2 + y 2 ≤ 8π ?
+
+                      y                                          y
+     A                                                       B
+
+
+
+
+                                        x                            x
+
+
+
+
+                      y                                          y
+     C                                                       D
+
+
+
+
+                                       x                             x
+
+
+
+
+                      y
+     E
+
+
+
+
+                                       x
+
+
+
+
+                                            
+18   The curve with equation
+                                       x = y 2 − 6y + 11
+
+     is rotated 90o clockwise about the point P to give the curve C.
+
+     P has x-coordinate −2 and y-coordinate 3.
+
+     What is the equation of C ?
+
+     A y = −x2 − 4x − 3
+
+     B y = −x2 − 4x − 5
+
+     C y = −x2 − 6x − 7
+
+     D y = −x2 − 6x − 11
+
+     E y=     x2 − 4x + 5
+
+     F y=     x2 + 4x + 3
+
+     G y=     x2 − 6x + 11
+
+     H y=     x2 + 6x + 7
+
+
+
+
+                                            
+19   The equation
+
+                                                       3
+                                     sin2 4cos θ × 60o =
+                                                         4
+
+     has exactly three solutions in the range 0o ≤ θ ≤ xo
+
+     What is the range of all possible values of x ?
+
+     A 90 ≤ x < 120
+
+     B 90 ≤ x < 270
+
+     C 120 ≤ x < 240
+
+     D 270 ≤ x < 300
+
+     E 300 ≤ x < 360
+
+     F 450 ≤ x < 630
+
+
+
+
+                                              
+20   Find the length of the curve with equation
+
+
+                        2 log10 (x − y) = log10 (2 − 2x) + log10 (y + 5)
+
+     A 5
+
+     B 10
+
+     C 15
+
+     D 3π
+
+     E 9π
+
+     F 12π
+
+
+
+
+                                            
+BLANK PAGE
+
+
+
+
+    
+BLANK PAGE
+
+
+
+
+    

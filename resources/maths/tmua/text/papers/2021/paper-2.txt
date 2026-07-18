@@ -1,0 +1,661 @@
+                      7(672)0$7+(0$7,&6                                                          '
+                      )2581,9(56,7<$'0,66,21
+
+                     3$3(5
+
+                      1RYHPEHU                                                            PLQXWHV
+
+
+
+
+
+
+
+
+
+ 
+                      $GGLWLRQDOPDWHULDOV$QVZHUVKHHW
+  
+  
+    
+     
+      
+
+
+
+
+                      ,16758&7,21672&$1','$7(6
+       
+        
+         
+
+
+
+
+                      3OHDVHUHDGWKHVHLQVWUXFWLRQVFDUHIXOO\EXWGRQRWRSHQWKHTXHVWLRQSDSHUXQWLO
+          
+
+
+
+
+                      \RXDUHWROGWKDW\RXPD\GRVR
+
+                      $VHSDUDWHDQVZHUVKHHWLVSURYLGHGIRUWKLVSDSHU3OHDVHFKHFN\RXKDYHRQH
+                      <RXDOVRUHTXLUHDVRIWSHQFLODQGDQHUDVHU
+
+                      3OHDVHFRPSOHWHWKHDQVZHUVKHHWZLWK\RXUFDQGLGDWHQXPEHUFHQWUHQXPEHU
+                      GDWHRIELUWKDQGIXOOQDPH
+
+                      7KLVSDSHULVWKHVHFRQGRIWZRSDSHUV
+
+                      7KHUHDUHTXHVWLRQVRQWKLVSDSHU)RUHDFKTXHVWLRQFKRRVHWKHRQHDQVZHU\RX
+                      FRQVLGHUFRUUHFWDQGUHFRUG\RXUFKRLFHRQWKHVHSDUDWHDQVZHUVKHHW,I\RXPDNHD
+                      PLVWDNHHUDVHWKRURXJKO\DQGWU\DJDLQ
+
+                      7KHUHDUHQRSHQDOWLHVIRULQFRUUHFWUHVSRQVHVRQO\PDUNVIRUFRUUHFWDQVZHUVVR\RX
+                      VKRXOGDWWHPSWDOOTXHVWLRQV(DFKTXHVWLRQLVZRUWKRQHPDUN
+
+                      <RXFDQXVHWKHTXHVWLRQSDSHUIRUURXJKZRUNLQJRUQRWHVEXWQRH[WUDSDSHULV
+                      DOORZHG
+
+                      <RXPXVWFRPSOHWHWKHDQVZHUVKHHWZLWKLQWKHWLPHOLPLW
+
+                      &DOFXODWRUVDQGGLFWLRQDULHVDUH127SHUPLWWHG
+
+                      7KHUHLVQRIRUPXODHERRNOHWIRUWKLVWHVW
+
+
+
+                      3OHDVHZDLWWREHWROG\RXPD\EHJLQEHIRUHWXUQLQJWKLVSDJH
+
+
+
+                                                                                                             39
+
+
+                      &RS\ULJKW8&/(6
+BLANK PAGE
+
+
+
+
+    2
+1   Find the value of    4
+                              √    4
+                             3 x + 2 dx
+                         1        x
+
+    A −0.75
+
+    B 7.125
+
+    C 11
+
+    D 17
+
+    E 18
+
+    F 21.875
+
+    G 34.5
+
+
+
+
+                               3
+2   A(0, 2) and C(4, 0) are opposite vertices of the square ABCD.
+
+    What is the equation of the straight line through B and D ?
+
+    A y = −2x + 5
+
+    B y = − 12 x − 3
+
+    C y = − 12 x + 2
+
+    D y=x
+
+    E y = 2x − 3
+
+    F y = 2x + 2
+
+
+
+
+                                           4
+3   A student is chosen at random from a class. Each student is equally likely to be
+    chosen.
+
+    Which of the following conditions is/are necessary for the probability that the
+                                   4
+    student wears glasses to equal    ?
+                                   15
+
+        I    Exactly 11 students in the class do not wear glasses.
+        II   The number of students in the class is divisible by 3.
+        III The class contains 30 students, and 8 of them wear glasses.
+
+    A none of them
+
+    B I only
+
+    C II only
+
+    D III only
+
+    E I and II only
+
+    F I and III only
+
+    G II and III only
+
+    H I, II and III
+
+
+
+
+                                            5
+4   Consider the following claim about positive integers a, b and c :
+
+
+                if a is a factor of bc, then a is a factor of b or a is a factor of c
+
+
+    Which of the following provide(s) a counterexample to this claim?
+
+        I    a = 5, b = 10, c = 20
+        II   a = 8, b = 4, c = 4
+        III a = 6, b = 7, c = 12
+
+    A none of them
+
+    B I only
+
+    C II only
+
+    D III only
+
+    E I and II only
+
+    F I and III only
+
+    G II and III only
+
+    H I, II and III
+
+
+
+
+                                               6
+5   On which line is the ﬁrst error in the following argument?
+
+    A sin2 x + cos2 x = 1 for all values of x.
+                         
+    B Therefore cos x = 1 − sin2 x for all values of x.
+                              
+    C Hence 1 + cos x = 1 + 1 − sin2 x for all values of x.
+                                             2
+    D Thus (1 + cos x)2 = 1 + 1 − sin2 x for all values of x.
+
+    E Substituting x = π gives 0 = 4.
+
+
+
+
+                                            7
+6   Consider the following two statements about the polynomial f(x):
+
+        P : f(x) = 0 for exactly three real values of x
+        Q: f  (x) = 0 for exactly two real values of x
+
+    Which one of the following is correct?
+
+    A P is necessary but not suﬃcient for Q.
+
+    B P is suﬃcient but not necessary for Q.
+
+    C P is necessary and suﬃcient for Q.
+
+    D P is not necessary and not suﬃcient for Q.
+
+
+
+
+                                             8
+7   A circle has equation (x − 9)2 + (y + 2)2 = 4
+
+    A square has vertices at (1, 0), (1, 2), (−1, 2) and (−1, 0).
+
+    A straight line bisects both the area of the circle and the area of the square.
+
+    What is the x-coordinate of the point where this straight line meets the x-axis?
+
+    A 2
+
+    B 3
+
+    C 4
+
+    D 4.5
+
+    E 5
+
+    F 6
+
+    G The straight line is not uniquely determined by the information given, so there is
+      more than one possible point of intersection.
+
+    H There is no straight line that bisects both the area of the circle and the area of
+      the square.
+
+
+
+
+                                              9
+8   Consider the following statement about the polynomial p(x), where a and b are real
+    numbers with a < b :
+
+      (∗) There exists a number c with a < c < b such that p (c) = 0.
+
+    Which one of the following is true?
+
+    A The condition p(a) = p(b) is necessary and suﬃcient for (∗)
+
+    B The condition p(a) = p(b) is necessary but not suﬃcient for (∗)
+
+    C The condition p(a) = p(b) is suﬃcient but not necessary for (∗)
+
+    D The condition p(a) = p(b) is not necessary and not suﬃcient for (∗)
+
+
+
+
+                                          10
+9   Consider the following statements about a polynomial f(x):
+
+         I    f(x) = px3 + qx2 + rx + s, where p = 0.
+         II   There is a real number t for which f  (t) = 0.
+         III There are real numbers u and v for which f(u) f(v) < 0.
+
+    Which of these statements is/are suﬃcient for the equation f(x) = 0 to have a real
+    solution?
+
+              Statement I is           Statement II is          Statement III is
+                suﬃcient                  suﬃcient                 suﬃcient
+     A             Yes                      Yes                       Yes
+     B             Yes                      Yes                       No
+     C             Yes                       No                       Yes
+     D             Yes                       No                       No
+     E             No                       Yes                       Yes
+     F             No                       Yes                       No
+     G             No                        No                       Yes
+     H             No                        No                       No
+
+
+
+
+                                              11
+10   The ﬁrst seven terms of a sequence of positive integers are:
+
+                                            u1 = 15
+                                            u2 = 21
+                                            u3 = 30
+                                            u4 = 37
+                                            u5 = 44
+                                            u6 = 51
+                                            u7 = 59
+
+
+     Consider the following statement about this sequence:
+
+       (∗) If n is a prime number, then un is a multiple of 3 or un is a multiple
+           of 5.
+
+     What is the smallest value of n that provides a counterexample to (∗)?
+
+     A 1
+
+     B 2
+
+     C 3
+
+     D 4
+
+     E 5
+
+     F 6
+
+     G 7
+
+
+
+
+                                             12
+11   A student attempts to solve the following problem, where a and b are non-zero real
+     numbers:
+
+       Show that if a2 − 4b3 ≥ 0 then there exist real numbers x and y such that
+       a = xy(x + y) and b = xy.
+
+     Consider the following attempt:
+
+         (x − y)2 ≥ 0                                                          (I)
+
+
+         so x2 + y 2 − 2xy ≥ 0                                                 (II)
+
+
+         so (x + y)2 − 4xy ≥ 0                                                 (III)
+
+
+         so x2 y 2 (x + y)2 − 4x3 y 3 ≥ 0                                      (IV)
+
+
+         so a2 − 4b3 ≥ 0                                                       (V)
+
+     Which of the following best describes this attempt?
+
+     A It is completely correct.
+
+     B It is incorrect, but it would be correct if written in the reverse order.
+
+     C It is incorrect, but the student has correctly proved the converse.
+
+     D It is incorrect because there is an error in line (II).
+
+     E It is incorrect because there is an error in line (III).
+
+     F It is incorrect because there is an error in line (IV).
+
+
+
+
+                                              13
+12   Which of the following statements about polynomials f and g is/are true?
+                                                   x               x
+         I    If f(x) ≥ g(x) for all x ≥ 0, then    0
+                                                        f(t) dt ≥   0
+                                                                         g(t) dt for all x ≥ 0.
+
+         II   If f(x) ≥ g(x) for all x ≥ 0, then f  (x) ≥ g (x) for all x ≥ 0.
+
+         III If f  (x) ≥ g (x) for all x ≥ 0, then f(x) ≥ g(x) for all x ≥ 0.
+
+     A none of them
+
+     B I only
+
+     C II only
+
+     D III only
+
+     E I and II only
+
+     F I and III only
+
+     G II and III only
+
+     H I, II and III
+
+
+
+
+                                              14
+13   A region R in the (x, y)-plane is deﬁned by the simultaneous inequalities
+
+                                           y−x<3
+
+                                          y − x2 < 1
+
+
+     Which of the following statements is/are true for every point in R ?
+
+         I    −1 < x < 2
+         II   (y − x)(y − x2 ) < 3
+         III y < 5
+
+     A none of them
+
+     B I only
+
+     C II only
+
+     D III only
+
+     E I and II only
+
+     F I and III only
+
+     G II and III only
+
+     H I, II and III
+
+
+
+
+                                            15
+14   Consider the following simultaneous equations, where p is a real number:
+
+                                       p2x + log2 y = 2
+
+                                        2x + log2 y = 1
+
+
+     What is the complete range of p for which these simultaneous equations have a real
+     solution (x, y)?
+
+     A p<1
+
+     B p = 1
+
+     C p>1
+
+     D p < 1 or p > 2
+
+     E p = 1 and p < 2
+
+     F p > 1 and p < 2
+
+     G p>2
+
+     H All real values of p
+
+
+
+
+                                            16
+15   A circle has equation
+                                   x2 + ax + y 2 + by + c = 0
+     where a, b and c are non-zero real constants.
+
+     Which one of the following is a necessary and suﬃcient condition for the circle to
+     be tangent to the y-axis?
+
+     A a2 = 4c
+
+     B b2 = 4c
+            …
+       a       a2 + b 2
+     C    =             −c
+       2          4
+            …
+       b       a2 + b 2
+     D    =             −c
+       2          4
+             …
+         a       a2 + b 2
+     E − =                −c
+         2          4
+             …
+         b       a2 + b 2
+     F − =                −c
+         2          4
+
+
+
+
+                                             17
+16   p and q are real numbers, and the equation
+
+                                          x |x| = px + q
+
+     has exactly k distinct real solutions for x.
+
+     Which one of the following is the complete list of possible values for k ?
+
+     A 0, 1, 2
+
+     B 0, 1, 2, 3
+
+     C 0, 1, 2, 3, 4
+
+     D 0, 2, 4
+
+     E 1, 2, 3
+
+     F 1, 2, 3, 4
+
+
+
+
+                                              18
+17   Consider the following functions deﬁned for x > 1 :
+                                                    √ 
+                                     f(x) = log2 log2 x
+
+                                                                
+                                      g(x) = log2        log2 x
+
+
+     Which one of the following is true for all values of x > 1 ?
+
+     A 0 ≤ f(x) ≤ g(x) or g(x) ≤ f(x) ≤ 0
+
+     B 0 ≤ g(x) ≤ f(x) or f(x) ≤ g(x) ≤ 0
+         1
+     C   2
+           ≤ f(x) ≤ g(x)   or g(x) ≤ f(x) ≤ 12
+         1
+     D   2
+           ≤ g(x) ≤ f(x)   or f(x) ≤ g(x) ≤ 12
+
+     E 1 ≤ f(x) ≤ g(x) or g(x) ≤ f(x) ≤ 1
+
+     F 1 ≤ g(x) ≤ f(x) or f(x) ≤ g(x) ≤ 1
+
+
+
+
+                                             19
+18   A student chooses two distinct real numbers x and y with 0 < x < y < 1.
+
+     The student then attempts to draw a triangle ABC with:
+
+                                            AB = 1
+                                          sin A = x
+                                          sin B = y
+
+
+     Which of the following statements is/are correct?
+
+         I    For some choice of x and y, there is exactly one triangle the student
+              could draw.
+         II   For some choice of x and y, there are exactly two diﬀerent triangles
+              the student could draw.
+         III For some choice of x and y, there are exactly three diﬀerent
+             triangles the student could draw.
+
+     (Note that congruent triangles are considered to be the same.)
+
+     A none of them
+
+     B I only
+
+     C II only
+
+     D III only
+
+     E I and II only
+
+     F I and III only
+
+     G II and III only
+
+     H I, II and III
+
+
+
+
+                                            20
+19   The angle θ can take any of the values 1◦ , 2◦ , 3◦ , . . . , 359◦ , 360◦ .
+
+     For how many of these values of θ is it true that
+                     √          √                   √      √
+                sin θ 1 + sin θ 1 − sin θ + cos θ 1 + cos θ 1 − cos θ = 0
+
+     A 0
+
+     B 1
+
+     C 2
+
+     D 4
+
+     E 93
+
+     F 182
+
+     G 271
+
+     H 360
+
+
+
+
+                                                  21
+20   A sequence of functions f1 , f2 , f3 , . . . is deﬁned by
+
+                                      f1 (x) = |x|
+
+                                   fn+1 (x) = |fn (x) + x| for n ≥ 1
+
+
+     Find the value of
+
+                                               1
+                                                     f99 (x) dx
+                                                −1
+
+
+     A 0
+
+     B 0.5
+
+     C 1
+
+     D 49.5
+
+     E 50
+
+     F 99
+
+     G 99.5
+
+     H 100
+
+
+
+
+                                                     22
+BLANK PAGE
+
+
+
+
+    23
+BLANK PAGE
+
+
+
+
+    24

@@ -1,0 +1,615 @@
+                      TMUA/CTMUA                                                                     D513/01
+
+                      PAPER 1
+
+                      November 2020                                                              75 minutes
+                      Additional materials: Answer sheet
+
+
+
+
+
+  
+  
+    
+
+
+
+
+                      INSTRUCTIONS TO CANDIDATES
+     
+     
+     
+       
+
+
+
+
+                      Please read these instructions carefully, but do not open the question paper until
+                      you are told that you may do so.
+          
+           
+           
+
+
+
+
+                      A separate answer sheet is provided for this paper. Please check you have one.
+                      You also require a soft pencil and an eraser.
+
+                      Please complete the answer sheet with your candidate number, centre number,
+                      date of birth, and full name.
+
+                      This paper is the first of two papers.
+
+                      There are 20 questions on this paper. For each question, choose the one answer you
+                      consider correct and record your choice on the separate answer sheet. If you make a
+                      mistake, erase thoroughly and try again.
+
+                      There are no penalties for incorrect responses, only marks for correct answers, so you
+                      should attempt all 20 questions. Each question is worth one mark.
+
+                      You can use the question paper for rough working or notes, but no extra paper is
+                      allowed.
+
+                      You must complete the answer sheet within the time limit.
+
+                      Calculators and dictionaries are NOT permitted.
+
+                      There is no formulae booklet for this test.
+
+
+
+                      Please wait to be told you may begin before turning this page.
+
+                                   This question paper consists of 21 printed pages and 3 blank pages.
+
+                                                                                                               PV2
+
+
+
+
+                 Copyright © UCLES 2020
+BLANK PAGE
+
+
+
+
+    2
+1   Which of the following is an expression for the ﬁrst derivative with respect to x of
+
+
+                                           x3 − 5x2
+                                               √
+                                            2x x
+
+        √
+          x
+    A −
+         2
+        √
+          x
+    B
+         4
+          3x − 5
+    C       √
+           4 x
+           √
+          3 x−5
+    D         √
+            4 x
+           √
+          3 x − 10
+    E         √
+             3 x
+
+          3x2 − 10x
+    F         √
+            3 x
+
+
+
+
+                                             3
+2   (2x + 1) and (x − 2) are factors of 2x3 + px2 + q
+
+    What is the value of 2p + q ?
+
+    A −10
+
+    B − 38
+        5
+
+    C − 22
+        3
+
+    D     22
+          3
+
+    E     38
+          5
+
+    F    10
+
+
+
+
+                                            4
+3   Find the complete set of values of x for which
+
+
+                     (x + 4)(x + 3)(1 − x) > 0 and (x + 2)(x − 2) < 0
+
+    A    1<x<2
+
+    B −2 < x < 1
+
+    C −2 < x < 2
+
+    D    x < −2 or x > 1
+
+    E    x < −4 or x > 2
+
+    F    x < −4 or − 3 < x < 1
+
+    G −4 < x < −2 or x > 1
+
+
+
+
+                                            5
+4   The 1st , 2nd and 3rd terms of a geometric progression are also the 1st , 4th and 6th
+    terms, respectively, of an arithmetic progression.
+
+    The sum to inﬁnity of the geometric progression is 12.
+
+    Find the 1st term of the geometric progression.
+
+    A 1
+
+    B 2
+
+    C 3
+
+    D 4
+
+    E 5
+
+    F 6
+
+
+
+
+                                              6
+5   The curve S has equation
+
+
+                                      y = px2 + 6x − q
+
+    where p and q are constants.
+
+    S has a line of symmetry at x = − 14 and touches the x-axis at exactly one point.
+
+    What is the value of p + 8q ?
+
+    A 6
+
+    B 18
+
+    C 21
+
+    D 25
+
+    E 38
+
+
+
+
+                                            7
+6   Find the maximum value of the function
+
+                                                 1
+                                 f(x) =
+                                          52x − 4(5x ) + 7
+
+    A   1
+        7
+
+    B   1
+        4
+
+    C   1
+        3
+
+    D 3
+
+    E 4
+
+    F 7
+
+
+
+
+                                           8
+7   Given that
+
+
+                                     23x = 8(y+3)
+
+    and
+
+
+                                              16(y+1)
+                                   4(x+1) =
+                                               8(y+3)
+
+    what is the value of x + y ?
+
+    A −23
+
+    B −22
+
+    C −15
+
+    D −14
+
+    E −11
+
+    F −10
+
+
+
+
+                                        9
+8   The function f is deﬁned for all real x as
+
+
+                                     f(x) = (p − x)(x + 2)
+
+    Find the complete set of values of p for which the maximum value of f(x) is
+    less than 4.
+
+            √              √
+    A −2 − 4 2 < p < −2 + 4 2
+            √              √
+    B −2 − 2 2 < p < −2 + 2 2
+        √         √
+    C −2 5 < p < 2 5
+
+    D −6 < p < 2
+
+    E −4 < p < 0
+
+    F −2 < p < 2
+
+
+
+
+                                            10
+9   The quadratic expression x2 − 14x + 9 factorises as (x − α)(x − β), where α and β
+    are positive real numbers.
+                                                          √        √
+    Which quadratic expression can be factorised as (x − α )(x − β ) ?
+
+             √
+    A x2 −       10x + 3
+             √
+    B x2 −       14x + 3
+             √
+    C x2 −       20x + 3
+
+    D x2 − 178x + 81
+
+    E x2 − 176x + 81
+
+    F x2 + 196x + 81
+
+
+
+
+                                          11
+10   The following sequence of transformations is applied to the curve y = 4x2
+                              
+                                3
+           1. Translation by
+                               −5
+
+           2. Reﬂection in the x-axis
+
+           3. Stretch parallel to the x-axis with scale factor 2
+
+     What is the equation of the resulting curve?
+
+     A y = −x2 + 12x − 31
+
+     B y = −x2 + 12x − 41
+
+     C y=     x2 + 12x + 31
+
+     D y=     x2 + 12x + 41
+
+     E y = −16x2 + 48x − 31
+
+     F y = −16x2 + 48x − 41
+
+     G y=     16x2 − 48x + 31
+
+     H y=     16x2 − 48x + 41
+
+
+
+
+                                             12
+11   The quadratic function shown passes through (2, 0) and (q, 0), where q > 2.
+
+              y
+
+
+
+
+                  R
+                                                  x
+                      2                  q
+                             S
+
+
+
+
+     What is the value of q such that the area of region R equals the area of region S ?
+
+         √
+     A        6
+
+     B 3
+
+     C   18
+          5
+
+     D 4
+
+     E 6
+
+     F   33
+          5
+
+
+
+
+                                             13
+12   How many real solutions are there to the equation
+
+                                                    √
+                                        3 cos x =       x
+
+     where x is in radians?
+
+     A 0
+
+     B 1
+
+     C 2
+
+     D 3
+
+     E 4
+
+     F 5
+
+     G inﬁnitely many
+
+
+
+
+                                           14
+13   Find the coeﬃcient of x2 y 4 in the expansion of (1 + x + y 2 )7
+
+     A 6
+
+     B 10
+
+     C 21
+
+     D 35
+
+     E 105
+
+     F 210
+
+
+
+
+                                               15
+14   The area enclosed between the line y = mx and the curve y = x3 is 6.
+
+     What is the value of m ?
+
+     A 2
+
+     B 4
+       √
+     C   3
+       √
+     D   6
+         √
+     E 2 3
+         √
+     F 2 6
+
+
+
+
+                                           16
+15   Find the positive diﬀerence between the two real values of x for which
+
+                                                2
+                                    4            1
+                             (log2 x) + 12 log2       − 26 = 0
+                                                 x
+
+     A 4
+
+     B 16
+
+     C   15
+          4
+
+     D   17
+          4
+
+     E   255
+          16
+
+     F   257
+          16
+
+
+
+
+                                            17
+16   The circle C1 has equation (x + 2)2 + (y − 1)2 = 3
+
+     The circle C2 has equation (x − 4)2 + (y − 1)2 = 3
+
+     The straight line l is a tangent to both C1 and C2 and has positive gradient.
+
+     The acute angle between l and the x-axis is θ
+
+     Find the value of tan θ
+
+     A   1
+         2
+
+     B 2
+         √
+     C   2
+          2
+
+         √
+     D       2
+         √
+     E   2
+          6
+
+         √
+     F   3
+          6
+
+         √
+     G   3
+          3
+
+         √
+     H       3
+
+
+
+
+                                            18
+17   Find the complete set√of values of m in terms of c such that the graphs of
+     y = mx + c and y = x have two points of intersection.
+
+     A 0 < m < 4c
+               1
+
+
+     B 0 < m < 4c2
+
+     C m > 4c
+           1
+
+
+     D m < 4c
+           1
+
+
+     E m > 4c2
+
+     F m < 4c2
+
+
+
+
+                                            19
+18   Find the number of solutions and the sum of the solutions of the equation
+
+
+                                    1 − 2 cos2 x = | cos x |
+
+     where 0 ≤ x ≤ 180◦
+
+     A Number of solutions = 2      Sum of solutions = 180◦
+
+     B Number of solutions = 2      Sum of solutions = 240◦
+
+     C Number of solutions = 3      Sum of solutions = 180◦
+
+     D Number of solutions = 3      Sum of solutions = 360◦
+
+     E Number of solutions = 4      Sum of solutions = 240◦
+
+     F Number of solutions = 4      Sum of solutions = 360◦
+
+
+
+
+                                            20
+19   Find the lowest positive integer for which x2 − 52x − 52 is positive.
+
+     A 26
+
+     B 27
+
+     C 51
+
+     D 52
+
+     E 53
+
+     F 54
+
+
+
+
+                                             21
+20   For how many values of a is the equation
+
+                                    (x − a)(x2 − x + a) = 0
+
+     satisﬁed by exactly two distinct values of x ?
+
+     A 0
+
+     B 1
+
+     C 2
+
+     D 3
+
+     E 4
+
+     F more than 4
+
+
+
+
+                                             22
+BLANK PAGE
+
+
+
+
+    23
+                                           BLANK PAGE
+
+
+
+
+This document was initially designed for print and as such does not reach accessibility standard WCAG 2.1
+in a number of ways including missing text alternatives and missing document structure.
+
+If you need this document in a different format please email
+admissionstesting@cambridgeassessment.org.uk telling us your name, email address and requirements and
+we will respond within 15 working days.
+
+
+                                                    24

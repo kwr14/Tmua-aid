@@ -1,0 +1,690 @@
+                TEST OF MATHEMATICS                                          D513/12
+                FOR UNIVERSITY ADMISSION
+
+                PAPER 2
+
+                Wednesday 8 November 2017                                    Time: 75 minutes
+
+   
+
+
+
+
+                Additional Materials: Answer sheet
+    
+      
+
+
+
+
+                INSTRUCTIONS TO CANDIDATES
+
+                Please read these instructions carefully, but do not open the question paper until you
+                are told that you may do so.
+
+                A separate answer sheet is provided for this paper. Please check you have one.
+                You also require a soft pencil and an eraser.
+
+                This paper is the second of two papers.
+
+                There are 20 questions on this paper. For each question, choose the one answer you
+                consider correct and record your choice on the separate answer sheet. If you make a
+                mistake, erase thoroughly and try again.
+
+                There are no penalties for incorrect responses, only marks for correct answers, so you
+                should attempt all 20 questions. Each question is worth one mark.
+
+                Any rough work should be done on this question paper. No extra paper is allowed.
+
+
+                Please complete the answer sheet with your candidate number, centre number,
+                date of birth, and full name.
+
+
+                Calculators and dictionaries must NOT be used.
+                There is no formulae booklet for this test.
+
+
+                Please wait to be told you may begin before turning this page.
+
+
+                               This question paper consists of 21 printed pages and 3 blank pages.
+
+                PV2
+
+
+
+
+                8&/(6
+               BLANK PAGE
+
+
+
+
+8&/(6       
+                              (1 − 3x)2                                                                 dy
+ 1      Given that y =                   3   , which one of the following is a correct expression for      ?
+                                    2x   2                                                              dx
+
+                 9 − 12      3         5
+        A        4
+                   x + 32 x− 2 − 34 x− 2
+                 9 − 12      3         5
+        B        4
+                   x − 32 x− 2 + 34 x− 2
+                 9 − 12      3         5
+        C        4
+                   x − 32 x− 2 − 34 x− 2
+                      1         3            5
+        D − 94 x− 2 + 32 x− 2 + 34 x− 2
+                      1         3            5
+        E      − 94 x− 2 + 32 x− 2 − 34 x− 2
+                      1         3            5
+        F      − 94 x− 2 − 32 x− 2 − 34 x− 2
+
+
+
+
+8&/(6                                                                                      >7XUQRYHU
+ 2      P QRS is a rectangle.
+
+        The coordinates of P and Q are (0, 6) and (1, 8) respectively.
+
+        The perpendicular to P Q at Q meets the x-axis at R.
+
+        What is the area of P QRS?
+
+               5
+        A      2
+           √
+        B 4 10
+
+        C 20
+           √
+        D 8 10
+
+        E      40
+
+
+
+
+8&/(6                                    
+                                                     √
+ 3      The ﬁrst term of a geometric progression is 2 3 and the fourth term is 94
+
+        What is the sum to inﬁnity of this geometric progression?
+
+                       √
+        A −2(2 −        3)
+
+             √
+        B 4(2 3 − 3)
+              √
+          16(8 3 + 9)
+        C
+              37
+             √
+          4(2 3 − 3)
+        D
+              7
+             √
+          4(2 3 + 3)
+        E
+              7
+                       √
+        F      2(2 +       3)
+
+             √
+        G 4(2 3 + 3)
+
+
+
+
+8&/(6                                                                       >7XUQRYHU
+ 4      The following question appeared in an examination:
+
+                                    √
+               Given that tan x =       3, ﬁnd the possible values of sin 2x.
+
+        A student gave the following answer:
+
+                       √
+               tan x =   3 so x = 60◦ and 2x = 120◦ ,
+                                  √
+                                    3
+               therefore sin 2x =     .
+                                   2
+
+        Which one of the following statements is correct?
+
+               √
+                3
+        A         is the only possible value, and this is fully supported by the reasoning given
+               2
+               in the student’s answer.
+          √
+            3
+        B     is the only possible value, but the reasoning given should consider other
+           2
+                                                 √
+          possible values of x for which tan x = 3.
+               √
+            3
+        C     is the only possible value, but the reasoning given should consider other
+           2                                      √
+                                                    3
+          possible values of x for which sin 2x =     .
+                                                   2
+          √
+            3
+        D     is not the only possible value because the reasoning given should have
+           2
+                                                                  √
+          considered other possible values of x for which tan x = 3.
+               √
+                 3
+        E          is not the only possible value because the reasoning given should have
+                2                                                       √
+                                                                         3
+               considered other possible values of x for which sin 2x =    .
+                                                                        2
+
+
+
+
+8&/(6                                          
+ 5      Consider the following three statements:
+
+               1    10p2 + 1 and 10p2 − 1 are both prime when p is an odd prime.
+
+               2    Every prime greater than 5 is of the form 6n + 1 for some integer n.
+
+               3    No multiple of 7 greater than 7 is prime.
+
+        The result 91 = 7 × 13 can be used to provide a counterexample to which of the
+        above statements?
+
+        A none of them
+
+        B 1 only
+
+        C 2 only
+
+        D 3 only
+
+        E      1 and 2 only
+
+        F      1 and 3 only
+
+        G 2 and 3 only
+
+        H 1, 2 and 3
+
+
+
+
+8&/(6                                                                          >7XUQRYHU
+ 6      A sequence u0 , u1 , u2 , . . . is deﬁned as follows:
+
+
+
+                                       u0 = 1
+                                             1
+                                       un =     4xun−1 dx for n ⩾ 1
+                                              0
+
+
+
+        What is the value of u1000 ?
+
+
+        A 21000
+
+
+        B 41000
+
+                 4
+        C
+               1000!
+                 4
+        D
+               1001!
+               21000
+        E
+               1000!
+               41000
+        F
+               1000!
+               21000
+        G
+               1001!
+               41000
+        H
+               1001!
+
+
+
+
+8&/(6                                         
+ 7      The graphs of two functions are shown here:
+
+               •   y = ax is shown with a solid line, where a is a positive real number
+               •   y = f (x) is shown with a dashed line
+
+
+
+
+        Which of the following statements (1, 2, 3, 4) could be true?
+
+               1    f (x) = bx for some b > a
+               2    f (x) = bx for some b < a
+               3    f (x) = akx for some k > 1
+               4    f (x) = akx for some k < 1
+
+        A 1 only
+
+        B 2 only
+
+        C 3 only
+
+        D 4 only
+
+        E      1 and 3 only
+
+        F      1 and 4 only
+
+        G 2 and 3 only
+
+        H 2 and 4 only
+
+
+
+
+8&/(6                                                                             >7XUQRYHU
+ 8      Which one of the following numbers is smallest in value?
+
+
+        A log2 7
+
+
+        B (2−3 + 2−2 )−1
+
+
+        C 2(π/3)
+
+                        1
+        D          √           3
+               4        2−1
+                        π 
+        E      4 sin2
+                            4
+
+
+
+
+8&/(6                                  
+ 9      Consider the following attempt to prove this true theorem:
+
+               Theorem: a3 + b3 = c3 has no solutions with a, b and c positive integers.
+
+               Attempted proof:
+               Suppose that there are positive integers a, b and c such that a3 + b3 = c3 .
+               I      We have a3 = c3 − b3 .
+
+               II     Hence a3 = (c − b)(c2 + cb + b2 ).
+
+               III    It follows that a = c − b and a2 = c2 + cb + b2 , since a ⩽ a2 and
+                      c − b ⩽ c2 + cb + b2 .
+
+               IV     Eliminating a, we have (c − b)2 = c2 + cb + b2 .
+
+               V      Multiplying out, we have c2 − 2cb + b2 = c2 + cb + b2 .
+
+               VI     Hence 3cb = 0 so one of b and c is zero.
+               But this is a contradiction to the original assumption that all of a, b and c
+               are positive. It follows that the equation has no solutions.
+
+        Comment on this proof by choosing one of the following options:
+
+        A The proof is correct
+
+        B The proof is incorrect and the ﬁrst mistake occurs on line I.
+
+        C The proof is incorrect and the ﬁrst mistake occurs on line II.
+
+        D The proof is incorrect and the ﬁrst mistake occurs on line III.
+
+        E      The proof is incorrect and the ﬁrst mistake occurs on line IV.
+
+        F      The proof is incorrect and the ﬁrst mistake occurs on line V.
+
+        G The proof is incorrect and the ﬁrst mistake occurs on line VI.
+
+
+
+
+8&/(6                                                                             >7XUQRYHU
+ 10     f (x) is a function deﬁned for all real values of x.
+                                                                 3
+        Which one of the following is a suﬃcient condition for   1
+                                                                      f (x) dx = 0?
+
+        A f (2) = 0
+
+        B f (1) = f (3) = 0
+
+        C f (−x) = −f (x) for all x
+
+        D f (x + 2) = −f (2 − x) for all x
+
+        E      f (x − 2) = −f (2 − x) for all x
+
+
+
+
+8&/(6                                      
+ 11     The function f (x) is increasing and f (0) = 0.
+
+        The positive constants a and b are such that a < b.
+
+        The area of the region enclosed by the curve y = f (x), the x-axis and the lines x = a
+        and x = b is denoted by R.
+
+        The function g(x) is deﬁned by g(x) = f (x) + 2f (b).
+
+        Which of the following is an expression for the area enclosed by the curve y = g(x),
+        the x-axis and the lines x = a and x = b?
+
+        A R + (b − a)f (b)
+
+        B R + 2(b − a)f (b)
+
+        C R + 2f (b) − f (a)
+
+        D R + 2f (b)
+
+        E      R + (f (b))2
+
+        F      R + (f (b))2 − (f (a))2
+
+        G R + 2(f (b) − f (a))f (b)
+
+
+
+
+8&/(6                                                                        >7XUQRYHU
+ 12     The diagram shows the graphs of y = sin 2x and y = cos 2x for − π2 < x < π2
+
+
+
+
+        Which one of the following is not true?
+
+        A cos 2x < sin 2x < tan x for some real number x with − π2 < x < π2
+
+        B cos 2x < tan x < sin 2x for some real number x with − π2 < x < π2
+
+        C sin 2x < cos 2x < tan x for some real number x with − π2 < x < π2
+
+        D sin 2x < tan x < cos 2x for some real number x with − π2 < x < π2
+
+        E      tan x < sin 2x < cos 2x for some real number x with − π2 < x < π2
+
+        F      tan x < cos 2x < sin 2x for some real number x with − π2 < x < π2
+
+
+
+
+8&/(6                                      
+ 13     The positive real numbers a × 10−3 , b × 10−2 and c × 10−1 are each in standard form,
+        and
+                               (a × 10−3 ) + (b × 10−2 ) = (c × 10−1 ).
+
+        Which of the following statements (I, II, III, IV) must be true?
+
+               I    a>9
+
+               II   b>9
+
+               III a < c
+
+               IV b < c
+
+        A I only
+
+        B II only
+
+        C I and II only
+
+        D I and III only
+
+        E      I and IV only
+
+        F      II and III only
+
+        G II and IV only
+
+        H I, II, III and IV
+
+
+
+
+8&/(6                                                                       >7XUQRYHU
+ 14     The diagram below shows the graph of y = x2 − 2bx + c. The vertex of this graph is
+        at the point P .
+
+
+
+
+        Which one of the following could be the graph of y = x2 − 2Bx + c, where B > b?
+
+
+
+
+8&/(6                                  
+ 15     The function f is deﬁned on the positive integers as follows:
+
+                   f (1) = 5, and for n ⩾ 1:   f (n + 1) = 3f (n) + 1 if f (n) is odd
+                                               f (n + 1) = 12 f (n)   if f (n) is even
+
+        The function g is deﬁned on the positive integers as follows:
+
+                   g(1) = 3, and for n ⩾ 1:    g(n + 1) = g(n) + 5 if g(n) is odd
+                                               g(n + 1) = 12 g(n)  if g(n) is even
+
+
+        What is the value of f (1000) − g(1000)?
+
+        A −6
+
+        B −5
+
+        C 1
+
+        D 2
+
+        E      4
+
+        F      8
+
+
+
+
+8&/(6                                                                           >7XUQRYHU
+ 16     Consider the following statement:
+
+               (∗) If f (x) is an integer for every integer x, then f  (x) is an integer for
+                   every integer x.
+
+        Which one of the following is a counterexample to (∗)?
+
+                  x3 + x + 1
+        A f (x) =
+                      4
+                      x 4 + x2 + x
+        B f (x) =
+                            2
+                      x 4 + x 3 + x2 + x
+        C f (x) =
+                                2
+                      x4 + 2x3 + x2
+        D f (x) =
+                            4
+
+
+
+
+8&/(6                                        
+ 17     A set S of whole numbers is called stapled if and only if for every whole number a
+        which is in S there exists a prime factor of a which divides at least one other number
+        in S.
+
+        Let T be a set of whole numbers. Which of the following is true if and only if T is
+        not stapled?
+
+        A For every number a which is in T , there is no prime factor of a which
+          divides every other number in T .
+
+        B For every number a which is in T , there is no prime factor of a which
+          divides at least one other number in T .
+
+        C For every number a which is in T , there is a prime factor of a which
+          does not divide any other number in T .
+
+        D For every number a which is in T , there is a prime factor of a which
+          does not divide at least one other number in T .
+
+        E      There exists a number a which is in T such that there is no prime factor of a
+               which divides every other number in T .
+
+        F      There exists a number a which is in T such that there is no prime factor of a
+               which divides at least one other number in T .
+
+        G There exists a number a which is in T such that there is a prime factor of a
+          which does not divide any other number in T .
+
+        H There exists a number a which is in T such that there is a prime factor of a
+          which does not divide at least one other number in T .
+
+
+
+
+8&/(6                                                                          >7XUQRYHU
+ 18     Consider the following problem:
+
+                                                     n                      10
+                                                1                 1
+               Solve the inequality                       <                        , where n is a positive integer.
+                                                4                 32
+
+        A student produces the following argument:
+                              n           10
+                               1         1
+                                    <
+                               4        32
+                                                                                                         (I)
+                                               n                             10
+                                        1                              1
+                            log 1                   < log 1
+                                2       4                     2       32
+                                                                                                         (II)
+                                                                         
+                                            1                                 1
+                            n log 1                 < 10 log 1
+                                    2       4                     2           32
+                                                                                                         (III)
+                                                                 1
+                                                      10 log 1 ( 32 )
+                                                                      2
+                                                n<
+                                                          log 1 ( 14 )
+                                                                  2
+
+                                                                                                         (IV)
+                                                      10 × 5
+                                                n<           = 25
+                                                         2
+                                                                                                         (V)
+                                                1 ⩽ n ⩽ 24
+
+
+        Which step (if any) in the argument is invalid?
+
+        A There are no invalid steps; the argument is correct
+
+        B Only step (I) is invalid; the rest are correct
+
+        C Only step (II) is invalid; the rest are correct
+
+        D Only step (III) is invalid; the rest are correct
+
+        E      Only step (IV) is invalid; the rest are correct
+
+        F      Only step (V) is invalid; the rest are correct
+
+
+
+
+8&/(6                                                              
+ 19     Which one of the following is a suﬃcient condition for the equation
+        x3 − 3x2 + a = 0, where a is a constant, to have exactly one real root?
+
+        A a>0
+
+        B a⩽0
+
+        C a⩾4
+
+        D a<4
+
+        E      |a| > 4
+
+        F      |a| ⩽ 4
+
+        G a = 94
+
+        H |a| = 32
+
+
+
+
+8&/(6                                                                    >7XUQRYHU
+ 20     I have forgotten my 5-character computer password, but I know that it consists of
+        the letters a, b, c, d, e in some order. When I enter a potential password into the
+        computer, it tells me exactly how many of the letters are in the correct position.
+
+        When I enter abcde, it tells me that none of the letters are in the correct position.
+        The same happens when I enter cdbea and eadbc.
+
+        Using the best strategy, how many further attempts must I make in order to
+        guarantee that I can deduce the correct password?
+
+        A None: I can deduce it immediately
+
+        B One
+
+        C Two
+
+        D Three
+
+        E      More than three
+
+
+
+
+                                            
+
+
+8&/(6                                    
+               BLANK PAGE
+
+
+
+
+8&/(6       
+               BLANK PAGE
+
+
+
+
+8&/(6       

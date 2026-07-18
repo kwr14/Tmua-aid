@@ -1,0 +1,703 @@
+               TEST OF MATHEMATICS FOR UNIVERSITY ADMISSION
+
+
+               PAPER 2                                                                              D513/02
+
+               2023                                                                             75 minutes
+*7773256226*
+
+
+
+
+               Additional materials: Answer sheet
+
+               INSTRUCTIONS TO CANDIDATES
+
+               Please read these instructions carefully, but do not open the question paper until
+               you are told that you may do so.
+
+               A separate answer sheet is provided for this paper. Please check you have one.
+               You also require a soft pencil and an eraser.
+
+               Please complete the answer sheet with your candidate number, centre number,
+               date of birth, and full name.
+
+               This paper is the second of two papers.
+
+               There are 20 questions on this paper. For each question, choose the one answer you consider
+               correct and record your choice on the separate answer sheet. If you make a mistake, erase
+               thoroughly and try again.
+
+               There are no penalties for incorrect responses, only marks for correct answers, so you should
+               attempt all 20 questions. Each question is worth one mark.
+
+               You can use the question paper for rough working or notes, but no extra paper is allowed.
+
+               You must complete the answer sheet within the time limit.
+
+               Calculators and dictionaries are NOT permitted.
+
+               There is no formulae booklet for this test.
+
+
+
+
+               Please wait to be told you may begin before turning this page.
+
+
+               © Cambridge University Press & Assessment 2023                                              PV3
+BLANK PAGE
+
+
+
+
+    2
+1   Given that
+
+                                1        1     3
+                                    −        =
+                               x −6     x +6   11
+
+    what is the value of x ?
+
+    A    2 15
+
+    B    4 5
+
+    C   5 2
+
+    D     58
+
+    E   50
+
+    F   58
+
+    G   60
+
+    H   80
+
+
+
+
+                                    3
+2   Evaluate
+
+               16           2       16          2
+                 ⎛ 1        ⎞        ⎛ 1        ⎞
+               ∫ ⎜
+               9 ⎝
+                    x
+                      +   x ⎟ dx − ⎜
+                            ⎠
+                                    ∫
+                                   9 ⎝
+                                        x
+                                          −   x ⎟ dx
+                                                ⎠
+
+    A   0
+
+    B   2
+
+    C   4
+
+    D   7
+
+    E   14
+
+    F   28
+
+    G   75
+
+    H   175
+
+
+
+
+                                4
+3   Consider the claim:
+
+             For all positive real numbers x and y,
+
+                                                      xy = x y
+
+    Which of the following is/are a counterexample to the claim?
+
+         I        x = 1, y = 16
+
+         II       x = 2, y = 8
+
+         III      x = 3, y = 4
+
+
+    A   none of them
+
+    B   I only
+
+    C   II only
+
+    D   III only
+
+    E   I and II only
+
+    F   I and III only
+
+    G   II and III only
+
+    H   I, II and III
+
+
+
+
+                                                  5
+4   A student attempts to answer the following question.
+
+             What is the largest number of consecutive odd integers that are all prime?
+
+    The student’s attempt is as follows:
+
+         I       There are two consecutive odd integers that are prime (for example: 17, 19).
+
+         II      Any three consecutive odd integers can be written in the form n – 2, n, n + 2 for
+                 some n.
+         III     If n is one more than a multiple of 3, then n + 2 is a multiple of 3.
+
+         IV      If n is two more than a multiple of 3, then n – 2 is a multiple of 3.
+
+         V       The only other possibility is that n is a multiple of 3.
+
+         VI      In each case, one of the integers is a multiple of 3, so not prime.
+
+         VII     Therefore the largest number of consecutive odd integers that are all prime is two.
+
+    Which of the following best describes this attempt?
+
+    A   It is completely correct.
+
+    B   It is incorrect, and the first error is on line I.
+
+    C   It is incorrect, and the first error is on line II.
+
+    D   It is incorrect, and the first error is on line III.
+
+    E   It is incorrect, and the first error is on line IV.
+
+    F   It is incorrect, and the first error is on line V.
+
+    G   It is incorrect, and the first error is on line VI.
+
+    H   It is incorrect, and the first error is on line VII.
+
+
+
+
+                                                      6
+5   Consider the two statements
+
+           R:   k is an integer multiple of π
+                  k
+           S:    ∫ sin 2 x dx = 0
+                  0
+
+
+    Which of the following statements is true?
+
+    A   R is necessary and sufficient for S.
+
+    B   R is necessary but not sufficient for S.
+
+    C   R is sufficient but not necessary for S.
+
+    D   R is not necessary and not sufficient for S.
+
+
+
+
+                                                 7
+6   Consider the following equation where a is a real number and a > 1:
+
+                                             (∗)   ax = x
+
+    Which of the following equations must have the same number of real solutions as (∗)?
+
+         I        loga x = x
+
+         II       a 2x = x 2
+
+         III      a 2x = 2x
+
+    A   none of them
+
+    B   I only
+
+    C   II only
+
+    D   III only
+
+    E   I and II only
+
+    F   I and III only
+
+    G   II and III only
+
+    H   I, II and III
+
+
+
+
+                                               8
+7   The graph of the line ax + by = c is drawn, where a, b and c are real non-zero constants.
+
+    Which one of the following is a necessary but not sufficient condition for the line to have a
+    positive gradient and a positive y-intercept?
+
+        c         a
+    A     > 0 and   <0
+        b         b
+        c         a
+    B     < 0 and   >0
+        b         b
+    C   a>b>c
+
+    D   a<b<c
+
+    E   a and c have opposite signs
+
+    F   a and c have the same sign
+
+
+
+
+                                                9
+8   A student draws a triangle that is acute-angled or obtuse-angled but not right-angled.
+
+    The student counts the number of straight lines that divide the triangle into two triangles, at
+    least one of which is right-angled.
+
+    Which of the following statements is/are true?
+
+          I       The student can draw a triangle for which there is exactly 1 such straight line.
+
+          II      The student can draw a triangle for which there are exactly 2 such straight lines.
+
+          III     The student can draw a triangle for which there are exactly 3 such straight lines.
+
+
+    A   none of them
+
+    B   I only
+
+    C   II only
+
+    D   III only
+
+    E   I and II only
+
+    F   I and III only
+
+    G   II and III only
+
+    H   I, II and III
+
+
+
+
+                                                   10
+9   Consider the following statement about a pentagon P:
+
+              (∗) If at least one of the interior angles in P is 108°, then all the interior angles in P
+                  form an arithmetic sequence.
+
+    Which of the following is/are true?
+
+          I       The statement (∗)
+
+          II      The contrapositive of (∗)
+
+          III     The converse of (∗)
+
+
+    A   none of them
+
+    B   I only
+
+    C   II only
+
+    D   III only
+
+    E   I and II only
+
+    F   I and III only
+
+    G   II and III only
+
+    H   I, II and III
+
+
+
+
+                                                     11
+                                                      4           2
+10   Here is an attempt to solve the inequality x – 2x – 3 < 0 by completing the square:
+
+
+                                 x 4 – 2x 2 – 3 < 0
+                                                  4        2
+                           I     if and only if x – 2x + 1 < 4
+
+                                                  2           2
+                           II    if and only if (x – 1) < 4
+
+                                                          2
+                           III   if and only if –2 < x – 1 < 2
+
+                                                  2
+                           IV    if and only if x – 1 < 2
+
+                                                  2
+                           V     if and only if x < 3
+
+                           VI    if and only if − 3 < x <             3
+
+
+     Which of the following statements is true?
+
+     A   The argument is completely correct.
+
+     B   The first error occurs in line I.
+
+     C   The first error occurs in line II.
+
+     D   The first error occurs in line III.
+
+     E   The first error occurs in line IV.
+
+     F   The first error occurs in line V.
+
+     G   The first error occurs in line VI.
+
+
+
+
+                                                      12
+11   In this question, k is a positive integer.
+
+     Consider the following theorem:
+                                     k
+                                 If 2 + 1 is a prime, then k is a power of 2.   (∗)
+
+     Which of the following statements, taken individually, is/are equivalent to (∗)?
+                                               k
+           I       If k is a power of 2, then 2 + 1 is prime.
+                    k
+           II      2 + 1 is not prime only if k is not a power of 2.
+                                                                            k
+           III     A sufficient condition for k to be a power of 2 is that 2 + 1 is prime.
+
+
+
+                  Statement I is             Statement II is            Statement III is
+                 equivalent to (∗)          equivalent to (∗)           equivalent to (∗)
+     A                  Yes                        Yes                          Yes
+
+     B                  Yes                        Yes                          No
+
+     C                  Yes                        No                           Yes
+
+     D                  Yes                        No                           No
+
+     E                  No                         Yes                          Yes
+
+     F                  No                         Yes                          No
+
+     G                  No                         No                           Yes
+
+     H                  No                         No                           No
+
+
+
+
+                                                     13
+12   In this question, p is a real constant.
+
+     The equation sin x cos 2 x = p 2 sin x has n distinct solutions in the range 0 ≤ x ≤ 2π
+
+     Which of the following statements is/are true?
+
+           I      n = 3 is sufficient for p > 1
+
+           II     n = 7 only if –1 < p < 1
+
+     A   none of them
+
+     B   I only
+
+     C   II only
+
+     D   I and II
+
+
+
+
+                                                   14
+13   Let x be a real number.
+
+     Which one of the following statements is a sufficient condition for exactly three of the other
+     four statements?
+
+     A   x≥0
+
+     B   x=1
+
+     C   x = 0 or x = 1
+
+     D   x ≥ 0 or x ≤ 1
+
+     E   x ≥ 0 and x ≤ 1
+
+
+
+
+                                                 15
+14   Three lines are given by the equations:
+
+                                                 ax + by + c = 0
+                                                 bx + cy + a = 0
+                                                 cx + ay + b = 0
+
+     where a, b and c are non-zero real numbers.
+
+     Which one of the following is correct?
+
+     A   If two of the lines are parallel, then all three are parallel.
+
+     B   If two of the lines are parallel, then the third is perpendicular to the other two.
+
+     C   If two of the lines are parallel, then the third is parallel to y = x.
+
+     D   If two of the lines are parallel, then the third is perpendicular to y = x.
+
+     E   If two of the lines are perpendicular, then all three meet at a point.
+
+     F   If two of the lines are perpendicular, then the third is parallel to y = x.
+
+     G   If two of the lines are perpendicular, then the third is perpendicular to y = x.
+
+
+
+
+                                                    16
+15   The base 10 number 0.03841 has the value
+
+                  0 × 10–1 + 3 × 10–2 + 8 × 10–3 + 4 × 10–4 + 1 × 10–5 = 0.03841
+
+
+     Similarly, the base 2 number 0.01101 has the value
+
+                                                                            13
+                        0 × 2–1 + 1 × 2–2 + 1 × 2–3 + 0 × 2–4 + 1 × 2–5 =
+                                                                            32
+
+                                                          .   .
+     What is the value of the recurring base 2 number 0. 0011 = 0.001100110011 … ?
+
+         1
+     A
+         3
+         1
+     B
+         5
+          1
+     C
+         15
+          2
+     D
+         15
+          4
+     E
+         15
+          3
+     F
+         16
+          5
+     G
+         16
+         6
+     H
+         31
+
+
+
+
+                                               17
+16   A sequence is defined by:
+
+                                                        u1 = a
+                                                        u2 = b
+                                                      un+2 = un + un+1 for n ≥ 1
+
+     where a and b are positive integers. The highest common factor of a and b is 7.
+
+     Which of the following statements must be true?
+
+          I        u2023 is a multiple of 7
+
+          II       If u1 is not a factor of u2, then u1 is not a factor of un for any n > 1
+
+          III      The highest common factor of u1 and u5 is 7
+
+
+     A   none of them
+
+     B   I only
+
+     C   II only
+
+     D   III only
+
+     E   I and II only
+
+     F   I and III only
+
+     G   II and III only
+
+     H   I, II and III
+
+
+
+
+                                                       18
+17   The ceiling of x, written ⌈ x ⌉, is defined to be the value of x rounded up to the nearest integer.
+
+     For example: ⌈ π ⌉ = 4,     ⌈ 2.1 ⌉ = 3,   ⌈8 ⌉ = 8
+
+     What is the value of the following integral?
+
+                                                    99
+                                                    ∫ 2 dx
+                                                           ⎡⎢ x ⎤⎥
+                                                    0
+
+
+     A   299
+
+     B   299 – 1
+
+     C   299 – 2
+
+     D   2100
+
+     E   2100 – 1
+
+     F   2100 – 2
+
+
+
+
+                                                    19
+18   The equation x 4 + bx 2 + c = 0 has four distinct real roots if and only if which of the following
+     conditions is satisfied?
+
+     A   b 2 > 4c
+
+     B   b 2 < 4c
+
+     C   c > 0 and b > 2 c
+
+     D   c > 0 and b < −2 c
+
+     E   c < 0 and b < 0
+
+     F   c < 0 and b > 0
+
+
+
+
+                                                  20
+19   In this question, f (x) is a non-constant polynomial, and g(x) = x f ′(x)
+
+     f (x) = 0 for exactly M real values of x.
+
+     g(x) = 0 for exactly N real values of x.
+
+     Which of the following statements is/are true?
+
+           I       It is possible that M < N
+
+           II      It is possible that M = N
+
+           III     It is possible that M > N
+
+
+     A   none of them
+
+     B   I only
+
+     C   II only
+
+     D   III only
+
+     E   I and II only
+
+     F   I and III only
+
+     G   II and III only
+
+     H   I, II and III
+
+
+
+
+                                                   21
+20   Let f be a polynomial with real coefficients.
+
+     The integral Ip,q where p < q is defined by
+
+                                                  q
+
+                                         Ip,q = ∫ ( f ( x )) − ( f ( | x| ) ) dx
+                                                            2              2
+
+                                                  p
+
+
+     Which of the following statements must be true?
+
+           1   Ip,q = 0 only if 0 < p
+
+           2   f ′(x) < 0 for all x only if Ip,q < 0 for all p < q < 0
+
+           3   Ip,q > 0 only if p < 0
+
+     A   none of them
+
+     B   1 only
+
+     C   2 only
+
+     D   3 only
+
+     E   1 and 2 only
+
+     F   1 and 3 only
+
+     G   2 and 3 only
+
+     H   1, 2 and 3
+
+
+
+
+                                                       22
+BLANK PAGE
+
+
+
+
+    23
+BLANK PAGE
+
+
+
+
+    24

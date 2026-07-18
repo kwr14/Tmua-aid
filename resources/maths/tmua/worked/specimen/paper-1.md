@@ -1,0 +1,205 @@
+# TMUA Specimen Paper 1 Worked Notes
+
+Sources:
+- Paper PDF: <https://cdn.prod.website-files.com/647b5b55f3f42fc50b2f6e4e/647b5b55f3f42fc50b2f7119_TMUA%20Specimen%20Paper%201.pdf>
+- Official worked solutions PDF: <https://cdn.prod.website-files.com/647b5b55f3f42fc50b2f6e4e/647b5b55f3f42fc50b2f711a_TMUA%20Specimen%20Paper%201%20Official%20Solutions.pdf>
+- Answer key PDF: <https://cdn.prod.website-files.com/647b5b55f3f42fc50b2f6e4e/647b5b55f3f42fc50b2f711b_TMUA%20Specimen%20Paper%20Answer%20Key.pdf>
+
+## Notes
+- These notes are generated from the official worked solutions and cleaned into markdown.
+- Each section keeps the official answer option and a cleaned version of the official reasoning.
+
+## Q1
+Answer: `D`
+
+Work:
+- We can rearrange the first equation to
+- x = 3y - 1.
+- Substituting this into the second equation gives
+- 3(3y - 1)2 - 7(3y - 1)y = 5
+- which expands to 27y 2 - 18y + 3 - 21y 2 + 7y = 5 so 6y 2 - 11y - 2 = 0.
+- We can either factorise this as (y - 2)(6y + 1) = 0, giving y = 2 or y = - 16 or use the quadratic formula to obtain p 11 + 112 - 4 × 6 × (-2) 11 ± 13 y= = 12 12 giving y = 2 or y = - 61 again. These give x = 5 or x = - 32 , so the sum is 3.5, and the answer is D. Alternatively, we could have rearranged the first equation to get x+1 y= and then substitute this into the second equation. This has the advantage that we obtain the values of x directly, but the disadvantage that there are fractions involved throughout.
+
+## Q2
+Answer: `D`
+
+Work:
+- We rewrite sin2 θ as 1 - cos2 θ to give
+- 1 - cos2 θ + 3 cos θ = 3.
+- This is now a quadratic in u = cos θ, giving
+- 1 - u2 + 3u = 3
+- or u2 - 3u + 2 = 0. This factorises as (u - 1)(u - 2) = 0, so u = 1 or u = 2, that is, cos θ = 1 or cos θ = 2. cos θ = 2 has no real solutions. The solutions of cos θ = 1 in the given range are θ = 0, θ = 2pi, θ = 4pi. So there are three solutions, and the answer is option D.
+
+## Q3
+Answer: `B`
+
+Work:
+- We find the equation of the perpendicular bisector first, and then find the x-coordinate of this line when y = 0. The midpoint of the line segment joining (2, -6) and (5, 4) is ( 27 , -1), and the gradient of this line segment is 4-(-6) 10 5-2 = 3 .
+- Therefore the perpendicular bisector passes through ( 27 , -1) and has gradient - 10 . Its equation is therefore x - 72 .  y - (-1) = - 10
+- We could expand and simplify this equation, but that is not necessary for our purposes. Instead, we substitute y = 0 to obtain x - 27  1 = - 10 giving x - 72 = - 10
+- so x = 27 - 10 21 20 1 3 = 6 - 6 = 6 showing that the correct answer is option B.
+
+## Q4
+Answer: `E`
+
+Work:
+- We can factorise the given inequality to give (x + 1)(x - 1)(x - 2) > 0. The function f(x) = (x + 1)(x - 1)(x - 2) is zero when x = -1, x = 1 and x = 2. We can now make a table showing the signs of the three factors for different values of x. (This is a useful technique in general.)
+- x < -1 x = -1 -1 < x < 1 x=1 1<x<2 x=2 x>2 x+1 - 0 + + + + + x-1 - - - 0 + + + x-2 - - - - - 0 + f(x) - 0 + 0 - 0 +
+- Therefore f(x) is positive when -1 < x < 1 and when x > 2, so the answer is E.
+
+## Q5
+Answer: `D`
+
+Work:
+- y = - log10 (1 - x) ⇐⇒ -y = log10 (1 - x) negate -y ⇐⇒ 10 =1-x exponentiate to base 10 -y ⇐⇒ x + 10 =1 add x -y ⇐⇒ x = 1 - 10 subtract 10-y
+- so the answer is D.
+
+## Q6
+Answer: `D`
+
+Work:
+- Since x + 2 is a factor, substituting x = -2 into the polynomial must yield zero by the factor theorem: (-2)3 + 4c(-2)2 + (-2)(c + 1)2 - 6 = 0. Simplifying gives -8 + 16c - 2(c2 + 2c + 1) - 6 = 0 so -2c2 + 12c - 16 = 0. Dividing by -2 now gives c2 - 6c + 8 = 0 so (c - 2)(c - 4) = 0 and the roots are c = 2 and c = 4, with a sum of 6. Hence the answer is D. We could also find the sum of the roots directly from the quadratic c2 -6c+8 = 0 without solving it: if the roots are c = p and c = q, then the quadratic can be written as (c - p)(c - q) = 0, which expands to c2 - (p + q)c + pq = 0. So the sum of the roots is the negative of the c coefficient, which is 6, and the product of the roots is the constant, which is 7.
+
+## Q7
+Answer: `C`
+
+Work:
+- We could do this using a tree diagram, but it would have 3 × 3 branches, which is somewhat unwieldly in a short test. Here are two alternative approaches.
+- Approach 1: use symmetry The first ball can be anything; it does not matter what. We are left with n - 1 balls of the same colour and 2n balls of different colours; there are 3n - 1 balls left in total. (This is because there are equal numbers of each colour to begin with. Were there different numbers of different colours, we would have to treat each colour separately.) 2n So the probability that the two balls are not the same colour is , which is option C. 3n - 1 Approach 2: use negation The probability that the two balls not the same colour is 1 minus the probability that they are the same colour. This gives   n n-1 n n-1 n n-1 1- × + × + × 3n 3n - 1 3n 3n - 1 3n 3n - 1
+- where we have added the three colours separately. This simplifies to n-1 2n 1- = . 3n - 1 3n - 1 We could have simplified the calculation in the same way as in approach 1: the probability that n-1 the second ball is the same colour as the first is , so the probability that they are different 3n - 1 colours is 1 minus this.
+
+## Q8
+Answer: `F`
+
+Work:
+- The options all involve logarithm to base 10, so we start by taking logarithms of the given equation. This gives log10 (ax b2x c3x = log10 2 so log10 (ax ) + log10 (b2x ) + log10 (c3x ) = log10 2. We now use the index rule for logarithms to give
+- x log10 a + 2x log10 b + 3x log10 c = log10 2
+- which factorises to x(log10 a + 2 log10 b + 3 log10 c) = log10 2 and hence log10 2 x= . log10 a + 2 log10 b + 3 log10 c This, though, is not one of the offered options; we now have to apply the logarithm rules in reverse to give log10 2 x= log10 a + log10 (b2 ) + log10 (c3 ) which simplifies further to log10 2 x= log10 (ab2 c3 ) and so the answer is F.
+
+## Q9
+Answer: `A`
+
+Work:
+- The roots of the equation, using the quadratic formula, are 11 ± 112 - 8c x= and these differ by sqrt 2 112 - 8c x= =2 so we require 112 - 8c = 4, or 121 - 8c = 16. Thus 8c = 105, so c = 105 8 and the answer is A.
+
+## Q10
+Answer: `D`
+
+Work:
+- When the graph is reflected in the line y = 1, we obtain the following:
+- y
+- x -2pi -pi 0 pi 2pi
+- We can find the equation of the reflected curve in a variety of ways. One is to observe that the reflection is centred about y = 2, as the values go from y = 1 to y = 3. The cosine curve is ‘upside-down’, so the equation must be y = -(cos x) + 2 = 2 - cos x. Another way to see this is as follows. The refletion of y = f(x) in the x-axis (y = 0) is y = -f(x). When the line of reflection is translated, the whole reflection is translated. Since y = 0 is transformed to y = 2, the reflection of the function must be translated to give y = 2 - f(x). The result is then translated by pi4 in the positive x-direction, so that x is replaced by x - pi4 . (We can see this because the new x = pi4 corresponds to the old x = 0.) Therefore, the equation of the resulting graph is  pi y = 2 - cos x - . Thus the correct answer is option D.
+
+## Q11
+Answer: `E`
+
+Work:
+- Writing y = 2x , the equation becomes y 2 -8y +15 = 0, which factorises to give (y -3)(y -5) = 0. Thus y = 3 or y = 5, so 2x = 3 or 2x = 5. The given options all use logarithms to base 10, so we will take logarithms of these two equations log10 3 to base 10. The first gives x log10 2 = log10 3, so x = . Likewise, the second equation log10 2 log10 5 gives x = . Finally, we can add these to obtain log10 2
+- log10 3 log10 15 log10 (3 × 5 log10 15 + = = log10 2 log10 2 log10 2 log10 2
+- and the answer is option E. An alternative is to take logarithms to base 2, giving the roots as log2 3 and log2 5. These sum to log2 15. Unfortunately, this is not one of the options offered, as they are all given using logarithms to base 10. If you know the change of base rule for logarithms, though, which states logc b that loga b = , you can put c = 10 to obtain the correct option. logc a
+
+## Q12
+Answer: `D`
+
+Work:
+- The volume of the prism is the length times the cross-sectional area, so we need to work out the area of the equilateral triangle:
+- C
+- 2x 2x
+- A x M B
+- We could use trigonometry and the formula for the area of a triangle, area = 12 ab sin C; this gives the area as 12 (2x)(2x) sin 60◦ = x2 3. 2 2 Alternatively, we could 2 2 sqrtfind the length CM using Pythagoras’s sqrt CM = (2x) - theorem, giving x = 3x , so CM = x 3. Thus the area of the triangle is 2 AB × CM = x 3. Thus the volume of the prism is T = x2 d 3. The total surface area of the prism is twice the area of the triangle, plus the area of the three rectangular faces, so sqrt sqrt T = 2x2 3 + 3(2xd) = 2x2 3 + 6xd.
+- These expressions for T are equal, so sqrt sqrt x2 d 3 = 2x2 3 + 6xd.
+- Collecting the d terms to the left hand side gives sqrt sqrt x2 d 3 - 6xd = 2x2 3
+- so sqrt sqrt d(x2 3 - 6x) = 2x2 3 hence sqrt sqrt 2x2 3 2x 3 d= sqrt = sqrt . x2 3 - 6x x 3-6 If we now divide the numerator and denominator by 3, we obtain 2x d= sqrt , x-2 3 which is option D.
+
+## Q13
+Answer: `C`
+
+Work:
+- We can determine the answer to this question by locating the stationary points of the function f(x) = x4 - 4x3 + 4x2 - 10. We have
+- f 0 (x) = 4x3 - 12x2 + 8x = 4x(x2 - 3x + 2) = 4x(x - 1)(x - 2).
+- There are therefore stationary points at x = 0, x = 1 and x = 2. Substituting these values into f(x) gives us the y-coordinates of these points on the graph of y = f(x): they are (0, -10), (1, -9) and (2, -10). Since f(x) tends to +infinity as x tends to +infinity or -infinity, the graph looks roughly like this:
+- y
+- x 0 1 2
+- There are thus only two real solutions to f(x) = 0, and the answer is option C.
+
+## Q14
+Answer: `D`
+
+Work:
+- If the graph is a straight line, then we must have
+- (log y) = m(log x) + c
+- for some m and c; this is just the usual straight-line equation with x and y replaced by log x and log y. This can be written as log y = log(xm ) + c. If we now write c = log C for some C, then this becomes
+- log y = log xm + log C = log(Cxm ).
+- Exponentiating both sides gives y = Cxm which is in the form of option D. An alternative to writing c = log C is just to exponentiate the equation log y = log(xm ) + c. If we suppose that the base of the logarithms is k, then this gives
+- y = xm k c
+- (using k u+v = k u k v and k log u = u for any u and v). Since k c is a constant, this equation can be rewritten as y = axm where a = k c , and we again obtain option D.
+
+## Q15
+Answer: `A`
+
+Work:
+- We start by evaluating the integral to obtain Z 1 Z 1 (x - a)2 dx = x2 - 2ax + a2 dx 0 0 1 = 3 x - ax2 + a2 x 0 1 3
+- = 31 - a + a2
+- We can now complete the square on this final expression to obtain
+- (a - 12 )2 - ( 21 )2 + 13 = (a - 12 )2 + 12
+- and so the smallest possible value is 12 , which is option A. We could alternatively have used calculus to find the stationary point of 13 - a + a2 (by differentiating with respect to a), and then noting that this is a local minimum, and that the function is greater than this at all other points.
+
+## Q16
+Answer: `E`
+
+Work:
+- We begin by simplifying this expression; we write each term as a product of prime powers to obtain: 10c-2d × 202c+d (2 × 5)c-2d × (22 × 5)2c+d = 8c × 125c+d (23 )c × (53 )c+d 2c-2d+2(2c+d) × 5c-2d+(2c+d) = 23c × 53(c+d) 25c) × 53c-d = 3c 2 × 53c+3d = 22c × 5-4d
+- For this to be an integer, we require 2c and -4d to be non-negative integers. Since c and d are non-zero integers, we need c > 0 and d < 0, which is option E. (In fact, this is an “if and only if” condition; options C, D and F would make the expression non-integer, as would A and G; while conditions B and H are necessary, they are not sufficient: if d < 0, it is still possible that c < 0, so it is not true that the given expression is (necessarily) an integer if d < 0.)
+
+## Q17
+Answer: `D`
+
+Work:
+- The quadratic equation can be written as ax2 + (a - 2)x - 2 = 0, which has discriminant
+- (a - 2)2 - 4a(-2) = a2 - 4a + 4 + 8a = a2 + 4a + 4 = (a + 2)2 .
+- The quadratic has real distinct roots when the disciminant is positive, so when (a + 2)2 > 0. Now (a + 2)2 = 0 when a = -2, and (a + 2)2 ⩾ 0 for all values of a, so (a + 2)2 > 0 when a 6= -2, which is option D.
+
+## Q18
+Answer: `B`
+
+Work:
+- We first consider each of the inequalities separately. A sketch of the graph of y = tan x for 0 ⩽ x ⩽ pi is as follows:
+- y
+- x pi 0 2 pi
+- Noting that tan pi 3pi 4 = 1 and tan 4 = -1, we see from the sketch that -1 ⩽ tan x ⩽ 1 when pi 3pi 0 ⩽ x ⩽ 4 and when 4 ⩽ x ⩽ pi. Next, we sketch the graph of y = sin 2x over the same interval:
+- y
+- x pi 0 2 pi
+- Noting that sin pi6 = sin 5pi pi 5pi 6 = 0.5, we see from the sketch that sin 2x ⩾ 0.5 when 6 ⩽ 2x ⩽ 6 , pi that is, when 12 ⩽ x ⩽ 5pi 12 . Now comparing the intervals for the tangent and sine inequalities, we note that they are both pi satisfied when 12 ⩽ x ⩽ pi4 , and the length of this interval is pi4 - 12 pi = pi6 , so the answer is B.
+
+## Q19
+Answer: `D`
+
+Work:
+- The first four terms are 4, 4r, 4r2 and 4r3 . We are also given that 4, 4r and 4r3 are three successive terms of an arithmetic series. We thus have
+- 4r = 4 + d 4r3 = 4 + 2d
+- where d is the common difference of this arithmetic series. Therefore d = 4(r - 1) from the first equation, and d = 4r(r2 - 1) on subtracting the two equations. Equating these expressions for d gives
+- 4(r - 1) = 4r(r2 - 1)
+- so r - 1 = r(r - 1)(r + 1) on factorising and dividing by 4. Since 0 < r < 1, we can divide by r - 1 to obtain 1 = r(r + 1), so r2 + r - 1 = 0. The solutions to this quadratic are sqrt sqrt -1 ± 12 + 4 -1 ± 5 r= = . 2 2 Since r > 0, we have r = -1+2 5 , and so the sum to infinity (given by the standard formula a Sinfinity = 1-r ) is
+- 4 8 sqrt = sqrt 1 - -1+2 5 2 - (-1 + 5) = sqrt 35 8(3 + 5) = 9-5 = 2(3 + 5)
+- and the answer is D.
+
+## Q20
+Answer: `G`
+
+Work:
+- We expand each of the terms up to the term in x2 using the binomial theorem:
+- (1 + 2x + 3x2 )6 = 1 + 6(2x + 3x2 ) + 15(2x + 3x2 )2 + · · · = 1 + 12x + 18x2 + 15(4x2 + · · · ) + · · · = 1 + 12x + 78x2 + · · · (1 + 4x3 )5 = 1 + 5(4x3 ) + · · · = 1 + · · ·
+- so the whole expression is
+- (4 - x2 )[(1 + 2x + 3x2 )6 - (1 + 4x3 )5 ] = (4 - x2 )[(1 + 12x + 78x2 + · · · ) - (1 + · · · )] = (4 - x2 )(12x + 78x2 + · · · ) = 4(12x + 78x2 + · · · ) - · · · = 48x + 312x2 + · · ·
+- so the coefficient of x2 is 312, and the answer is G.
+- This document was initially designed for print and as such does not reach accessibility standard WCAG 2.1 in a number of ways, including missing text alternatives and missing document structure.
+- If you need this document in a different format, please email admissionstesting@cambridgeassessment.org.uk telling us your name, email address and requirements and we will respond within 15 working days.
+- We are Cambridge Assessment Admissions Testing, part of the University of Cambridge. Our research-based tests provide a fair measure of skills and aptitude to help you make informed decisions. As a trusted partner, we work closely with universities, governments and employers to enhance their selection processes.
+- Cambridge Assessment Admissions Testing The Triangle Building Shaftesbury Road Cambridge CB2 8EA United Kingdom
+- Admissions tests support:
+- admissionstesting.org/help
+
+## Answer Summary
+
+`1D 2D 3B 4E 5D 6D 7C 8F 9A 10D 11E 12D 13C 14D 15A 16E 17D 18B 19D 20G`

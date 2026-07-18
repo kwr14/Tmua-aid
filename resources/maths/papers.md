@@ -1,5 +1,9 @@
 # TMUA Past Papers
 
+Generated library:
+- Index: [TMUA Library](file:///Users/kwr14/play/Tmua-aid/resources/maths/tmua/README.md)
+- Worked notes live under `resources/maths/tmua/worked/`
+
 | Year | Paper 1 | Paper 2 |
 |------|---------|---------|
 | 2023 | [Paper 1](https://cdn.prod.website-files.com/647b5b55f3f42fc50b2f6e4e/668c6afd1e79596c970656ec_TMUA%202023%20Paper%201.pdf) | [Paper 2](https://cdn.prod.website-files.com/647b5b55f3f42fc50b2f6e4e/668c6a12302c396d625aef96_TMUA%202023%20Paper%202.pdf) |
