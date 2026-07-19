@@ -67,10 +67,44 @@ function getRouteParams() {
   return params;
 }
 
+function getCurrentRoute() {
+  const page = document.body.dataset.page;
+  if (page === "home") {
+    return "index.html";
+  }
+  if (page === "library") {
+    const params = getRouteParams();
+    const filter = params.get("filter");
+    return filter ? `library.html?filter=${encodeURIComponent(filter)}` : "library.html";
+  }
+  if (page === "question-map") {
+    return "question-map.html";
+  }
+  if (page === "papers") {
+    return "papers.html";
+  }
+  if (page === "reader") {
+    const params = getRouteParams();
+    const note = params.get("note") || "conceptual-refresh";
+    return `reader.html?note=${encodeURIComponent(note)}`;
+  }
+  return "index.html";
+}
+
+function resolveCurrentHashHref(hash) {
+  const cleanHash = hash.startsWith("#") ? hash : `#${hash}`;
+  return `${resolveSiteHref(getCurrentRoute())}${cleanHash}`;
+}
+
 function rewriteStaticSiteLinks() {
   $all("a[href]").forEach((link) => {
     const href = link.getAttribute("href");
-    if (!href || href.startsWith("#") || href.startsWith("http://") || href.startsWith("https://") || href.startsWith("mailto:")) {
+    if (!href || href.startsWith("http://") || href.startsWith("https://") || href.startsWith("mailto:")) {
+      return;
+    }
+
+    if (href.startsWith("#")) {
+      link.href = resolveCurrentHashHref(href);
       return;
     }
 
@@ -86,7 +120,7 @@ function rewriteStaticSiteLinks() {
 }
 
 function setActiveNav() {
-  const page = document.body.dataset.page;
+  const page = document.body.dataset.page === "reader" ? "library" : document.body.dataset.page;
   $all(".nav-links a").forEach((link) => {
     if (link.dataset.page === page) {
       link.classList.add("is-active");
@@ -317,7 +351,7 @@ function renderReader() {
   toc.innerHTML = sections
     .map((section) => {
       const label = $("h2", section)?.textContent || section.id;
-      return `<a href="#${section.id}">${label}</a>`;
+      return `<a href="${resolveCurrentHashHref(section.id)}">${label}</a>`;
     })
     .join("");
 
@@ -513,7 +547,6 @@ function renderTimetablePreview() {
 function init() {
   renderTopbar();
   renderFooter();
-  setActiveNav();
   renderHome();
   renderLibrary();
   renderReader();
@@ -521,6 +554,7 @@ function init() {
   renderPapers();
   renderTimetablePreview();
   rewriteStaticSiteLinks();
+  setActiveNav();
 }
 
 document.addEventListener("DOMContentLoaded", init);
